@@ -1,0 +1,332 @@
+USER_EMAIL = N/A
+USER_COMMENT = 
+DEVICE_FEATURES = android.hardware.wifi
+android.hardware.location.network
+android.hardware.nfc
+com.sec.android.mdm
+android.hardware.bluetooth_le
+android.hardware.location
+android.software.input_methods
+android.hardware.sensor.gyroscope
+android.hardware.screen.landscape
+android.hardware.screen.portrait
+android.hardware.wifi.direct
+android.hardware.usb.accessory
+android.hardware.camera.any
+android.hardware.bluetooth
+android.hardware.touchscreen.multitouch.distinct
+android.hardware.microphone
+android.hardware.sensor.light
+android.hardware.camera.autofocus
+com.sec.feature.cover.sview
+android.software.live_wallpaper
+android.software.app_widgets
+android.hardware.camera.flash
+com.sec.feature.cover.sviewcover
+android.hardware.telephony
+android.software.sip
+android.hardware.touchscreen.multitouch.jazzhand
+android.hardware.usb.host
+android.hardware.touchscreen.multitouch
+com.sec.feature.cover.flip
+android.hardware.sensor.compass
+android.hardware.faketouch
+android.hardware.camera
+com.sec.feature.minimode
+android.software.home_screen
+android.software.sip.voip
+android.hardware.sensor.proximity
+android.hardware.location.gps
+android.hardware.consumerir
+android.hardware.telephony.gsm
+android.software.device_admin
+android.hardware.nfc.hce
+android.hardware.camera.front
+android.hardware.touchscreen
+android.hardware.sensor.accelerometer
+glEsVersion = 3.0
+
+PHONE_MODEL = GT-I9195
+INSTALLATION_ID = b7e43603-90ba-40ba-8d28-807b37c3c198
+SHARED_PREFERENCES = default.acra.lastVersionNr=1
+default.acra.legacyAlreadyConvertedTo4.8.0=true
+
+
+IS_SILENT = 
+PACKAGE_NAME = com.agile.science
+ANDROID_VERSION = 4.4.2
+APP_VERSION_CODE = 1
+CRASH_CONFIGURATION = FlipFont=0
+arrange=0
+compatScreenHeightDp=545
+compatScreenWidthDp=320
+compatSmallestScreenWidthDp=320
+densityDpi=240
+fontScale=1.3
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_YES
+keyboard=KEYBOARD_NOKEYS
+keyboardHidden=KEYBOARDHIDDEN_NO
+locale=it_IT
+mcc=222
+mnc=1
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=614
+screenLayout=SCREENLAYOUT_SIZE_NORMAL+SCREENLAYOUT_LONG_YES+SCREENLAYOUT_LAYOUTDIR_LTR
+screenWidthDp=360
+seq=6
+smallestScreenWidthDp=360
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=true
+
+USER_CRASH_DATE = 2016-09-22T17:29:44.730+02:00
+BUILD = BOARD=MSM8960
+BOOTLOADER=I9195XXUCOI4
+BRAND=samsung
+CPU_ABI=armeabi-v7a
+CPU_ABI2=armeabi
+DEVICE=serranolte
+DISPLAY=KOT49H.I9195XXUCOI4
+FINGERPRINT=samsung/serranoltexx/serranolte:4.4.2/KOT49H/I9195XXUCOI4:user/release-keys
+HARDWARE=qcom
+HOST=SWHD7520
+ID=KOT49H
+IS_DEBUGGABLE=false
+IS_ENG_SECURED=false
+IS_SYSTEM_SECURE=false
+MANUFACTURER=samsung
+MODEL=GT-I9195
+PRODUCT=serranoltexx
+RADIO=unknown
+SERIAL=0adbc9ec
+TAGS=release-keys
+TIME=1442989861000
+TYPE=user
+UNKNOWN=unknown
+USER=dpi
+VERSION.CODENAME=REL
+VERSION.INCREMENTAL=I9195XXUCOI4
+VERSION.RELEASE=4.4.2
+VERSION.RESOURCES_SDK_INT=19
+VERSION.SDK=19
+VERSION.SDK_INT=19
+
+DUMPSYS_MEMINFO = Permission Denial: can't dump meminfo from from pid=26143, uid=10225 without permission android.permission.DUMP
+BUILD_CONFIG = APPLICATION_ID=com.agile.science
+BUILD_TYPE=debug
+DEBUG=true
+FLAVOR=
+VERSION_CODE=1
+VERSION_NAME=2.0.0
+
+STACK_TRACE = java.lang.NullPointerException
+	at android.app.BackStackRecord.run(BackStackRecord.java:653)
+	at android.app.FragmentManagerImpl.execPendingActions(FragmentManager.java:1453)
+	at android.app.FragmentManagerImpl$1.run(FragmentManager.java:443)
+	at android.os.Handler.handleCallback(Handler.java:733)
+	at android.os.Handler.dispatchMessage(Handler.java:95)
+	at android.os.Looper.loop(Looper.java:146)
+	at android.app.ActivityThread.main(ActivityThread.java:5593)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:515)
+	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1283)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+	at dalvik.system.NativeStart.main(Native Method)
+
+PRODUCT = serranoltexx
+DISPLAY = 0.currentSizeRange.smallest=[540,502]
+0.currentSizeRange.largest=[960,922]
+0.flags=FLAG_SUPPORTS_PROTECTED_BUFFERS+FLAG_SECURE
+0.height=960
+0.metrics.density=1.5
+0.metrics.densityDpi=240
+0.metrics.scaledDensity=x1.5
+0.metrics.widthPixels=540
+0.metrics.heightPixels=960
+0.metrics.xdpi=249.381
+0.metrics.ydpi=256.673
+0.name=Schermo incorporato
+0.orientation=0
+0.pixelFormat=1
+0.realMetrics.density=1.5
+0.realMetrics.densityDpi=240
+0.realMetrics.scaledDensity=x1.5
+0.realMetrics.widthPixels=540
+0.realMetrics.heightPixels=960
+0.realMetrics.xdpi=249.381
+0.realMetrics.ydpi=256.673
+0.realSize=[540,960]
+0.rectSize=[0,0,540,960]
+0.refreshRate=60.0
+0.rotation=ROTATION_0
+0.size=[540,960]
+0.width=540
+0.isValid=true
+
+APP_VERSION_NAME = 2.0.0
+LOGCAT = --------- beginning of /dev/log/system
+--------- beginning of /dev/log/main
+09-22 17:29:42.293 I/dalvikvm(25084): DexOpt: unable to optimize static field ref 0x0398 at 0x0d in Lcom/google/android/chimera/container/FileApkUtils;.is64BitRuntime
+09-22 17:29:42.303 D/ChimeraFileApk(25084): Primary ABI of requesting process is armeabi-v7a
+09-22 17:29:42.303 D/ChimeraFileApk(25084): Classloading successful. Optimized code found.
+09-22 17:29:42.333 I/Google Maps Android API(25084): Google Play services client version: 9452000
+09-22 17:29:42.343 I/Google Maps Android API(25084): Google Play services package version: 9452034
+09-22 17:29:42.363 I/dalvikvm(25084): Could not find method android.app.Notification$Builder.setLocalOnly, referenced from method kn.a
+09-22 17:29:42.363 W/dalvikvm(25084): VFY: unable to resolve virtual method 1407: Landroid/app/Notification$Builder;.setLocalOnly (Z)Landroid/app/Notification$Builder;
+09-22 17:29:42.363 D/dalvikvm(25084): VFY: replacing opcode 0x6e at 0x00d5
+09-22 17:29:42.363 I/dalvikvm(25084): Could not find method android.content.pm.PackageManager.getPackageInstaller, referenced from method ko.a
+09-22 17:29:42.363 W/dalvikvm(25084): VFY: unable to resolve virtual method 1526: Landroid/content/pm/PackageManager;.getPackageInstaller ()Landroid/content/pm/PackageInstaller;
+09-22 17:29:42.363 D/dalvikvm(25084): VFY: replacing opcode 0x6e at 0x001e
+09-22 17:29:42.554 I/c       (25084): Token loaded from file. Expires in: 422578777 ms.
+09-22 17:29:42.554 I/c       (25084): Scheduling next attempt in 422278 seconds.
+09-22 17:29:42.614 D/AbsListView(25084): Get MotionRecognitionManager
+09-22 17:29:42.744 I/Choreographer(25084): Skipped 37 frames!  The application may be doing too much work on its main thread.
+09-22 17:29:42.744 I/dalvikvm(25084): Could not find method android.os.PowerManager.isInteractive, referenced from method maps.y.t.a
+09-22 17:29:42.744 W/dalvikvm(25084): VFY: unable to resolve virtual method 1832: Landroid/os/PowerManager;.isInteractive ()Z
+09-22 17:29:42.744 D/dalvikvm(25084): VFY: replacing opcode 0x6e at 0x0047
+09-22 17:29:42.754 W/ActivityThread(25084): ClassLoader.loadClass: The class loader returned by Thread.getContextClassLoader() may fail for processes that host multiple applications. You should explicitly specify a context class loader. For example: Thread.setContextClassLoader(getClass().getClassLoader());
+09-22 17:29:42.764 I/map     (25084): onready
+09-22 17:29:42.774 I/System.out(25084): mEpoch: 15089.38033201
+09-22 17:29:42.774 I/System.out(25084): mXincl: 2.4678
+09-22 17:29:42.774 I/System.out(25084): mXnode0: 273.8747
+09-22 17:29:42.774 I/System.out(25084): mE0: 14703.0
+09-22 17:29:42.774 I/System.out(25084): mOmega0: 37.0641
+09-22 17:29:42.774 I/System.out(25084): mXm0: 323.0427
+09-22 17:29:42.774 I/System.out(25084): mXn0: 15.24045959439669
+09-22 17:29:42.774 I/System.out(25084): rteosq: 0.9999989191083708
+09-22 17:29:42.784 I/System.out(25084): xn0: 0.06640631984165325
+09-22 17:29:42.784 I/System.out(25084): mGmst: -0.6220163455375955
+09-22 17:29:42.784 I/System.out(25084): tsince: 1.3386646068566401E8
+09-22 17:29:42.784 I/System.out(25084): mXlcof: 1.0096211106796974E-4
+09-22 17:29:42.784 I/System.out(25084): mAycof: 5.048691108486875E-5
+09-22 17:29:42.784 I/System.out(25084): mins: 780862.0219055997
+09-22 17:29:42.784 I/position(25084): -0.48160019369269685  17.912907697202172
+09-22 17:29:42.864 W/Google Maps Android API(25084): GLHudOverlay deprecated; getDrawOrder(): no-op, return DrawOrder.HEADS_UP_DISPLAY
+09-22 17:29:42.864 W/Google Maps Android API(25084): GLHudOverlay deprecated; getDrawOrder(): no-op, return DrawOrder.HEADS_UP_DISPLAY
+09-22 17:29:42.864 W/Google Maps Android API(25084): GLHudOverlay deprecated; getDrawOrder(): no-op, return DrawOrder.HEADS_UP_DISPLAY
+09-22 17:29:42.874 W/Google Maps Android API(25084): GLHudOverlay deprecated; getDrawOrder(): no-op, return DrawOrder.HEADS_UP_DISPLAY
+09-22 17:29:42.874 W/Google Maps Android API(25084): GLHudOverlay deprecated; getDrawOrder(): no-op, return DrawOrder.HEADS_UP_DISPLAY
+09-22 17:29:42.874 W/Google Maps Android API(25084): GLHudOverlay deprecated; getDrawOrder(): no-op, return DrawOrder.HEADS_UP_DISPLAY
+09-22 17:29:42.894 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:42.964 D/dalvikvm(25084): GC_FOR_ALLOC freed 4331K, 36% free 10435K/16204K, paused 32ms, total 32ms
+09-22 17:29:42.974 I/dalvikvm-heap(25084): Grow heap (frag case) to 13.311MB for 1048592-byte allocation
+09-22 17:29:42.994 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:43.094 D/dalvikvm(25084): GC_FOR_ALLOC freed 1483K, 42% free 10098K/17232K, paused 23ms, total 24ms
+09-22 17:29:43.124 D/dalvikvm(25084): GC_FOR_ALLOC freed 1028K, 42% free 10117K/17232K, paused 19ms, total 19ms
+09-22 17:29:43.124 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:43.194 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:43.264 D/dalvikvm(25084): GC_FOR_ALLOC freed 1339K, 41% free 10204K/17232K, paused 25ms, total 26ms
+09-22 17:29:43.274 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:43.334 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:43.364 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:43.394 D/dalvikvm(25084): GC_FOR_ALLOC freed 3631K, 38% free 10065K/16208K, paused 21ms, total 21ms
+09-22 17:29:43.394 I/dalvikvm-heap(25084): Grow heap (frag case) to 12.950MB for 1048592-byte allocation
+09-22 17:29:43.424 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:43.465 D/dalvikvm(25084): GC_FOR_ALLOC freed 1081K, 42% free 10051K/17236K, paused 28ms, total 28ms
+09-22 17:29:43.515 D/dalvikvm(25084): GC_FOR_ALLOC freed 1062K, 42% free 10051K/17236K, paused 23ms, total 23ms
+09-22 17:29:43.515 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:43.535 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:43.565 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:43.585 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:43.605 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:43.645 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:43.675 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:43.685 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:43.705 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:43.745 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:43.765 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:43.775 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:43.795 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:43.805 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:43.815 I/System.out(25084): mEpoch: 15089.38033201
+09-22 17:29:43.815 I/System.out(25084): mXincl: 2.4678
+09-22 17:29:43.815 I/System.out(25084): mXnode0: 273.8747
+09-22 17:29:43.815 I/System.out(25084): mE0: 14703.0
+09-22 17:29:43.815 I/System.out(25084): mOmega0: 37.0641
+09-22 17:29:43.815 I/System.out(25084): mXm0: 323.0427
+09-22 17:29:43.815 I/System.out(25084): mXn0: 15.24045959439669
+09-22 17:29:43.815 I/System.out(25084): rteosq: 0.9999989191083708
+09-22 17:29:43.815 I/System.out(25084): xn0: 0.06640631984165325
+09-22 17:29:43.815 I/System.out(25084): mGmst: -0.6220163455375955
+09-22 17:29:43.815 I/System.out(25084): tsince: 1.3386646068566401E8
+09-22 17:29:43.815 I/System.out(25084): mXlcof: 1.0096211106796974E-4
+09-22 17:29:43.815 I/System.out(25084): mAycof: 5.048691108486875E-5
+09-22 17:29:43.815 I/System.out(25084): mins: 780862.0385722665
+09-22 17:29:43.815 I/position(25084): -0.4842865764452636  17.97225092462031
+09-22 17:29:43.845 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:43.855 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:43.865 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:43.875 W/Google Maps Android API(25084): GLHudOverlay deprecated; draw(): no-op
+09-22 17:29:44.496 D/AbsListView(25084): onDetachedFromWindow
+09-22 17:29:44.496 I/list    (25084): create
+09-22 17:29:44.496 V/WebViewChromium(25084): Binding Chromium to the background looper Looper (main, tid 1) {427fd8e0}
+09-22 17:29:44.496 I/chromium(25084): [INFO:library_loader_hooks.cc(112)] Chromium logging enabled: level = 0, default verbosity = 0
+09-22 17:29:44.506 I/BrowserProcessMain(25084): Initializing chromium process, renderers=0
+09-22 17:29:44.516 W/chromium(25084): [WARNING:proxy_service.cc(888)] PAC support disabled because there is no system implementation
+09-22 17:29:44.586 D/AndroidRuntime(25084): Shutting down VM
+09-22 17:29:44.586 W/dalvikvm(25084): threadid=1: thread exiting with uncaught exception (group=0x42026da0)
+09-22 17:29:44.586 E/ACRA    (25084): ACRA caught a NullPointerException for com.agile.science
+09-22 17:29:44.586 E/ACRA    (25084): java.lang.NullPointerException
+09-22 17:29:44.586 E/ACRA    (25084): 	at android.app.BackStackRecord.run(BackStackRecord.java:653)
+09-22 17:29:44.586 E/ACRA    (25084): 	at android.app.FragmentManagerImpl.execPendingActions(FragmentManager.java:1453)
+09-22 17:29:44.586 E/ACRA    (25084): 	at android.app.FragmentManagerImpl$1.run(FragmentManager.java:443)
+09-22 17:29:44.586 E/ACRA    (25084): 	at android.os.Handler.handleCallback(Handler.java:733)
+09-22 17:29:44.586 E/ACRA    (25084): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+09-22 17:29:44.586 E/ACRA    (25084): 	at android.os.Looper.loop(Looper.java:146)
+09-22 17:29:44.586 E/ACRA    (25084): 	at android.app.ActivityThread.main(ActivityThread.java:5593)
+09-22 17:29:44.586 E/ACRA    (25084): 	at java.lang.reflect.Method.invokeNative(Native Method)
+09-22 17:29:44.586 E/ACRA    (25084): 	at java.lang.reflect.Method.invoke(Method.java:515)
+09-22 17:29:44.586 E/ACRA    (25084): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1283)
+09-22 17:29:44.586 E/ACRA    (25084): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+09-22 17:29:44.586 E/ACRA    (25084): 	at dalvik.system.NativeStart.main(Native Method)
+AVAILABLE_MEM_SIZE = 1458774016
+USER_APP_START_DATE = 2016-09-22T17:29:17.718+02:00
+CUSTOM_DATA = 
+BRAND = samsung
+FILE_PATH = /data/data/com.agile.science/files
+TOTAL_MEM_SIZE = 5643431936
+INITIAL_CONFIGURATION = FlipFont=0
+arrange=0
+compatScreenHeightDp=545
+compatScreenWidthDp=320
+compatSmallestScreenWidthDp=320
+densityDpi=240
+fontScale=1.3
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_YES
+keyboard=KEYBOARD_NOKEYS
+keyboardHidden=KEYBOARDHIDDEN_NO
+locale=it_IT
+mcc=222
+mnc=1
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=614
+screenLayout=SCREENLAYOUT_SIZE_NORMAL+SCREENLAYOUT_LONG_YES+SCREENLAYOUT_LAYOUTDIR_LTR
+screenWidthDp=360
+seq=6
+smallestScreenWidthDp=360
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=true
+
+ENVIRONMENT = getAndroidSecureContainerDirectory=/mnt/asec
+getDataDirectory=/data
+getDownloadCacheDirectory=/cache
+getEmulatedStorageObbSource=/mnt/shell/emulated/obb
+getExternalStorageDirectory=/storage/emulated/0
+getExternalStorageState=mounted
+getLegacyExternalStorageDirectory=/storage/emulated/legacy
+getLegacyExternalStorageObbDirectory=/storage/emulated/legacy/Android/obb
+getMediaBaseStorageDirectory=/secdata
+getMediaStorageDirectory=/data/media/0
+getRootDirectory=/system
+getSecureDataDirectory=/data
+getSystemSecureDirectory=/data/system
+isEncryptedFilesystemEnabled=false
+isExternalStorageEmulated=true
+isExternalStorageRemovable=false
+
+REPORT_ID = bdcff578-ad63-49c3-a735-0dc004b1f7e2

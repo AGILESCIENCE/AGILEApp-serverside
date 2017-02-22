@@ -1,0 +1,354 @@
+USER_EMAIL = N/A
+USER_COMMENT = 
+DEVICE_FEATURES = android.hardware.wifi
+android.hardware.location.network
+android.hardware.nfc
+com.sec.android.mdm
+android.hardware.bluetooth_le
+android.hardware.location
+android.software.input_methods
+android.hardware.sensor.gyroscope
+android.hardware.screen.landscape
+android.hardware.screen.portrait
+android.hardware.wifi.direct
+android.hardware.usb.accessory
+android.hardware.camera.any
+android.hardware.bluetooth
+android.hardware.touchscreen.multitouch.distinct
+android.hardware.microphone
+android.hardware.sensor.light
+android.hardware.camera.autofocus
+com.sec.feature.cover.sview
+android.software.live_wallpaper
+android.software.app_widgets
+android.hardware.camera.flash
+com.sec.feature.cover.sviewcover
+android.hardware.telephony
+android.software.sip
+android.hardware.touchscreen.multitouch.jazzhand
+android.hardware.usb.host
+android.hardware.touchscreen.multitouch
+com.sec.feature.cover.flip
+android.hardware.sensor.compass
+android.hardware.faketouch
+android.hardware.camera
+com.sec.feature.minimode
+android.software.home_screen
+android.software.sip.voip
+android.hardware.sensor.proximity
+android.hardware.location.gps
+android.hardware.consumerir
+android.hardware.telephony.gsm
+android.software.device_admin
+android.hardware.nfc.hce
+android.hardware.camera.front
+android.hardware.touchscreen
+android.hardware.sensor.accelerometer
+glEsVersion = 3.0
+
+PHONE_MODEL = GT-I9195
+INSTALLATION_ID = b7e43603-90ba-40ba-8d28-807b37c3c198
+SHARED_PREFERENCES = default.acra.lastVersionNr=1
+default.acra.legacyAlreadyConvertedTo4.8.0=true
+
+
+IS_SILENT = 
+PACKAGE_NAME = com.agile.science
+ANDROID_VERSION = 4.4.2
+APP_VERSION_CODE = 1
+CRASH_CONFIGURATION = FlipFont=0
+arrange=0
+compatScreenHeightDp=545
+compatScreenWidthDp=320
+compatSmallestScreenWidthDp=320
+densityDpi=240
+fontScale=1.3
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_YES
+keyboard=KEYBOARD_NOKEYS
+keyboardHidden=KEYBOARDHIDDEN_NO
+locale=it_IT
+mcc=222
+mnc=1
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=614
+screenLayout=SCREENLAYOUT_SIZE_NORMAL+SCREENLAYOUT_LONG_YES+SCREENLAYOUT_LAYOUTDIR_LTR
+screenWidthDp=360
+seq=6
+smallestScreenWidthDp=360
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=true
+
+USER_CRASH_DATE = 2016-09-22T16:09:27.790+02:00
+BUILD = BOARD=MSM8960
+BOOTLOADER=I9195XXUCOI4
+BRAND=samsung
+CPU_ABI=armeabi-v7a
+CPU_ABI2=armeabi
+DEVICE=serranolte
+DISPLAY=KOT49H.I9195XXUCOI4
+FINGERPRINT=samsung/serranoltexx/serranolte:4.4.2/KOT49H/I9195XXUCOI4:user/release-keys
+HARDWARE=qcom
+HOST=SWHD7520
+ID=KOT49H
+IS_DEBUGGABLE=false
+IS_ENG_SECURED=false
+IS_SYSTEM_SECURE=false
+MANUFACTURER=samsung
+MODEL=GT-I9195
+PRODUCT=serranoltexx
+RADIO=unknown
+SERIAL=0adbc9ec
+TAGS=release-keys
+TIME=1442989861000
+TYPE=user
+UNKNOWN=unknown
+USER=dpi
+VERSION.CODENAME=REL
+VERSION.INCREMENTAL=I9195XXUCOI4
+VERSION.RELEASE=4.4.2
+VERSION.RESOURCES_SDK_INT=19
+VERSION.SDK=19
+VERSION.SDK_INT=19
+
+DUMPSYS_MEMINFO = Permission Denial: can't dump meminfo from from pid=2423, uid=10225 without permission android.permission.DUMP
+BUILD_CONFIG = APPLICATION_ID=com.agile.science
+BUILD_TYPE=debug
+DEBUG=true
+FLAVOR=
+VERSION_CODE=1
+VERSION_NAME=2.0.0
+
+STACK_TRACE = java.lang.RuntimeException: An error occured while executing doInBackground()
+	at android.os.AsyncTask$3.done(AsyncTask.java:300)
+	at java.util.concurrent.FutureTask.finishCompletion(FutureTask.java:355)
+	at java.util.concurrent.FutureTask.setException(FutureTask.java:222)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:242)
+	at android.os.AsyncTask$SerialExecutor$1.run(AsyncTask.java:231)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:841)
+Caused by: java.lang.ArrayIndexOutOfBoundsException: length=6; index=6
+	at ATReserved.FragmentAITOFF$DownloadOrbit.doInBackground(FragmentAITOFF.java:90)
+	at ATReserved.FragmentAITOFF$DownloadOrbit.doInBackground(FragmentAITOFF.java:58)
+	at android.os.AsyncTask$2.call(AsyncTask.java:288)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+	... 4 more
+java.lang.ArrayIndexOutOfBoundsException: length=6; index=6
+	at ATReserved.FragmentAITOFF$DownloadOrbit.doInBackground(FragmentAITOFF.java:90)
+	at ATReserved.FragmentAITOFF$DownloadOrbit.doInBackground(FragmentAITOFF.java:58)
+	at android.os.AsyncTask$2.call(AsyncTask.java:288)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+	at android.os.AsyncTask$SerialExecutor$1.run(AsyncTask.java:231)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+	at java.lang.Thread.run(Thread.java:841)
+
+PRODUCT = serranoltexx
+DISPLAY = 0.currentSizeRange.smallest=[540,502]
+0.currentSizeRange.largest=[960,922]
+0.flags=FLAG_SUPPORTS_PROTECTED_BUFFERS+FLAG_SECURE
+0.height=960
+0.metrics.density=1.5
+0.metrics.densityDpi=240
+0.metrics.scaledDensity=x1.5
+0.metrics.widthPixels=540
+0.metrics.heightPixels=960
+0.metrics.xdpi=249.381
+0.metrics.ydpi=256.673
+0.name=Schermo incorporato
+0.orientation=0
+0.pixelFormat=1
+0.realMetrics.density=1.5
+0.realMetrics.densityDpi=240
+0.realMetrics.scaledDensity=x1.5
+0.realMetrics.widthPixels=540
+0.realMetrics.heightPixels=960
+0.realMetrics.xdpi=249.381
+0.realMetrics.ydpi=256.673
+0.realSize=[540,960]
+0.rectSize=[0,0,540,960]
+0.refreshRate=60.0
+0.rotation=ROTATION_0
+0.size=[540,960]
+0.width=540
+0.isValid=true
+
+APP_VERSION_NAME = 2.0.0
+LOGCAT = --------- beginning of /dev/log/main
+09-22 16:05:47.871 D/dalvikvm(31293): Late-enabling CheckJNI
+09-22 16:05:48.111 I/MultiDex(31293): VM with version 1.6.0 does not have multidex support
+09-22 16:05:48.111 I/MultiDex(31293): install
+09-22 16:05:48.111 I/MultiDex(31293): MultiDexExtractor.load(/data/app/com.agile.science-22.apk, false)
+09-22 16:05:48.141 I/MultiDex(31293): Detected that extraction must be performed.
+09-22 16:05:48.141 I/MultiDex(31293): Trying to delete old file /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-21.apk.classes2.dex of size 805696
+09-22 16:05:48.182 I/MultiDex(31293): Deleted old file /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-21.apk.classes2.dex
+09-22 16:05:48.182 I/MultiDex(31293): Trying to delete old file /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-21.apk.classes2.zip of size 284554
+09-22 16:05:48.182 I/MultiDex(31293): Deleted old file /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-21.apk.classes2.zip
+09-22 16:05:48.232 I/MultiDex(31293): Extraction is needed for file /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-22.apk.classes2.zip
+09-22 16:05:48.232 I/MultiDex(31293): Extracting /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-22.apk.classes1260633434.zip
+09-22 16:05:48.502 I/MultiDex(31293): Renaming to /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-22.apk.classes2.zip
+09-22 16:05:48.502 I/MultiDex(31293): Extraction success - length /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-22.apk.classes2.zip: 284554
+09-22 16:05:48.502 I/MultiDex(31293): load found 1 secondary dex files
+09-22 16:05:48.522 D/dalvikvm(31293): DexOpt: --- BEGIN 'com.agile.science-22.apk.classes2.zip' (bootstrap=0) ---
+09-22 16:05:48.762 D/dalvikvm(31324): DexOpt: load 32ms, verify+opt 139ms, 796020 bytes
+09-22 16:05:48.872 D/dalvikvm(31293): DexOpt: --- END 'com.agile.science-22.apk.classes2.zip' (success) ---
+09-22 16:05:48.872 D/dalvikvm(31293): DEX prep '/data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-22.apk.classes2.zip': unzip in 14ms, rewrite 352ms
+09-22 16:05:48.872 I/MultiDex(31293): install done
+09-22 16:05:48.872 I/acra    (31293): acra
+09-22 16:05:48.892 I/ACRA    (31293): ACRA is enabled for com.agile.science, initializing...
+09-22 16:05:48.912 I/FirebaseInitProvider(31293): FirebaseApp initialization unsuccessful
+09-22 16:05:48.952 I/PersonaManager(31293): getPersonaService() name persona_policy
+09-22 16:05:49.062 D/AbsListView(31293): Get MotionRecognitionManager
+09-22 16:05:49.183 I/Adreno-EGL(31293): <qeglDrvAPI_eglInitialize:381>: EGL 1.4 QUALCOMM build: SKARAJGA_AU_LINUX_ANDROID_KK_2.7_RB1.04.04.02.007.051+PATCH[ES]_msm8960_refs/tags/AU_LINUX_ANDROID_KK_2.7_RB1.04.04.02.007.051__release_ENGG ()
+09-22 16:05:49.183 I/Adreno-EGL(31293): OpenGL ES Shader Compiler Version: 17.01.12.SPL
+09-22 16:05:49.183 I/Adreno-EGL(31293): Build Date: 08/06/14 Wed
+09-22 16:05:49.183 I/Adreno-EGL(31293): Local Branch: 
+09-22 16:05:49.183 I/Adreno-EGL(31293): Remote Branch: refs/tags/AU_LINUX_ANDROID_KK_2.7_RB1.04.04.02.007.051
+09-22 16:05:49.183 I/Adreno-EGL(31293): Local Patches: daf30b480f2cdd4612dec08a5c139941061dbf00 GLES2.0: Pre-rotation - call set_framebuffer only when needed
+09-22 16:05:49.183 I/Adreno-EGL(31293): Reconstruct Branch: LOCAL_PATCH[ES]
+09-22 16:05:49.213 D/OpenGLRenderer(31293): Enabling debug mode 0
+09-22 16:08:01.384 D/dalvikvm(  533): Late-enabling CheckJNI
+09-22 16:08:01.644 I/MultiDex(  533): VM with version 1.6.0 does not have multidex support
+09-22 16:08:01.644 I/MultiDex(  533): install
+09-22 16:08:01.654 I/MultiDex(  533): MultiDexExtractor.load(/data/app/com.agile.science-23.apk, false)
+09-22 16:08:01.654 I/MultiDex(  533): Detected that extraction must be performed.
+09-22 16:08:01.664 I/MultiDex(  533): Trying to delete old file /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-22.apk.classes2.dex of size 805696
+09-22 16:08:01.664 I/MultiDex(  533): Deleted old file /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-22.apk.classes2.dex
+09-22 16:08:01.664 I/MultiDex(  533): Trying to delete old file /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-22.apk.classes2.zip of size 284554
+09-22 16:08:01.664 I/MultiDex(  533): Deleted old file /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-22.apk.classes2.zip
+09-22 16:08:01.714 I/MultiDex(  533): Extraction is needed for file /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-23.apk.classes2.zip
+09-22 16:08:01.714 I/MultiDex(  533): Extracting /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-23.apk.classes1260633434.zip
+09-22 16:08:01.964 I/MultiDex(  533): Renaming to /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-23.apk.classes2.zip
+09-22 16:08:01.964 I/MultiDex(  533): Extraction success - length /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-23.apk.classes2.zip: 284554
+09-22 16:08:01.964 I/MultiDex(  533): load found 1 secondary dex files
+09-22 16:08:01.984 D/dalvikvm(  533): DexOpt: --- BEGIN 'com.agile.science-23.apk.classes2.zip' (bootstrap=0) ---
+09-22 16:08:02.245 D/dalvikvm(  565): DexOpt: load 31ms, verify+opt 158ms, 796020 bytes
+09-22 16:08:02.415 D/dalvikvm(  533): DexOpt: --- END 'com.agile.science-23.apk.classes2.zip' (success) ---
+09-22 16:08:02.415 D/dalvikvm(  533): DEX prep '/data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-23.apk.classes2.zip': unzip in 14ms, rewrite 434ms
+09-22 16:08:02.415 I/MultiDex(  533): install done
+09-22 16:08:02.415 I/acra    (  533): acra
+09-22 16:08:02.455 I/ACRA    (  533): ACRA is enabled for com.agile.science, initializing...
+09-22 16:08:02.485 I/FirebaseInitProvider(  533): FirebaseApp initialization unsuccessful
+09-22 16:08:02.505 I/PersonaManager(  533): getPersonaService() name persona_policy
+09-22 16:08:02.595 D/AbsListView(  533): Get MotionRecognitionManager
+09-22 16:08:02.765 I/Adreno-EGL(  533): <qeglDrvAPI_eglInitialize:381>: EGL 1.4 QUALCOMM build: SKARAJGA_AU_LINUX_ANDROID_KK_2.7_RB1.04.04.02.007.051+PATCH[ES]_msm8960_refs/tags/AU_LINUX_ANDROID_KK_2.7_RB1.04.04.02.007.051__release_ENGG ()
+09-22 16:08:02.765 I/Adreno-EGL(  533): OpenGL ES Shader Compiler Version: 17.01.12.SPL
+09-22 16:08:02.765 I/Adreno-EGL(  533): Build Date: 08/06/14 Wed
+09-22 16:08:02.765 I/Adreno-EGL(  533): Local Branch: 
+09-22 16:08:02.765 I/Adreno-EGL(  533): Remote Branch: refs/tags/AU_LINUX_ANDROID_KK_2.7_RB1.04.04.02.007.051
+09-22 16:08:02.765 I/Adreno-EGL(  533): Local Patches: daf30b480f2cdd4612dec08a5c139941061dbf00 GLES2.0: Pre-rotation - call set_framebuffer only when needed
+09-22 16:08:02.765 I/Adreno-EGL(  533): Reconstruct Branch: LOCAL_PATCH[ES]
+09-22 16:08:02.805 D/OpenGLRenderer(  533): Enabling debug mode 0
+09-22 16:09:12.860 I/list    (  533): create
+09-22 16:09:12.890 I/ciao    (  533): menu
+09-22 16:09:13.921 D/AbsListView(  533): Get MotionRecognitionManager
+09-22 16:09:13.931 I/ciao    (  533): menu
+09-22 16:09:13.941 D/ProgressBar(  533): updateDrawableBounds: left = 0
+09-22 16:09:13.941 D/ProgressBar(  533): updateDrawableBounds: top = 0
+09-22 16:09:13.941 D/ProgressBar(  533): updateDrawableBounds: right = 72
+09-22 16:09:13.941 D/ProgressBar(  533): updateDrawableBounds: bottom = 72
+09-22 16:09:15.212 D/AbsListView(  533): onDetachedFromWindow
+09-22 16:09:18.646 D/AbsListView(  533): Get MotionRecognitionManager
+09-22 16:09:18.656 I/ciao    (  533): menu
+09-22 16:09:19.317 D/AbsListView(  533): onDetachedFromWindow
+09-22 16:09:19.347 I/ciao    (  533): menu
+09-22 16:09:20.568 I/ciao    (  533): menu
+09-22 16:09:22.470 I/ciao    (  533): menu
+09-22 16:09:23.441 D/ProgressBar(  533): updateDrawableBounds: left = 0
+09-22 16:09:23.441 D/ProgressBar(  533): updateDrawableBounds: top = 0
+09-22 16:09:23.441 D/ProgressBar(  533): updateDrawableBounds: right = 72
+09-22 16:09:23.441 D/ProgressBar(  533): updateDrawableBounds: bottom = 72
+09-22 16:09:26.715 D/dalvikvm(  533): GC_FOR_ALLOC freed 3811K, 43% free 9374K/16204K, paused 81ms, total 81ms
+09-22 16:09:26.765 I/dalvikvm-heap(  533): Grow heap (frag case) to 15.510MB for 4440816-byte allocation
+09-22 16:09:27.425 W/dalvikvm(  533): threadid=16: thread exiting with uncaught exception (group=0x42026da0)
+09-22 16:09:27.435 E/ACRA    (  533): ACRA caught a RuntimeException for com.agile.science
+09-22 16:09:27.435 E/ACRA    (  533): java.lang.RuntimeException: An error occured while executing doInBackground()
+09-22 16:09:27.435 E/ACRA    (  533): 	at android.os.AsyncTask$3.done(AsyncTask.java:300)
+09-22 16:09:27.435 E/ACRA    (  533): 	at java.util.concurrent.FutureTask.finishCompletion(FutureTask.java:355)
+09-22 16:09:27.435 E/ACRA    (  533): 	at java.util.concurrent.FutureTask.setException(FutureTask.java:222)
+09-22 16:09:27.435 E/ACRA    (  533): 	at java.util.concurrent.FutureTask.run(FutureTask.java:242)
+09-22 16:09:27.435 E/ACRA    (  533): 	at android.os.AsyncTask$SerialExecutor$1.run(AsyncTask.java:231)
+09-22 16:09:27.435 E/ACRA    (  533): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+09-22 16:09:27.435 E/ACRA    (  533): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+09-22 16:09:27.435 E/ACRA    (  533): 	at java.lang.Thread.run(Thread.java:841)
+09-22 16:09:27.435 E/ACRA    (  533): Caused by: java.lang.ArrayIndexOutOfBoundsException: length=6; index=6
+09-22 16:09:27.435 E/ACRA    (  533): 	at ATReserved.FragmentAITOFF$DownloadImageTask.doInBackground(FragmentAITOFF.java:137)
+09-22 16:09:27.435 E/ACRA    (  533): 	at ATReserved.FragmentAITOFF$DownloadImageTask.doInBackground(FragmentAITOFF.java:119)
+09-22 16:09:27.435 E/ACRA    (  533): 	at android.os.AsyncTask$2.call(AsyncTask.java:288)
+09-22 16:09:27.435 E/ACRA    (  533): 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+09-22 16:09:27.435 E/ACRA    (  533): 	... 4 more
+09-22 16:09:27.656 I/orbit   (  533): 57651.50_57653.50
+09-22 16:09:27.656 I/orbit   (  533): 2016-09-20T11:58:54
+09-22 16:09:27.656 I/orbit   (  533): 2016-09-22T11:58:54
+09-22 16:09:27.656 I/orbit   (  533): 401457535
+09-22 16:09:27.656 I/orbit   (  533): 401630335
+09-22 16:09:27.656 I/orbit   (  533): ����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������
+09-22 16:09:27.666 W/dalvikvm(  533): threadid=12: thread exiting with uncaught exception (group=0x42026da0)
+09-22 16:09:27.676 E/ACRA    (  533): ACRA caught a RuntimeException for com.agile.science
+09-22 16:09:27.676 E/ACRA    (  533): java.lang.RuntimeException: An error occured while executing doInBackground()
+09-22 16:09:27.676 E/ACRA    (  533): 	at android.os.AsyncTask$3.done(AsyncTask.java:300)
+09-22 16:09:27.676 E/ACRA    (  533): 	at java.util.concurrent.FutureTask.finishCompletion(FutureTask.java:355)
+09-22 16:09:27.676 E/ACRA    (  533): 	at java.util.concurrent.FutureTask.setException(FutureTask.java:222)
+09-22 16:09:27.676 E/ACRA    (  533): 	at java.util.concurrent.FutureTask.run(FutureTask.java:242)
+09-22 16:09:27.676 E/ACRA    (  533): 	at android.os.AsyncTask$SerialExecutor$1.run(AsyncTask.java:231)
+09-22 16:09:27.676 E/ACRA    (  533): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+09-22 16:09:27.676 E/ACRA    (  533): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+09-22 16:09:27.676 E/ACRA    (  533): 	at java.lang.Thread.run(Thread.java:841)
+09-22 16:09:27.676 E/ACRA    (  533): Caused by: java.lang.ArrayIndexOutOfBoundsException: length=6; index=6
+09-22 16:09:27.676 E/ACRA    (  533): 	at ATReserved.FragmentAITOFF$DownloadOrbit.doInBackground(FragmentAITOFF.java:90)
+09-22 16:09:27.676 E/ACRA    (  533): 	at ATReserved.FragmentAITOFF$DownloadOrbit.doInBackground(FragmentAITOFF.java:58)
+09-22 16:09:27.676 E/ACRA    (  533): 	at android.os.AsyncTask$2.call(AsyncTask.java:288)
+09-22 16:09:27.676 E/ACRA    (  533): 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+09-22 16:09:27.676 E/ACRA    (  533): 	... 4 more
+AVAILABLE_MEM_SIZE = 1479532544
+USER_APP_START_DATE = 2016-09-22T16:08:02.471+02:00
+CUSTOM_DATA = 
+BRAND = samsung
+FILE_PATH = /data/data/com.agile.science/files
+TOTAL_MEM_SIZE = 5643431936
+INITIAL_CONFIGURATION = FlipFont=0
+arrange=0
+compatScreenHeightDp=545
+compatScreenWidthDp=320
+compatSmallestScreenWidthDp=320
+densityDpi=240
+fontScale=1.3
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_YES
+keyboard=KEYBOARD_NOKEYS
+keyboardHidden=KEYBOARDHIDDEN_NO
+locale=it_IT
+mcc=222
+mnc=1
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=614
+screenLayout=SCREENLAYOUT_SIZE_NORMAL+SCREENLAYOUT_LONG_YES+SCREENLAYOUT_LAYOUTDIR_LTR
+screenWidthDp=360
+seq=6
+smallestScreenWidthDp=360
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=true
+
+ENVIRONMENT = getAndroidSecureContainerDirectory=/mnt/asec
+getDataDirectory=/data
+getDownloadCacheDirectory=/cache
+getEmulatedStorageObbSource=/mnt/shell/emulated/obb
+getExternalStorageDirectory=/storage/emulated/0
+getExternalStorageState=mounted
+getLegacyExternalStorageDirectory=/storage/emulated/legacy
+getLegacyExternalStorageObbDirectory=/storage/emulated/legacy/Android/obb
+getMediaBaseStorageDirectory=/secdata
+getMediaStorageDirectory=/data/media/0
+getRootDirectory=/system
+getSecureDataDirectory=/data
+getSystemSecureDirectory=/data/system
+isEncryptedFilesystemEnabled=false
+isExternalStorageEmulated=true
+isExternalStorageRemovable=false
+
+REPORT_ID = 7a2aa219-286c-497c-9c7b-abeb6d1a4c99

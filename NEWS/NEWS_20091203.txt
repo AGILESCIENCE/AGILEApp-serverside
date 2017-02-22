@@ -1,0 +1,15 @@
+---en===2009/12/03 AGILE first detection of gamma-rays above 100 MeV.===
+
+---it===2009/12/03 AGILE rileva per la prima volta emissioni sopra i 100 MeV===
+
+---en=== Discovery of extreme particle acceleration preceding relativistic jet plasmoid ejections from the black hole candidate Cyg X-3. Repeatedly detected by AGILE since 2008. First comprehensive survey of all Galactic microquasars by SuperAGILE and AGILE-GRID. The AGILE Team reported the discovery in the paper by Tavani et al., Nature, 462, 620, 2009.===
+
+---it===AGILE ha scoperto l'accelerazione estrema di particelle che precede l'eiezione di plasmoidi dal getto relativistico proveniente dal candidato buco nero Cyg X-3. Ripetutamente rilevato da AGILE a partire dal 2008. Primo monitoraggio completo di tutti i microquasar galattici da parte di Super AGILE  e AGILE-GRID. Il Team AGILE ha riportato i suoi risultati nell'articolo di Tavani et al., Nature, 462, 620, 2009.===
+
+---en===http://agile.iasfbo.inaf.it/en/news/2009D.html===
+
+---it===http://agile.iasfbo.inaf.it/it/news/2009D.html===
+
+====CygX-3.png====
+
+=====CygX-3.png=====

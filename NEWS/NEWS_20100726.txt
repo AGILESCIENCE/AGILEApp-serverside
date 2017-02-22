@@ -1,0 +1,15 @@
+---en===2010/07/26 AGILE detection of GRB 100724B===
+
+---it===2010/07/26 AGILE rileva il GRB 100724B===
+
+---en===The Gamma-Ray Imaging Detector (GRID) on board AGILE detected the long bright GRB 100724B (Bhat, GCN 10977; Tanaka et al., GCN 10978; Golenetskii et al., GCN 10981; Marisaldi et al., GCN 10994) in the energy range 25 - 500 MeV with a statistical significance larger than 9 sigma. The gamma-ray emission observed by the AGILE-GRID instrument lasted about  100 seconds, and two peaks are evident in the lightcurve consistent with the behaviour reported by Fermi LAT. See AGILE GCN number 10996.===
+
+---it===Il Gamma-Ray Imaging Detector (GRID) a bordo di AGILE ha rilevato il GRB 100724B molto brillante e di lunga durata (Bhat, GCN 10977; Tanaka et al., GCN 10978; Golenetskii et al., GCN 10981; Marisaldi et al., GCN 10994) nella banda di energia 25 - 500 MeV con una significativita' statistica maggiore di 9 sigma. L'emissione gamma osservata dallo strumento AGILE - GRID e' durata circa 100 secondi, e ci sono due picchi evidenti nella curva di luce consistenti con il comportamento riportato dal satellite Fermi LAT. Si veda AGILE GCN numero 10996. ===
+
+---en===http://agile.iasfbo.inaf.it/en/news/2010A.html===
+
+---it===http://agile.iasfbo.inaf.it/it/news/2010A.html===
+
+====GRB100724B_lc.png====
+
+=====GRB100724B_lc.png=====

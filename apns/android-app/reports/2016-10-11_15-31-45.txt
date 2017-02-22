@@ -1,0 +1,337 @@
+USER_EMAIL = N/A
+USER_COMMENT = 
+DEVICE_FEATURES = android.hardware.wifi
+android.hardware.location.network
+android.hardware.nfc
+com.sec.android.mdm
+android.hardware.bluetooth_le
+android.hardware.location
+android.software.input_methods
+android.hardware.sensor.gyroscope
+android.hardware.screen.landscape
+android.hardware.screen.portrait
+android.hardware.wifi.direct
+android.hardware.usb.accessory
+android.hardware.camera.any
+android.hardware.bluetooth
+android.hardware.touchscreen.multitouch.distinct
+android.hardware.microphone
+android.hardware.sensor.light
+android.hardware.camera.autofocus
+com.sec.feature.cover.sview
+android.software.live_wallpaper
+android.software.app_widgets
+android.hardware.camera.flash
+com.sec.feature.cover.sviewcover
+android.hardware.telephony
+android.software.sip
+android.hardware.touchscreen.multitouch.jazzhand
+android.hardware.usb.host
+android.hardware.touchscreen.multitouch
+com.sec.feature.cover.flip
+android.hardware.sensor.compass
+android.hardware.faketouch
+android.hardware.camera
+com.sec.feature.minimode
+android.software.home_screen
+android.software.sip.voip
+android.hardware.sensor.proximity
+android.hardware.location.gps
+android.hardware.consumerir
+android.hardware.telephony.gsm
+android.software.device_admin
+android.hardware.nfc.hce
+android.hardware.camera.front
+android.hardware.touchscreen
+android.hardware.sensor.accelerometer
+glEsVersion = 3.0
+
+PHONE_MODEL = GT-I9195
+INSTALLATION_ID = b7e43603-90ba-40ba-8d28-807b37c3c198
+SHARED_PREFERENCES = default.acra.lastVersionNr=1
+default.acra.legacyAlreadyConvertedTo4.8.0=true
+
+
+IS_SILENT = 
+PACKAGE_NAME = com.agile.science
+ANDROID_VERSION = 4.4.2
+APP_VERSION_CODE = 1
+CRASH_CONFIGURATION = FlipFont=0
+arrange=0
+compatScreenHeightDp=545
+compatScreenWidthDp=320
+compatSmallestScreenWidthDp=320
+densityDpi=240
+fontScale=1.3
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_YES
+keyboard=KEYBOARD_NOKEYS
+keyboardHidden=KEYBOARDHIDDEN_NO
+locale=it_IT
+mcc=222
+mnc=1
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=614
+screenLayout=SCREENLAYOUT_SIZE_NORMAL+SCREENLAYOUT_LONG_YES+SCREENLAYOUT_LAYOUTDIR_LTR
+screenWidthDp=360
+seq=6
+smallestScreenWidthDp=360
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=true
+
+USER_CRASH_DATE = 2016-10-11T15:31:40.896+02:00
+BUILD = BOARD=MSM8960
+BOOTLOADER=I9195XXUCOI4
+BRAND=samsung
+CPU_ABI=armeabi-v7a
+CPU_ABI2=armeabi
+DEVICE=serranolte
+DISPLAY=KOT49H.I9195XXUCOI4
+FINGERPRINT=samsung/serranoltexx/serranolte:4.4.2/KOT49H/I9195XXUCOI4:user/release-keys
+HARDWARE=qcom
+HOST=SWHD7520
+ID=KOT49H
+IS_DEBUGGABLE=false
+IS_ENG_SECURED=false
+IS_SYSTEM_SECURE=false
+MANUFACTURER=samsung
+MODEL=GT-I9195
+PRODUCT=serranoltexx
+RADIO=unknown
+SERIAL=0adbc9ec
+TAGS=release-keys
+TIME=1442989861000
+TYPE=user
+UNKNOWN=unknown
+USER=dpi
+VERSION.CODENAME=REL
+VERSION.INCREMENTAL=I9195XXUCOI4
+VERSION.RELEASE=4.4.2
+VERSION.RESOURCES_SDK_INT=19
+VERSION.SDK=19
+VERSION.SDK_INT=19
+
+DUMPSYS_MEMINFO = Permission Denial: can't dump meminfo from from pid=13726, uid=10225 without permission android.permission.DUMP
+BUILD_CONFIG = APPLICATION_ID=com.agile.science
+BUILD_TYPE=debug
+DEBUG=true
+FLAVOR=
+VERSION_CODE=1
+VERSION_NAME=2.0.0
+
+STACK_TRACE = java.lang.NullPointerException
+	at quattro.FragmentQuattro.onDetach(FragmentQuattro.java:678)
+	at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:1017)
+	at android.app.FragmentManagerImpl.removeFragment(FragmentManager.java:1167)
+	at android.app.BackStackRecord.run(BackStackRecord.java:641)
+	at android.app.FragmentManagerImpl.execPendingActions(FragmentManager.java:1453)
+	at android.app.FragmentManagerImpl$1.run(FragmentManager.java:443)
+	at android.os.Handler.handleCallback(Handler.java:733)
+	at android.os.Handler.dispatchMessage(Handler.java:95)
+	at android.os.Looper.loop(Looper.java:146)
+	at android.app.ActivityThread.main(ActivityThread.java:5593)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:515)
+	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1283)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+	at dalvik.system.NativeStart.main(Native Method)
+
+PRODUCT = serranoltexx
+DISPLAY = 0.currentSizeRange.smallest=[540,502]
+0.currentSizeRange.largest=[960,922]
+0.flags=FLAG_SUPPORTS_PROTECTED_BUFFERS+FLAG_SECURE
+0.height=960
+0.metrics.density=1.5
+0.metrics.densityDpi=240
+0.metrics.scaledDensity=x1.5
+0.metrics.widthPixels=540
+0.metrics.heightPixels=960
+0.metrics.xdpi=249.381
+0.metrics.ydpi=256.673
+0.name=Schermo incorporato
+0.orientation=0
+0.pixelFormat=1
+0.realMetrics.density=1.5
+0.realMetrics.densityDpi=240
+0.realMetrics.scaledDensity=x1.5
+0.realMetrics.widthPixels=540
+0.realMetrics.heightPixels=960
+0.realMetrics.xdpi=249.381
+0.realMetrics.ydpi=256.673
+0.realSize=[540,960]
+0.rectSize=[0,0,540,960]
+0.refreshRate=60.0
+0.rotation=ROTATION_0
+0.size=[540,960]
+0.width=540
+0.isValid=true
+
+APP_VERSION_NAME = 2.0.0
+LOGCAT = --------- beginning of /dev/log/main
+10-11 15:29:59.196 D/AbsListView(12308): Get MotionRecognitionManager
+10-11 15:29:59.196 D/ProgressBar(12308): updateDrawableBounds: left = 0
+10-11 15:29:59.196 D/ProgressBar(12308): updateDrawableBounds: top = 0
+10-11 15:29:59.196 D/ProgressBar(12308): updateDrawableBounds: right = 114
+10-11 15:29:59.196 D/ProgressBar(12308): updateDrawableBounds: bottom = 114
+10-11 15:30:01.609 E/MYAPP   (12308): exceptionjava.net.UnknownHostException: Unable to resolve host "marlin.iasfbo.inaf.it": No address associated with hostname
+10-11 15:30:01.689 W/System.err(12308): org.xml.sax.SAXParseException: Unexpected end of document
+10-11 15:30:01.699 W/System.err(12308): 	at org.apache.harmony.xml.parsers.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:125)
+10-11 15:30:01.699 W/System.err(12308): 	at org.apache.xpath.jaxp.XPathImpl.evaluate(XPathImpl.java:474)
+10-11 15:30:01.699 W/System.err(12308): 	at Due.FragmentDue$ResponseListener.onResponse(FragmentDue.java:604)
+10-11 15:30:01.699 W/System.err(12308): 	at Due.FragmentDue$DownloadName.onPostExecute(FragmentDue.java:204)
+10-11 15:30:01.699 W/System.err(12308): 	at Due.FragmentDue$DownloadName.onPostExecute(FragmentDue.java:153)
+10-11 15:30:01.699 W/System.err(12308): 	at android.os.AsyncTask.finish(AsyncTask.java:632)
+10-11 15:30:01.699 W/System.err(12308): 	at android.os.AsyncTask.access$600(AsyncTask.java:177)
+10-11 15:30:01.699 W/System.err(12308): 	at android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:645)
+10-11 15:30:01.699 W/System.err(12308): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+10-11 15:30:01.699 W/System.err(12308): 	at android.os.Looper.loop(Looper.java:146)
+10-11 15:30:01.699 W/System.err(12308): 	at android.app.ActivityThread.main(ActivityThread.java:5593)
+10-11 15:30:01.699 W/System.err(12308): 	at java.lang.reflect.Method.invokeNative(Native Method)
+10-11 15:30:01.699 W/System.err(12308): 	at java.lang.reflect.Method.invoke(Method.java:515)
+10-11 15:30:01.699 W/System.err(12308): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1283)
+10-11 15:30:01.699 W/System.err(12308): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+10-11 15:30:01.699 W/System.err(12308): 	at dalvik.system.NativeStart.main(Native Method)
+10-11 15:30:01.699 W/System.err(12308): --------------- linked to ------------------
+10-11 15:30:01.699 W/System.err(12308): javax.xml.xpath.XPathExpressionException: org.xml.sax.SAXParseException: Unexpected end of document
+10-11 15:30:01.699 W/System.err(12308): 	at org.apache.xpath.jaxp.XPathImpl.evaluate(XPathImpl.java:479)
+10-11 15:30:01.699 W/System.err(12308): 	at Due.FragmentDue$ResponseListener.onResponse(FragmentDue.java:604)
+10-11 15:30:01.699 W/System.err(12308): 	at Due.FragmentDue$DownloadName.onPostExecute(FragmentDue.java:204)
+10-11 15:30:01.709 W/System.err(12308): 	at Due.FragmentDue$DownloadName.onPostExecute(FragmentDue.java:153)
+10-11 15:30:01.709 W/System.err(12308): 	at android.os.AsyncTask.finish(AsyncTask.java:632)
+10-11 15:30:01.709 W/System.err(12308): 	at android.os.AsyncTask.access$600(AsyncTask.java:177)
+10-11 15:30:01.709 W/System.err(12308): 	at android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:645)
+10-11 15:30:01.709 W/System.err(12308): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+10-11 15:30:01.709 W/System.err(12308): 	at android.os.Looper.loop(Looper.java:146)
+10-11 15:30:01.709 W/System.err(12308): 	at android.app.ActivityThread.main(ActivityThread.java:5593)
+10-11 15:30:01.709 W/System.err(12308): 	at java.lang.reflect.Method.invokeNative(Native Method)
+10-11 15:30:01.709 W/System.err(12308): 	at java.lang.reflect.Method.invoke(Method.java:515)
+10-11 15:30:01.709 W/System.err(12308): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1283)
+10-11 15:30:01.709 W/System.err(12308): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+10-11 15:30:01.709 W/System.err(12308): 	at dalvik.system.NativeStart.main(Native Method)
+10-11 15:30:01.709 W/System.err(12308): Caused by: org.xml.sax.SAXParseException: Unexpected end of document
+10-11 15:30:01.709 W/System.err(12308): 	at org.apache.harmony.xml.parsers.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:125)
+10-11 15:30:01.709 W/System.err(12308): 	at org.apache.xpath.jaxp.XPathImpl.evaluate(XPathImpl.java:474)
+10-11 15:30:01.709 W/System.err(12308): 	... 14 more
+10-11 15:30:20.259 D/AbsListView(12308): onDetachedFromWindow
+10-11 15:30:21.930 D/AbsListView(12308): Get MotionRecognitionManager
+10-11 15:30:21.930 D/ProgressBar(12308): updateDrawableBounds: left = 0
+10-11 15:30:21.930 D/ProgressBar(12308): updateDrawableBounds: top = 0
+10-11 15:30:21.930 D/ProgressBar(12308): updateDrawableBounds: right = 114
+10-11 15:30:21.930 D/ProgressBar(12308): updateDrawableBounds: bottom = 114
+10-11 15:30:59.821 D/AbsListView(12308): onDetachedFromWindow
+10-11 15:30:59.831 E/MYAPP   (12308): exception
+10-11 15:30:59.831 D/AbsListView(12308): Get MotionRecognitionManager
+10-11 15:30:59.841 D/ProgressBar(12308): updateDrawableBounds: left = 0
+10-11 15:30:59.841 D/ProgressBar(12308): updateDrawableBounds: top = 0
+10-11 15:30:59.841 D/ProgressBar(12308): updateDrawableBounds: right = 114
+10-11 15:30:59.841 D/ProgressBar(12308): updateDrawableBounds: bottom = 114
+10-11 15:30:59.851 W/System.err(12308): org.xml.sax.SAXParseException: Unexpected end of document
+10-11 15:30:59.851 W/System.err(12308): 	at org.apache.harmony.xml.parsers.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:125)
+10-11 15:30:59.851 W/System.err(12308): 	at org.apache.xpath.jaxp.XPathImpl.evaluate(XPathImpl.java:474)
+10-11 15:30:59.851 W/System.err(12308): 	at quattro.FragmentQuattro$ResponseListener.onResponse(FragmentQuattro.java:579)
+10-11 15:30:59.851 W/System.err(12308): 	at quattro.FragmentQuattro$DownloadName.onPostExecute(FragmentQuattro.java:196)
+10-11 15:30:59.851 W/System.err(12308): 	at quattro.FragmentQuattro$DownloadName.onPostExecute(FragmentQuattro.java:144)
+10-11 15:30:59.851 W/System.err(12308): 	at android.os.AsyncTask.finish(AsyncTask.java:632)
+10-11 15:30:59.851 W/System.err(12308): 	at android.os.AsyncTask.access$600(AsyncTask.java:177)
+10-11 15:30:59.851 W/System.err(12308): 	at android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:645)
+10-11 15:30:59.861 W/System.err(12308): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+10-11 15:30:59.861 W/System.err(12308): 	at android.os.Looper.loop(Looper.java:146)
+10-11 15:30:59.861 W/System.err(12308): 	at android.app.ActivityThread.main(ActivityThread.java:5593)
+10-11 15:30:59.861 W/System.err(12308): 	at java.lang.reflect.Method.invokeNative(Native Method)
+10-11 15:30:59.861 W/System.err(12308): 	at java.lang.reflect.Method.invoke(Method.java:515)
+10-11 15:30:59.861 W/System.err(12308): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1283)
+10-11 15:30:59.861 W/System.err(12308): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+10-11 15:30:59.861 W/System.err(12308): 	at dalvik.system.NativeStart.main(Native Method)
+10-11 15:30:59.861 W/System.err(12308): --------------- linked to ------------------
+10-11 15:30:59.861 W/System.err(12308): javax.xml.xpath.XPathExpressionException: org.xml.sax.SAXParseException: Unexpected end of document
+10-11 15:30:59.861 W/System.err(12308): 	at org.apache.xpath.jaxp.XPathImpl.evaluate(XPathImpl.java:479)
+10-11 15:30:59.861 W/System.err(12308): 	at quattro.FragmentQuattro$ResponseListener.onResponse(FragmentQuattro.java:579)
+10-11 15:30:59.861 W/System.err(12308): 	at quattro.FragmentQuattro$DownloadName.onPostExecute(FragmentQuattro.java:196)
+10-11 15:30:59.861 W/System.err(12308): 	at quattro.FragmentQuattro$DownloadName.onPostExecute(FragmentQuattro.java:144)
+10-11 15:30:59.861 W/System.err(12308): 	at android.os.AsyncTask.finish(AsyncTask.java:632)
+10-11 15:30:59.861 W/System.err(12308): 	at android.os.AsyncTask.access$600(AsyncTask.java:177)
+10-11 15:30:59.861 W/System.err(12308): 	at android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:645)
+10-11 15:30:59.861 W/System.err(12308): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+10-11 15:30:59.861 W/System.err(12308): 	at android.os.Looper.loop(Looper.java:146)
+10-11 15:30:59.861 W/System.err(12308): 	at android.app.ActivityThread.main(ActivityThread.java:5593)
+10-11 15:30:59.861 W/System.err(12308): 	at java.lang.reflect.Method.invokeNative(Native Method)
+10-11 15:30:59.861 W/System.err(12308): 	at java.lang.reflect.Method.invoke(Method.java:515)
+10-11 15:30:59.871 W/System.err(12308): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1283)
+10-11 15:30:59.871 W/System.err(12308): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+10-11 15:30:59.871 W/System.err(12308): 	at dalvik.system.NativeStart.main(Native Method)
+10-11 15:30:59.871 W/System.err(12308): Caused by: org.xml.sax.SAXParseException: Unexpected end of document
+10-11 15:30:59.871 W/System.err(12308): 	at org.apache.harmony.xml.parsers.DocumentBuilderImpl.parse(DocumentBuilderImpl.java:125)
+10-11 15:30:59.871 W/System.err(12308): 	at org.apache.xpath.jaxp.XPathImpl.evaluate(XPathImpl.java:474)
+10-11 15:30:59.871 W/System.err(12308): 	... 14 more
+10-11 15:31:39.583 I/Choreographer(12308): Skipped 71 frames!  The application may be doing too much work on its main thread.
+10-11 15:31:40.634 D/AbsListView(12308): onDetachedFromWindow
+10-11 15:31:40.634 D/AndroidRuntime(12308): Shutting down VM
+10-11 15:31:40.634 W/dalvikvm(12308): threadid=1: thread exiting with uncaught exception (group=0x418f9da0)
+10-11 15:31:40.724 E/ACRA    (12308): ACRA caught a NullPointerException for com.agile.science
+10-11 15:31:40.724 E/ACRA    (12308): java.lang.NullPointerException
+10-11 15:31:40.724 E/ACRA    (12308): 	at quattro.FragmentQuattro.onDetach(FragmentQuattro.java:678)
+10-11 15:31:40.724 E/ACRA    (12308): 	at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:1017)
+10-11 15:31:40.724 E/ACRA    (12308): 	at android.app.FragmentManagerImpl.removeFragment(FragmentManager.java:1167)
+10-11 15:31:40.724 E/ACRA    (12308): 	at android.app.BackStackRecord.run(BackStackRecord.java:641)
+10-11 15:31:40.724 E/ACRA    (12308): 	at android.app.FragmentManagerImpl.execPendingActions(FragmentManager.java:1453)
+10-11 15:31:40.724 E/ACRA    (12308): 	at android.app.FragmentManagerImpl$1.run(FragmentManager.java:443)
+10-11 15:31:40.724 E/ACRA    (12308): 	at android.os.Handler.handleCallback(Handler.java:733)
+10-11 15:31:40.724 E/ACRA    (12308): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+10-11 15:31:40.724 E/ACRA    (12308): 	at android.os.Looper.loop(Looper.java:146)
+10-11 15:31:40.724 E/ACRA    (12308): 	at android.app.ActivityThread.main(ActivityThread.java:5593)
+10-11 15:31:40.724 E/ACRA    (12308): 	at java.lang.reflect.Method.invokeNative(Native Method)
+10-11 15:31:40.724 E/ACRA    (12308): 	at java.lang.reflect.Method.invoke(Method.java:515)
+10-11 15:31:40.724 E/ACRA    (12308): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1283)
+10-11 15:31:40.724 E/ACRA    (12308): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+10-11 15:31:40.724 E/ACRA    (12308): 	at dalvik.system.NativeStart.main(Native Method)
+AVAILABLE_MEM_SIZE = 1368272896
+USER_APP_START_DATE = 2016-10-11T15:29:48.930+02:00
+CUSTOM_DATA = 
+BRAND = samsung
+FILE_PATH = /data/data/com.agile.science/files
+TOTAL_MEM_SIZE = 5643431936
+INITIAL_CONFIGURATION = FlipFont=0
+arrange=0
+compatScreenHeightDp=545
+compatScreenWidthDp=320
+compatSmallestScreenWidthDp=320
+densityDpi=240
+fontScale=1.3
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_YES
+keyboard=KEYBOARD_NOKEYS
+keyboardHidden=KEYBOARDHIDDEN_NO
+locale=it_IT
+mcc=222
+mnc=1
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=614
+screenLayout=SCREENLAYOUT_SIZE_NORMAL+SCREENLAYOUT_LONG_YES+SCREENLAYOUT_LAYOUTDIR_LTR
+screenWidthDp=360
+seq=6
+smallestScreenWidthDp=360
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=true
+
+ENVIRONMENT = getAndroidSecureContainerDirectory=/mnt/asec
+getDataDirectory=/data
+getDownloadCacheDirectory=/cache
+getEmulatedStorageObbSource=/mnt/shell/emulated/obb
+getExternalStorageDirectory=/storage/emulated/0
+getExternalStorageState=mounted
+getLegacyExternalStorageDirectory=/storage/emulated/legacy
+getLegacyExternalStorageObbDirectory=/storage/emulated/legacy/Android/obb
+getMediaBaseStorageDirectory=/secdata
+getMediaStorageDirectory=/data/media/0
+getRootDirectory=/system
+getSecureDataDirectory=/data
+getSystemSecureDirectory=/data/system
+isEncryptedFilesystemEnabled=false
+isExternalStorageEmulated=true
+isExternalStorageRemovable=false
+
+REPORT_ID = 1288f053-e4f2-4a9c-ac70-b3f03ecfc811

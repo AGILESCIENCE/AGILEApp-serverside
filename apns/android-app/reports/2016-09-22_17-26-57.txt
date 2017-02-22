@@ -1,0 +1,338 @@
+USER_EMAIL = N/A
+USER_COMMENT = 
+DEVICE_FEATURES = android.hardware.wifi
+android.hardware.location.network
+android.hardware.nfc
+com.sec.android.mdm
+android.hardware.bluetooth_le
+android.hardware.location
+android.software.input_methods
+android.hardware.sensor.gyroscope
+android.hardware.screen.landscape
+android.hardware.screen.portrait
+android.hardware.wifi.direct
+android.hardware.usb.accessory
+android.hardware.camera.any
+android.hardware.bluetooth
+android.hardware.touchscreen.multitouch.distinct
+android.hardware.microphone
+android.hardware.sensor.light
+android.hardware.camera.autofocus
+com.sec.feature.cover.sview
+android.software.live_wallpaper
+android.software.app_widgets
+android.hardware.camera.flash
+com.sec.feature.cover.sviewcover
+android.hardware.telephony
+android.software.sip
+android.hardware.touchscreen.multitouch.jazzhand
+android.hardware.usb.host
+android.hardware.touchscreen.multitouch
+com.sec.feature.cover.flip
+android.hardware.sensor.compass
+android.hardware.faketouch
+android.hardware.camera
+com.sec.feature.minimode
+android.software.home_screen
+android.software.sip.voip
+android.hardware.sensor.proximity
+android.hardware.location.gps
+android.hardware.consumerir
+android.hardware.telephony.gsm
+android.software.device_admin
+android.hardware.nfc.hce
+android.hardware.camera.front
+android.hardware.touchscreen
+android.hardware.sensor.accelerometer
+glEsVersion = 3.0
+
+PHONE_MODEL = GT-I9195
+INSTALLATION_ID = b7e43603-90ba-40ba-8d28-807b37c3c198
+SHARED_PREFERENCES = default.acra.lastVersionNr=1
+default.acra.legacyAlreadyConvertedTo4.8.0=true
+
+
+IS_SILENT = 
+PACKAGE_NAME = com.agile.science
+ANDROID_VERSION = 4.4.2
+APP_VERSION_CODE = 1
+CRASH_CONFIGURATION = FlipFont=0
+arrange=0
+compatScreenHeightDp=545
+compatScreenWidthDp=320
+compatSmallestScreenWidthDp=320
+densityDpi=240
+fontScale=1.3
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_YES
+keyboard=KEYBOARD_NOKEYS
+keyboardHidden=KEYBOARDHIDDEN_NO
+locale=it_IT
+mcc=222
+mnc=1
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=614
+screenLayout=SCREENLAYOUT_SIZE_NORMAL+SCREENLAYOUT_LONG_YES+SCREENLAYOUT_LAYOUTDIR_LTR
+screenWidthDp=360
+seq=6
+smallestScreenWidthDp=360
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=true
+
+USER_CRASH_DATE = 2016-09-22T17:26:55.032+02:00
+BUILD = BOARD=MSM8960
+BOOTLOADER=I9195XXUCOI4
+BRAND=samsung
+CPU_ABI=armeabi-v7a
+CPU_ABI2=armeabi
+DEVICE=serranolte
+DISPLAY=KOT49H.I9195XXUCOI4
+FINGERPRINT=samsung/serranoltexx/serranolte:4.4.2/KOT49H/I9195XXUCOI4:user/release-keys
+HARDWARE=qcom
+HOST=SWHD7520
+ID=KOT49H
+IS_DEBUGGABLE=false
+IS_ENG_SECURED=false
+IS_SYSTEM_SECURE=false
+MANUFACTURER=samsung
+MODEL=GT-I9195
+PRODUCT=serranoltexx
+RADIO=unknown
+SERIAL=0adbc9ec
+TAGS=release-keys
+TIME=1442989861000
+TYPE=user
+UNKNOWN=unknown
+USER=dpi
+VERSION.CODENAME=REL
+VERSION.INCREMENTAL=I9195XXUCOI4
+VERSION.RELEASE=4.4.2
+VERSION.RESOURCES_SDK_INT=19
+VERSION.SDK=19
+VERSION.SDK_INT=19
+
+DUMPSYS_MEMINFO = Permission Denial: can't dump meminfo from from pid=24790, uid=10225 without permission android.permission.DUMP
+BUILD_CONFIG = APPLICATION_ID=com.agile.science
+BUILD_TYPE=debug
+DEBUG=true
+FLAVOR=
+VERSION_CODE=1
+VERSION_NAME=2.0.0
+
+STACK_TRACE = java.lang.IllegalStateException: Cannot execute task: the task has already been executed (a task can be executed only once)
+	at android.os.AsyncTask.executeOnExecutor(AsyncTask.java:579)
+	at android.os.AsyncTask.execute(AsyncTask.java:535)
+	at quattro.FragmentQuattro$DownloadJSON.onPostExecute(FragmentQuattro.java:283)
+	at quattro.FragmentQuattro$DownloadJSON.onPostExecute(FragmentQuattro.java:219)
+	at android.os.AsyncTask.finish(AsyncTask.java:632)
+	at android.os.AsyncTask.access$600(AsyncTask.java:177)
+	at android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:645)
+	at android.os.Handler.dispatchMessage(Handler.java:102)
+	at android.os.Looper.loop(Looper.java:146)
+	at android.app.ActivityThread.main(ActivityThread.java:5593)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:515)
+	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1283)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+	at dalvik.system.NativeStart.main(Native Method)
+
+PRODUCT = serranoltexx
+DISPLAY = 0.currentSizeRange.smallest=[540,502]
+0.currentSizeRange.largest=[960,922]
+0.flags=FLAG_SUPPORTS_PROTECTED_BUFFERS+FLAG_SECURE
+0.height=960
+0.metrics.density=1.5
+0.metrics.densityDpi=240
+0.metrics.scaledDensity=x1.5
+0.metrics.widthPixels=540
+0.metrics.heightPixels=960
+0.metrics.xdpi=249.381
+0.metrics.ydpi=256.673
+0.name=Schermo incorporato
+0.orientation=0
+0.pixelFormat=1
+0.realMetrics.density=1.5
+0.realMetrics.densityDpi=240
+0.realMetrics.scaledDensity=x1.5
+0.realMetrics.widthPixels=540
+0.realMetrics.heightPixels=960
+0.realMetrics.xdpi=249.381
+0.realMetrics.ydpi=256.673
+0.realSize=[540,960]
+0.rectSize=[0,0,540,960]
+0.refreshRate=60.0
+0.rotation=ROTATION_0
+0.size=[540,960]
+0.width=540
+0.isValid=true
+
+APP_VERSION_NAME = 2.0.0
+LOGCAT = --------- beginning of /dev/log/system
+--------- beginning of /dev/log/main
+09-22 17:26:54.224 I/item    (21881): item
+09-22 17:26:54.234 I/urlD    (21881): downloadhttp://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_AGILE_Crab.png
+09-22 17:26:54.234 I/urlDD   (21881): url2014
+09-22 17:26:54.234 I/urlfinale(21881): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/GetMediaImage.php?sourceYear=2014&sourceMonth=08&sourceName=big_AGILE_Crab.png&width=200&height=200
+09-22 17:26:54.234 I/item    (21881): item
+09-22 17:26:54.264 I/urlD    (21881): downloadhttp://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_W44.png
+09-22 17:26:54.264 I/urlDD   (21881): url2014
+09-22 17:26:54.264 I/urlfinale(21881): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/GetMediaImage.php?sourceYear=2014&sourceMonth=08&sourceName=big_W44.png&width=200&height=200
+09-22 17:26:54.264 I/item    (21881): item
+09-22 17:26:54.294 D/dalvikvm(21881): GC_FOR_ALLOC freed 1062K, 49% free 11127K/21552K, paused 28ms, total 29ms
+09-22 17:26:54.324 I/urlD    (21881): downloadhttp://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_CygX-3.png
+09-22 17:26:54.324 I/urlDD   (21881): url2014
+09-22 17:26:54.324 I/urlfinale(21881): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/GetMediaImage.php?sourceYear=2014&sourceMonth=08&sourceName=big_CygX-3.png&width=200&height=200
+09-22 17:26:54.324 I/item    (21881): item
+09-22 17:26:54.354 I/urlD    (21881): downloadhttp://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_TGF.png
+09-22 17:26:54.354 I/urlDD   (21881): url2014
+09-22 17:26:54.354 I/urlfinale(21881): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/GetMediaImage.php?sourceYear=2014&sourceMonth=08&sourceName=big_TGF.png&width=200&height=200
+09-22 17:26:54.354 I/item    (21881): item
+09-22 17:26:54.384 I/urlD    (21881): downloadhttp://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_3C454.3_November_2010.png
+09-22 17:26:54.384 I/urlDD   (21881): url2014
+09-22 17:26:54.384 I/urlfinale(21881): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/GetMediaImage.php?sourceYear=2014&sourceMonth=08&sourceName=big_3C454.3_November_2010.png&width=200&height=200
+09-22 17:26:54.384 I/item    (21881): item
+09-22 17:26:54.464 D/dalvikvm(21881): GC_FOR_ALLOC freed 1696K, 50% free 10850K/21552K, paused 25ms, total 26ms
+09-22 17:26:54.464 I/urlD    (21881): downloadhttp://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_Pulsar_B1509-58.png
+09-22 17:26:54.464 I/urlDD   (21881): url2014
+09-22 17:26:54.464 I/urlfinale(21881): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/GetMediaImage.php?sourceYear=2014&sourceMonth=08&sourceName=big_Pulsar_B1509-58.png&width=200&height=200
+09-22 17:26:54.464 I/item    (21881): item
+09-22 17:26:54.494 I/dalvikvm(21881): Jit: resizing JitTable from 4096 to 8192
+09-22 17:26:54.504 I/urlD    (21881): downloadhttp://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_figura_10.png
+09-22 17:26:54.504 I/urlDD   (21881): url2014
+09-22 17:26:54.504 I/urlfinale(21881): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/GetMediaImage.php?sourceYear=2014&sourceMonth=08&sourceName=big_figura_10.png&width=200&height=200
+09-22 17:26:54.504 I/item    (21881): item
+09-22 17:26:54.534 I/urlD    (21881): downloadhttp://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_Vela_Pulsar.png
+09-22 17:26:54.534 I/urlDD   (21881): url2014
+09-22 17:26:54.534 I/urlfinale(21881): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/GetMediaImage.php?sourceYear=2014&sourceMonth=08&sourceName=big_Vela_Pulsar.png&width=200&height=200
+09-22 17:26:54.534 I/item    (21881): item
+09-22 17:26:54.564 I/urlD    (21881): downloadhttp://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2009/11/big_BL_Lac_S5_0716-714.png
+09-22 17:26:54.564 I/urlDD   (21881): url2009
+09-22 17:26:54.564 I/urlfinale(21881): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/GetMediaImage.php?sourceYear=2009&sourceMonth=11&sourceName=big_BL_Lac_S5_0716-714.png&width=200&height=200
+09-22 17:26:54.564 I/item    (21881): item
+09-22 17:26:54.614 D/dalvikvm(21881): GC_FOR_ALLOC freed 1307K, 50% free 10863K/21552K, paused 24ms, total 24ms
+09-22 17:26:54.634 I/urlD    (21881): downloadhttp://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_Mrk_421.png
+09-22 17:26:54.634 I/urlDD   (21881): url2014
+09-22 17:26:54.634 I/urlfinale(21881): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/GetMediaImage.php?sourceYear=2014&sourceMonth=08&sourceName=big_Mrk_421.png&width=200&height=200
+09-22 17:26:54.634 I/title   (21881): Scoperta l’emissione gamma variabile dalla Nebulosa del Granchio
+09-22 17:26:54.634 I/title   (21881): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_AGILE_Crab.png
+09-22 17:26:54.634 I/title   (21881): <p><span style="color: #2b2b2b;">AGILE scopre la variabilita&#8217; della sorgente gamma stabile per eccellenza, rilevando flare gamma molto rapidi e intensi provenienti dalla parte interna della Nebulosa caratterizzata da instabilita&#8217; di plasma. Vengono cosi&#8217; messi in discussione i modelli teorici di accelerazione di particelle. Cio&#8217; avra&#8217; conseguenze e ampie implicazioni sugli esperimenti  di fisica dei plasmi e sugli studi teorici dell&#8217;accelerazione di particelle. </span></p><p><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_AGILE_Crab.png"><img class="alignnone size-full wp-image-90" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_AGILE_Crab.png" alt="big_AGILE_Crab" width="600" height="550" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_AGILE_Crab.png 600w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_AGILE_Crab-300x275.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+09-22 17:26:54.634 I/title   (21881): Svelato il mistero dell’origine dei raggi cosmici
+09-22 17:26:54.634 I/title   (21881): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_W44.png
+09-22 17:26:54.634 I/title   (21881): <p><span style="color: #2b2b2b;">Prima prova diretta nella banda gamma di emissione protoni/ioni attraverso emissione di pioni sotto i 200 MeV in corrispondenza del resto di Supernova W44. Emissione combinata nella banda del gamma e del TeV proveniente dal resto di Supernova IC 433 e W28.</span></p><p><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_W44.png"><img class="alignnone size-full wp-image-166" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_W44.png" alt="big_W44" width="600" height="583" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_W44.png 600w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_W44-300x291.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+09-22 17:26:54.634 I/title   (21881): Scoperta l’emissione gamma dal misterioso buco nero Cygnus X-3
+09-22 17:26:54.634 I/title   (21881): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_CygX-3.png
+09-22 17:26:54.634 I/title   (21881): <p><span style="color: #2b2b2b;">AGILE scopre l&#8217;accelerazione estrema di particelle che precede l&#8217;eiezione di plasmoidi dal getto relativistico proveniente dal candidato buco nero Cyg X-3. Ripetutamente rilevata da AGILE a partire dal 2008. Primo monitoraggio completo di tutti i microquasar galattici da parte di Super AGILE  e AGILE-GRID. Il Team AGILE ha riportato i suoi risultati nell&#8217;articolo Tavani et al., Nature, 462, 620, 2009.</span></p><p><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_CygX-3.png"><img class="alignnone size-full wp-image-160" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_CygX-3.png" alt="big_CygX-3" width="600" height="501" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_CygX-3.png 600w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_CygX-3-300x250.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+09-22 17:26:54.634 I/title   (21881): Scoperta dell’emissione fino a energie molto elevate dei TGF
+09-22 17:26:54.634 I/title   (21881): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_TGF.png
+09-22 17:26:54.634 I/title   (21881): <p><span style="color: #2b2b2b;">AGILE scopre emissione gamma fino a 100 MeV da lampi terrestri associati a tempeste particolarmente intense. Cio&#8217; prova la presenza di potenziali di accelerazione superiore a 100 Megavolt mettendo in discussione i modelli teorici di accelerazione dei fulmini. La scoperta avra&#8217; un impatto significativo sugli studi della fisica dell&#8217;atmosfera e sugli studi del clima.</span></p><p><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_TGF.png"><img class="alignnone size-full wp-image-164" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_TGF.png" alt="big_TGF" width="464" height="600" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_TGF.png 464w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_TGF-232x300.png 232w" sizes="(max-width: 464px) 100vw, 464px" /></a></p>
+09-22 17:26:54.634 I/title   (21881): Il buco nero supermmassivo 3C 454.3
+09-22 17:26:54.634 I/title   (21881): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_3C454.3_November_2010.png
+09-22 17:26:54.634 I/title   (21881): <p><span style="color: #2b2b2b;">Blazar particolarmente attivo e variabile fin dal 2007. AGILE e&#8217; stato il primo ad annunciare i super-flare gamma nel 2009 e 2010. Nel Novembre 2010 la 3C 454.3 e&#8217; stata la sorgente piu&#8217; brillante mai rilevata, circa 7 volte piu&#8217; luminosa della pulsar Vela.</span></p><p><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_3C454.3_November_2010.png"><img class="alignnone size-full wp-image-93" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_3C454.3_November_2010.png" alt="big_3C454.3_November_2010" width="600" height="310" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_3C454.3_November_2010.png 600w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_3C454.3_November_2010-300x155.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+09-22 17:26:54.634 I/title   (21881): Pulsar gamma “soft” (PSR 1509-58 e altre)
+09-22 17:26:54.634 I/title   (21881): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_Pulsar_B1509-58.png
+09-22 17:26:54.634 I/title   (21881): <p><span style="color: #2b2b2b;">Scoperta dalla prima luce di AGILE nel 2007 la prima pulsar gamma post-EGRET. Rivelata una classe di pulsar gamma &#8220;soft&#8221; appena rilevabili sotto i 200 MeV, come la PSR B1509-58. Limiti teorici sul &#8220;photon splitting&#8221; nelle magnetosfere delle pulsar.</span></p><p><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_Pulsar_B1509-58.png"><img class="alignnone size-full wp-image-163" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_Pulsar_B1509-58.png" alt="big_Pulsar_B1509-58" width="600" height="462" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_Pulsar_B1509-58.png 600w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_Pulsar_B1509-58-300x231.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+09-22 17:26:54.634 I/title   (21881): Il sistema di allerta dei flare gamma piu’ veloce del mondo
+09-22 17:26:54.634 I/title   (21881): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_figura_10.png
+09-22 17:26:54.634 I/title   (21881): <p><span style="color: #2b2b2b;">AGILE ha due sistemi di allerta automatica il primo allo IASF di Bologna con tempi di reazione di circa 1.5-2 ore, un record per missioni gamma di questo tipo, il secondo presso l&#8217;ASDC, con tempi di reazioni di circa 3-4 ore ma con una miglior qualita&#8217; dei dati prodotti. Questo gioco di squadra in due tempi e&#8217; risultato estremamente efficace permettendo ad AGILE di ottenere importanti risultati scientifici, e proprio grazie anche al suo ground segment che AGILE e&#8217; stato insignito del premio Bruno Rossi 2012 per la scoperta della variabilita&#8217; gamma della Nebulosa del Granchio.</span></p><p><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_figura_10.png"><img class="alignnone size-full wp-image-161" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_figura_10.png" alt="big_figura_10" width="600" height="440" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_figura_10.png 600w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_figura_10-300x220.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+09-22 17:26:54.634 I/title   (21881): Scoperti i venti di particelle relativistiche
+09-22 17:26:54.634 I/title   (21881): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_Vela_Pulsar.png
+09-22 17:26:54.634 I/title   (21881): <p style="color: #2b2b2b;">AGILE scopre una nebulosita&#8217; gamma estesa nelle vicinanze della pulsar Vela, provando chiaramente  la presenza di differenti popolazioni di particelle accelerate.</p><p style="color: #2b2b2b;"><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_Vela_Pulsar.png"><img class="alignnone size-full wp-image-165" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_Vela_Pulsar.png" alt="big_Vela_Pulsar" width="600" height="450" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_Vela_Pulsar.png 600w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_Vela_Pulsar-300x225.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+09-22 17:26:54.634 I/title   (21881): Il buco nero massivo piu’ brillante della classe BL Lac
+09-22 17:26:54.634 I/title   (21881): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2009/11/big_BL_Lac_S5_0716-714.png
+09-22 17:26:54.634 I/title   (21881): <p><span style="color: #2b2b2b;">Scoperta del piu&#8217; potente flare gamma proveniente da un blazar della classe BL Lac, S5 0716+714 (che si ritiene essere originato dalla rotazione del buco nero). Prima determinazione teorica di un sistema vicino al limite massimale di energia  che e&#8217; possibile estrarre da un buco nero rotante.</span></p><p><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2009/11/big_BL_Lac_S5_0716-714.png"><img class="alignnone size-full wp-image-272" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2009/11/big_BL_Lac_S5_0716-714.png" alt="big_BL_Lac_S5_0716+714" width="600" height="486" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2009/11/big_BL_Lac_S5_0716-714.png 600w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2009/11/big_BL_Lac_S5_0716-714-300x243.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p><p>&nbsp;</p>
+09-22 17:26:54.634 I/title   (21881): Flare gamma dal buco nero massivo Markarian 421
+09-22 17:26:54.634 I/title   (21881): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_Mrk_421.png
+09-22 17:26:54.634 I/title   (21881): <p style="text-align: left;">First multifrequency campaign in 2008 including X-ray  (SuperAGILE), gamma-ray and TeV observations of the flaring blazar Mrk 421.</p><p style="text-align: left;"><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_Mrk_421.png"><img class="alignnone size-full wp-image-162" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_Mrk_421.png" alt="big_Mrk_421" width="600" height="504" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_Mrk_421.png 600w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceit/wp-content/uploads/2014/08/big_Mrk_421-300x252.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+09-22 17:26:54.634 I/Choreographer(21881): Skipped 31 frames!  The application may be doing too much work on its main thread.
+09-22 17:26:54.644 I/def     (21881): 1http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/GetMediaImage.php?sourceYear=2014&sourceMonth=08&sourceName=big_AGILE_Crab.png&width=100&height=100
+09-22 17:26:54.654 I/def     (21881): 1http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/GetMediaImage.php?sourceYear=2014&sourceMonth=08&sourceName=big_W44.png&width=100&height=100
+09-22 17:26:54.664 I/def     (21881): 1http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/GetMediaImage.php?sourceYear=2014&sourceMonth=08&sourceName=big_CygX-3.png&width=100&height=100
+09-22 17:26:54.674 I/def     (21881): 1http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/GetMediaImage.php?sourceYear=2014&sourceMonth=08&sourceName=big_TGF.png&width=100&height=100
+09-22 17:26:54.684 I/def     (21881): 1http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/GetMediaImage.php?sourceYear=2014&sourceMonth=08&sourceName=big_3C454.3_November_2010.png&width=100&height=100
+09-22 17:26:54.694 I/def     (21881): 1http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/GetMediaImage.php?sourceYear=2014&sourceMonth=08&sourceName=big_Pulsar_B1509-58.png&width=100&height=100
+09-22 17:26:54.714 I/System.out(21881): mEpoch: 15089.38033201
+09-22 17:26:54.714 I/System.out(21881): mXincl: 2.4678
+09-22 17:26:54.714 I/System.out(21881): mXnode0: 273.8747
+09-22 17:26:54.714 I/System.out(21881): mE0: 14703.0
+09-22 17:26:54.714 I/System.out(21881): mOmega0: 37.0641
+09-22 17:26:54.714 I/System.out(21881): mXm0: 323.0427
+09-22 17:26:54.714 I/System.out(21881): mXn0: 15.24045959439669
+09-22 17:26:54.714 I/System.out(21881): rteosq: 0.9999989191083708
+09-22 17:26:54.714 I/System.out(21881): xn0: 0.06640631984165325
+09-22 17:26:54.714 I/System.out(21881): mGmst: -0.6220163455375955
+09-22 17:26:54.714 I/System.out(21881): tsince: 1.3386646068566401E8
+09-22 17:26:54.714 I/System.out(21881): mXlcof: 1.0096211106796974E-4
+09-22 17:26:54.714 I/System.out(21881): mAycof: 5.048691108486875E-5
+09-22 17:26:54.714 I/System.out(21881): mins: 780859.2219055998
+09-22 17:26:54.714 I/position(21881): -0.024367959915573723  7.940713099844288
+09-22 17:26:54.765 W/Google Maps Android API(21881): GLHudOverlay deprecated; draw(): no-op
+09-22 17:26:54.865 D/AndroidRuntime(21881): Shutting down VM
+09-22 17:26:54.865 W/dalvikvm(21881): threadid=1: thread exiting with uncaught exception (group=0x42026da0)
+09-22 17:26:54.865 E/ACRA    (21881): ACRA caught a IllegalStateException for com.agile.science
+09-22 17:26:54.865 E/ACRA    (21881): java.lang.IllegalStateException: Cannot execute task: the task has already been executed (a task can be executed only once)
+09-22 17:26:54.865 E/ACRA    (21881): 	at android.os.AsyncTask.executeOnExecutor(AsyncTask.java:579)
+09-22 17:26:54.865 E/ACRA    (21881): 	at android.os.AsyncTask.execute(AsyncTask.java:535)
+09-22 17:26:54.865 E/ACRA    (21881): 	at quattro.FragmentQuattro$DownloadJSON.onPostExecute(FragmentQuattro.java:283)
+09-22 17:26:54.865 E/ACRA    (21881): 	at quattro.FragmentQuattro$DownloadJSON.onPostExecute(FragmentQuattro.java:219)
+09-22 17:26:54.865 E/ACRA    (21881): 	at android.os.AsyncTask.finish(AsyncTask.java:632)
+09-22 17:26:54.865 E/ACRA    (21881): 	at android.os.AsyncTask.access$600(AsyncTask.java:177)
+09-22 17:26:54.865 E/ACRA    (21881): 	at android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:645)
+09-22 17:26:54.865 E/ACRA    (21881): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+09-22 17:26:54.865 E/ACRA    (21881): 	at android.os.Looper.loop(Looper.java:146)
+09-22 17:26:54.865 E/ACRA    (21881): 	at android.app.ActivityThread.main(ActivityThread.java:5593)
+09-22 17:26:54.865 E/ACRA    (21881): 	at java.lang.reflect.Method.invokeNative(Native Method)
+09-22 17:26:54.865 E/ACRA    (21881): 	at java.lang.reflect.Method.invoke(Method.java:515)
+09-22 17:26:54.865 E/ACRA    (21881): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1283)
+09-22 17:26:54.865 E/ACRA    (21881): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+09-22 17:26:54.865 E/ACRA    (21881): 	at dalvik.system.NativeStart.main(Native Method)
+AVAILABLE_MEM_SIZE = 1477148672
+USER_APP_START_DATE = 2016-09-22T17:24:01.610+02:00
+CUSTOM_DATA = 
+BRAND = samsung
+FILE_PATH = /data/data/com.agile.science/files
+TOTAL_MEM_SIZE = 5643431936
+INITIAL_CONFIGURATION = FlipFont=0
+arrange=0
+compatScreenHeightDp=545
+compatScreenWidthDp=320
+compatSmallestScreenWidthDp=320
+densityDpi=240
+fontScale=1.3
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_YES
+keyboard=KEYBOARD_NOKEYS
+keyboardHidden=KEYBOARDHIDDEN_NO
+locale=it_IT
+mcc=222
+mnc=1
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=614
+screenLayout=SCREENLAYOUT_SIZE_NORMAL+SCREENLAYOUT_LONG_YES+SCREENLAYOUT_LAYOUTDIR_LTR
+screenWidthDp=360
+seq=6
+smallestScreenWidthDp=360
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=true
+
+ENVIRONMENT = getAndroidSecureContainerDirectory=/mnt/asec
+getDataDirectory=/data
+getDownloadCacheDirectory=/cache
+getEmulatedStorageObbSource=/mnt/shell/emulated/obb
+getExternalStorageDirectory=/storage/emulated/0
+getExternalStorageState=mounted
+getLegacyExternalStorageDirectory=/storage/emulated/legacy
+getLegacyExternalStorageObbDirectory=/storage/emulated/legacy/Android/obb
+getMediaBaseStorageDirectory=/secdata
+getMediaStorageDirectory=/data/media/0
+getRootDirectory=/system
+getSecureDataDirectory=/data
+getSystemSecureDirectory=/data/system
+isEncryptedFilesystemEnabled=false
+isExternalStorageEmulated=true
+isExternalStorageRemovable=false
+
+REPORT_ID = 36285b05-40ee-40a3-99ba-8c5ccc4e4f3b

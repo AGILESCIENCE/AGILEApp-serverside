@@ -1,0 +1,327 @@
+LOGCAT = --------- beginning of main
+09-21 12:36:54.483 I/dex2oat ( 4499): /system/bin/dex2oat --debuggable --dex-file=/data/data/com.agile.science/files/instant-run/dex/slice-com.google.android.gms-play-services-clearcut-9.4.0_cf86488531aaeed8fa7732be6b016a3471e73be1-classes.dex --oat-file=/data/user/0/com.agile.science/cache/slice-com.google.android.gms-play-services-clearcut-9.4.0_cf86488531aaeed8fa7732be6b016a3471e73be1-classes.dex
+09-21 12:36:54.483 E/cutils-trace( 4499): Error opening trace file: Permission denied (13)
+09-21 12:36:54.573 I/dex2oat ( 4499): dex2oat took 90.080ms (threads: 2) arena alloc=58KB java alloc=74KB native alloc=1849KB free=1222KB
+09-21 12:36:54.604 W/dex2oat ( 4502): Unexpected CPU variant for X86 using defaults: x86_64
+09-21 12:36:54.604 I/dex2oat ( 4502): /system/bin/dex2oat --debuggable --dex-file=/data/data/com.agile.science/files/instant-run/dex/slice-com.google.android.gms-play-services-cast-framework-9.4.0_4dfd03dfd5054886332d41850cf7afcc7f06ebe6-classes.dex --oat-file=/data/user/0/com.agile.science/cache/slice-com.google.android.gms-play-services-cast-framework-9.4.0_4dfd03dfd5054886332d41850cf7afcc7f06ebe6-classes.dex
+09-21 12:36:54.604 E/cutils-trace( 4502): Error opening trace file: Permission denied (13)
+09-21 12:36:54.915 I/dex2oat ( 4502): dex2oat took 311.856ms (threads: 2) arena alloc=20KB java alloc=526KB native alloc=2MB free=1965KB
+09-21 12:36:54.999 W/dex2oat ( 4511): Unexpected CPU variant for X86 using defaults: x86_64
+09-21 12:36:54.999 I/dex2oat ( 4511): /system/bin/dex2oat --debuggable --dex-file=/data/data/com.agile.science/files/instant-run/dex/slice-com.google.android.gms-play-services-cast-9.4.0_c443a755e8e95e57970062e63d83505226f4f5bd-classes.dex --oat-file=/data/user/0/com.agile.science/cache/slice-com.google.android.gms-play-services-cast-9.4.0_c443a755e8e95e57970062e63d83505226f4f5bd-classes.dex
+09-21 12:36:54.999 E/cutils-trace( 4511): Error opening trace file: Permission denied (13)
+09-21 12:36:55.321 I/dex2oat ( 4511): dex2oat took 322.518ms (threads: 2) arena alloc=88KB java alloc=224KB native alloc=2MB free=1789KB
+09-21 12:36:55.359 W/dex2oat ( 4521): Unexpected CPU variant for X86 using defaults: x86_64
+09-21 12:36:55.359 I/dex2oat ( 4521): /system/bin/dex2oat --debuggable --dex-file=/data/data/com.agile.science/files/instant-run/dex/slice-com.google.android.gms-play-services-basement-9.4.0_db712e670053f0e7eb745c29f0e65040528ca19c-classes.dex --oat-file=/data/user/0/com.agile.science/cache/slice-com.google.android.gms-play-services-basement-9.4.0_db712e670053f0e7eb745c29f0e65040528ca19c-classes.dex
+09-21 12:36:55.359 E/cutils-trace( 4521): Error opening trace file: Permission denied (13)
+09-21 12:36:55.934 I/dex2oat ( 4521): dex2oat took 575.868ms (threads: 2) arena alloc=534KB java alloc=837KB native alloc=5MB free=2MB
+09-21 12:36:55.978 W/dex2oat ( 4532): Unexpected CPU variant for X86 using defaults: x86_64
+09-21 12:36:55.980 I/dex2oat ( 4532): /system/bin/dex2oat --debuggable --dex-file=/data/data/com.agile.science/files/instant-run/dex/slice-com.google.android.gms-play-services-base-9.4.0_9609c711f819c9bb3cc19cee1a3b3d3bd5d715be-classes.dex --oat-file=/data/user/0/com.agile.science/cache/slice-com.google.android.gms-play-services-base-9.4.0_9609c711f819c9bb3cc19cee1a3b3d3bd5d715be-classes.dex
+09-21 12:36:55.980 E/cutils-trace( 4532): Error opening trace file: Permission denied (13)
+09-21 12:36:56.365 I/dex2oat ( 4532): dex2oat took 387.533ms (threads: 2) arena alloc=254KB java alloc=452KB native alloc=2MB free=1989KB
+09-21 12:36:56.408 W/dex2oat ( 4543): Unexpected CPU variant for X86 using defaults: x86_64
+09-21 12:36:56.409 I/dex2oat ( 4543): /system/bin/dex2oat --debuggable --dex-file=/data/data/com.agile.science/files/instant-run/dex/slice-com.google.android.gms-play-services-auth-base-9.4.0_6d15a795e294f354c37d18119886d499ff1d5c70-classes.dex --oat-file=/data/user/0/com.agile.science/cache/slice-com.google.android.gms-play-services-auth-base-9.4.0_6d15a795e294f354c37d18119886d499ff1d5c70-classes.dex
+09-21 12:36:56.409 E/cutils-trace( 4543): Error opening trace file: Permission denied (13)
+09-21 12:36:56.528 I/dex2oat ( 4543): dex2oat took 120.079ms (threads: 2) arena alloc=51KB java alloc=96KB native alloc=1606KB free=1465KB
+09-21 12:36:56.557 W/dex2oat ( 4546): Unexpected CPU variant for X86 using defaults: x86_64
+09-21 12:36:56.559 I/dex2oat ( 4546): /system/bin/dex2oat --debuggable --dex-file=/data/data/com.agile.science/files/instant-run/dex/slice-com.google.android.gms-play-services-auth-9.4.0_087e9d8e6b94ba54ce5287e6bc4ce1a42be31e1d-classes.dex --oat-file=/data/user/0/com.agile.science/cache/slice-com.google.android.gms-play-services-auth-9.4.0_087e9d8e6b94ba54ce5287e6bc4ce1a42be31e1d-classes.dex
+09-21 12:36:56.559 E/cutils-trace( 4546): Error opening trace file: Permission denied (13)
+09-21 12:36:56.666 I/dex2oat ( 4546): dex2oat took 109.002ms (threads: 2) arena alloc=58KB java alloc=137KB native alloc=1575KB free=1240KB
+09-21 12:36:56.689 W/dex2oat ( 4549): Unexpected CPU variant for X86 using defaults: x86_64
+09-21 12:36:56.689 I/dex2oat ( 4549): /system/bin/dex2oat --debuggable --dex-file=/data/data/com.agile.science/files/instant-run/dex/slice-com.google.android.gms-play-services-appinvite-9.4.0_510782ca375ac44218af9ee14fd7b1431009b871-classes.dex --oat-file=/data/user/0/com.agile.science/cache/slice-com.google.android.gms-play-services-appinvite-9.4.0_510782ca375ac44218af9ee14fd7b1431009b871-classes.dex
+09-21 12:36:56.689 E/cutils-trace( 4549): Error opening trace file: Permission denied (13)
+09-21 12:36:56.753 I/dex2oat ( 4549): dex2oat took 64.610ms (threads: 2) arena alloc=51KB java alloc=118KB native alloc=1328KB free=1743KB
+09-21 12:36:56.778 W/dex2oat ( 4554): Unexpected CPU variant for X86 using defaults: x86_64
+09-21 12:36:56.778 I/dex2oat ( 4554): /system/bin/dex2oat --debuggable --dex-file=/data/data/com.agile.science/files/instant-run/dex/slice-com.google.android.gms-play-services-appindexing-9.4.0_ae81f86189588437dc7ead66f0b60467ebd3676e-classes.dex --oat-file=/data/user/0/com.agile.science/cache/slice-com.google.android.gms-play-services-appindexing-9.4.0_ae81f86189588437dc7ead66f0b60467ebd3676e-classes.dex
+09-21 12:36:56.778 E/cutils-trace( 4554): Error opening trace file: Permission denied (13)
+09-21 12:36:56.936 I/dex2oat ( 4554): dex2oat took 158.003ms (threads: 2) arena alloc=89KB java alloc=115KB native alloc=1607KB free=1464KB
+09-21 12:36:56.968 W/dex2oat ( 4563): Unexpected CPU variant for X86 using defaults: x86_64
+09-21 12:36:56.970 I/dex2oat ( 4563): /system/bin/dex2oat --debuggable --dex-file=/data/data/com.agile.science/files/instant-run/dex/slice-com.google.android.gms-play-services-analytics-impl-9.4.0_e76527a6b7a3bed4a53053c976b46987d980098c-classes.dex --oat-file=/data/user/0/com.agile.science/cache/slice-com.google.android.gms-play-services-analytics-impl-9.4.0_e76527a6b7a3bed4a53053c976b46987d980098c-classes.dex
+09-21 12:36:56.970 E/cutils-trace( 4563): Error opening trace file: Permission denied (13)
+09-21 12:36:57.489 I/dex2oat ( 4563): dex2oat took 520.501ms (threads: 2) arena alloc=38KB java alloc=546KB native alloc=3MB free=1956KB
+09-21 12:36:57.538 W/dex2oat ( 4574): Unexpected CPU variant for X86 using defaults: x86_64
+09-21 12:36:57.539 I/dex2oat ( 4574): /system/bin/dex2oat --debuggable --dex-file=/data/data/com.agile.science/files/instant-run/dex/slice-com.google.android.gms-play-services-analytics-9.4.0_9d5c14b5c9a5fa4c39b8372dd8d7b8861bb1e690-classes.dex --oat-file=/data/user/0/com.agile.science/cache/slice-com.google.android.gms-play-services-analytics-9.4.0_9d5c14b5c9a5fa4c39b8372dd8d7b8861bb1e690-classes.dex
+09-21 12:36:57.539 E/cutils-trace( 4574): Error opening trace file: Permission denied (13)
+09-21 12:36:57.576 I/dex2oat ( 4574): dex2oat took 37.461ms (threads: 2) arena alloc=38KB java alloc=20KB native alloc=1040KB free=1263KB
+09-21 12:36:57.615 W/dex2oat ( 4577): Unexpected CPU variant for X86 using defaults: x86_64
+09-21 12:36:57.616 I/dex2oat ( 4577): /system/bin/dex2oat --debuggable --dex-file=/data/data/com.agile.science/files/instant-run/dex/slice-com.google.android.gms-play-services-ads-lite-9.4.0_79da474f6f7cd089ef6fe59b26930e3b44df1b2d-classes.dex --oat-file=/data/user/0/com.agile.science/cache/slice-com.google.android.gms-play-services-ads-lite-9.4.0_79da474f6f7cd089ef6fe59b26930e3b44df1b2d-classes.dex
+09-21 12:36:57.616 E/cutils-trace( 4577): Error opening trace file: Permission denied (13)
+09-21 12:36:57.960 I/dex2oat ( 4577): dex2oat took 344.329ms (threads: 2) arena alloc=25KB java alloc=658KB native alloc=2MB free=2MB
+09-21 12:36:57.994 W/dex2oat ( 4582): Unexpected CPU variant for X86 using defaults: x86_64
+09-21 12:36:57.994 I/dex2oat ( 4582): /system/bin/dex2oat --debuggable --dex-file=/data/data/com.agile.science/files/instant-run/dex/slice-com.google.android.gms-play-services-ads-9.4.0_d12f4bf47be571ea5d4d0b53d7c927d7ae667b9d-classes.dex --oat-file=/data/user/0/com.agile.science/cache/slice-com.google.android.gms-play-services-ads-9.4.0_d12f4bf47be571ea5d4d0b53d7c927d7ae667b9d-classes.dex
+09-21 12:36:57.994 E/cutils-trace( 4582): Error opening trace file: Permission denied (13)
+09-21 12:36:58.806 I/dex2oat ( 4582): dex2oat took 812.614ms (threads: 2) arena alloc=817KB java alloc=1247KB native alloc=6MB free=2MB
+09-21 12:36:58.833 W/dex2oat ( 4599): Unexpected CPU variant for X86 using defaults: x86_64
+09-21 12:36:58.834 I/dex2oat ( 4599): /system/bin/dex2oat --debuggable --dex-file=/data/data/com.agile.science/files/instant-run/dex/slice-com.android.support-support-v4-23.3.0_6b5d62f07ee91a40e62a52b20402899ed314802d-classes.dex --oat-file=/data/user/0/com.agile.science/cache/slice-com.android.support-support-v4-23.3.0_6b5d62f07ee91a40e62a52b20402899ed314802d-classes.dex
+09-21 12:36:58.834 E/cutils-trace( 4599): Error opening trace file: Permission denied (13)
+09-21 12:37:00.111 I/dex2oat ( 4599): dex2oat took 1.278s (threads: 2) arena alloc=276KB java alloc=1554KB native alloc=6MB free=2012KB
+09-21 12:37:00.191 W/dex2oat ( 4632): Unexpected CPU variant for X86 using defaults: x86_64
+09-21 12:37:00.192 I/dex2oat ( 4632): /system/bin/dex2oat --debuggable --dex-file=/data/data/com.agile.science/files/instant-run/dex/slice-com.android.support-multidex-1.0.1_ce0dabef804c9dfdac48e10856a17d6d606c7a92-classes.dex --oat-file=/data/user/0/com.agile.science/cache/slice-com.android.support-multidex-1.0.1_ce0dabef804c9dfdac48e10856a17d6d606c7a92-classes.dex
+09-21 12:37:00.192 E/cutils-trace( 4632): Error opening trace file: Permission denied (13)
+09-21 12:37:00.225 I/dex2oat ( 4632): dex2oat took 34.331ms (threads: 2) arena alloc=38KB java alloc=42KB native alloc=650KB free=1397KB
+09-21 12:37:00.253 W/dex2oat ( 4640): Unexpected CPU variant for X86 using defaults: x86_64
+09-21 12:37:00.253 I/dex2oat ( 4640): /system/bin/dex2oat --debuggable --dex-file=/data/data/com.agile.science/files/instant-run/dex/slice-com.android.support-mediarouter-v7-23.0.0_cd9aff01acdb490f617e2adeb50ff082c8717d4c-classes.dex --oat-file=/data/user/0/com.agile.science/cache/slice-com.android.support-mediarouter-v7-23.0.0_cd9aff01acdb490f617e2adeb50ff082c8717d4c-classes.dex
+09-21 12:37:00.253 E/cutils-trace( 4640): Error opening trace file: Permission denied (13)
+09-21 12:37:00.494 I/dex2oat ( 4640): dex2oat took 241.158ms (threads: 2) arena alloc=23KB java alloc=255KB native alloc=2MB free=1718KB
+09-21 12:37:00.534 W/dex2oat ( 4647): Unexpected CPU variant for X86 using defaults: x86_64
+09-21 12:37:00.538 I/dex2oat ( 4647): /system/bin/dex2oat --debuggable --dex-file=/data/data/com.agile.science/files/instant-run/dex/slice-com.android.support-appcompat-v7-23.0.0_9d119d98ee6a74f5dcfcf08203605ef2b7329b6c-classes.dex --oat-file=/data/user/0/com.agile.science/cache/slice-com.android.support-appcompat-v7-23.0.0_9d119d98ee6a74f5dcfcf08203605ef2b7329b6c-classes.dex
+09-21 12:37:00.539 E/cutils-trace( 4647): Error opening trace file: Permission denied (13)
+09-21 12:37:00.590 W/dex2oat ( 4647): Before Android 4.1, method int android.support.v7.internal.widget.ListViewCompat.lookForSelectablePosition(int, boolean) would have incorrectly overridden the package-private method in android.widget.ListView
+09-21 12:37:01.026 W/dex2oat ( 4647): Verification of void android.support.v7.widget.SuggestionsAdapter.setViewText(android.widget.TextView, java.lang.CharSequence) took 130.823ms
+09-21 12:37:01.032 W/dex2oat ( 4647): Verification of java.lang.CharSequence android.support.v7.widget.SearchView.getDecoratedHint(java.lang.CharSequence) took 175.971ms
+09-21 12:37:01.546 I/dex2oat ( 4647): dex2oat took 1.011s (threads: 2) arena alloc=526KB java alloc=1399KB native alloc=4MB free=2MB
+09-21 12:37:01.579 W/dex2oat ( 4662): Unexpected CPU variant for X86 using defaults: x86_64
+09-21 12:37:01.579 I/dex2oat ( 4662): /system/bin/dex2oat --debuggable --dex-file=/data/data/com.agile.science/files/instant-run/dex/slice-ch.acra-acra-4.9.0_da79fc7f0199ef31da7243995c4a9bf1a7c78b5e-classes.dex --oat-file=/data/user/0/com.agile.science/cache/slice-ch.acra-acra-4.9.0_da79fc7f0199ef31da7243995c4a9bf1a7c78b5e-classes.dex
+09-21 12:37:01.579 E/cutils-trace( 4662): Error opening trace file: Permission denied (13)
+09-21 12:37:01.703 I/dex2oat ( 4662): dex2oat took 124.038ms (threads: 2) arena alloc=655KB java alloc=275KB native alloc=2MB free=1618KB
+09-21 12:37:01.708 W/System  ( 3899): ClassLoader referenced unknown path: /data/app/com.agile.science-1/lib/x86_64
+09-21 12:37:01.719 I/MultiDex( 3899): VM with version 2.1.0 has multidex support
+09-21 12:37:01.719 I/MultiDex( 3899): install
+09-21 12:37:01.719 I/MultiDex( 3899): VM has multidex support, MultiDex support library is disabled.
+09-21 12:37:01.719 I/acra    ( 3899): acra
+09-21 12:37:01.744 I/ACRA    ( 3899): Migrating unsent ACRA reports to new file locations
+09-21 12:37:01.744 I/ACRA    ( 3899): Migrated 0 unsent reports
+09-21 12:37:01.745 I/ACRA    ( 3899): ACRA is enabled for com.agile.science, initializing...
+09-21 12:37:01.815 I/FirebaseInitProvider( 3899): FirebaseApp initialization unsuccessful
+09-21 12:37:01.997 D/OpenGLRenderer( 3899): Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+09-21 12:37:02.006 D/        ( 3899): HostConnection::get() New Host Connection established 0x7f3dea77f400, tid 3899
+09-21 12:37:02.115 D/        ( 3899): HostConnection::get() New Host Connection established 0x7f3df85d0b80, tid 4676
+09-21 12:37:02.167 I/OpenGLRenderer( 3899): Initialized EGL, version 1.4
+09-21 12:37:05.775 I/map     ( 3899): oncreate
+09-21 12:37:05.826 I/zzai    ( 3899): Making Creator dynamically
+09-21 12:37:05.836 W/System  ( 3899): ClassLoader referenced unknown path: /system/priv-app/PrebuiltGmsCore/lib/x86_64
+09-21 12:37:05.849 D/ChimeraCfgMgr( 3899): Reading stored module config
+09-21 12:37:05.877 W/System  ( 3899): ClassLoader referenced unknown path: /data/user/0/com.google.android.gms/app_chimera/m/00000001/n/x86_64
+09-21 12:37:05.892 D/ChimeraFileApk( 3899): Primary ABI of requesting process is x86_64
+09-21 12:37:05.893 D/ChimeraFileApk( 3899): Classloading successful. Optimized code found.
+09-21 12:37:05.929 I/Google Maps Android API( 3899): Google Play services client version: 9452000
+09-21 12:37:05.935 I/Google Maps Android API( 3899): Google Play services package version: 9452480
+09-21 12:37:06.012 D/FLASH   ( 3899): Couldn't find file:  /data/user/0/com.agile.science/files/DATA_ServerControlledParametersManager.data.com.agile.science: open failed: ENOENT (No such file or directory)
+09-21 12:37:06.311 I/path    ( 3899): 23 14
+09-21 12:37:06.311 D/AndroidRuntime( 3899): Shutting down VM
+09-21 12:37:06.312 E/ACRA    ( 3899): ACRA caught a NullPointerException for com.agile.science
+09-21 12:37:06.312 E/ACRA    ( 3899): java.lang.NullPointerException: Attempt to invoke virtual method 'void com.google.android.gms.maps.MapFragment.getMapAsync(com.google.android.gms.maps.OnMapReadyCallback)' on a null object reference
+09-21 12:37:06.312 E/ACRA    ( 3899): 	at com.agile.science.FragmentMap.onCreateView(FragmentMap.java:77)
+09-21 12:37:06.312 E/ACRA    ( 3899): 	at android.app.Fragment.performCreateView(Fragment.java:2220)
+09-21 12:37:06.312 E/ACRA    ( 3899): 	at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:973)
+09-21 12:37:06.312 E/ACRA    ( 3899): 	at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:1148)
+09-21 12:37:06.312 E/ACRA    ( 3899): 	at android.app.BackStackRecord.run(BackStackRecord.java:793)
+09-21 12:37:06.312 E/ACRA    ( 3899): 	at android.app.FragmentManagerImpl.execPendingActions(FragmentManager.java:1535)
+09-21 12:37:06.312 E/ACRA    ( 3899): 	at android.app.FragmentManagerImpl$1.run(FragmentManager.java:482)
+09-21 12:37:06.312 E/ACRA    ( 3899): 	at android.os.Handler.handleCallback(Handler.java:739)
+09-21 12:37:06.312 E/ACRA    ( 3899): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+09-21 12:37:06.312 E/ACRA    ( 3899): 	at android.os.Looper.loop(Looper.java:148)
+09-21 12:37:06.312 E/ACRA    ( 3899): 	at android.app.ActivityThread.main(ActivityThread.java:5417)
+09-21 12:37:06.312 E/ACRA    ( 3899): 	at java.lang.reflect.Method.invoke(Native Method)
+09-21 12:37:06.312 E/ACRA    ( 3899): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:726)
+09-21 12:37:06.312 E/ACRA    ( 3899): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:616)
+APP_VERSION_CODE = 1
+DEVICE_FEATURES = android.hardware.sensor.proximity
+android.hardware.sensor.accelerometer
+android.hardware.faketouch
+android.hardware.usb.accessory
+android.software.backup
+android.hardware.touchscreen
+android.hardware.touchscreen.multitouch
+android.software.print
+android.software.voice_recognizers
+android.hardware.sensor.relative_humidity
+android.hardware.telephony.gsm
+android.hardware.audio.output
+android.hardware.screen.portrait
+android.software.home_screen
+android.hardware.microphone
+android.hardware.sensor.compass
+android.hardware.touchscreen.multitouch.jazzhand
+android.hardware.sensor.barometer
+android.software.app_widgets
+android.software.input_methods
+android.hardware.sensor.light
+android.software.device_admin
+android.hardware.camera
+android.hardware.screen.landscape
+android.software.managed_users
+android.software.webview
+android.hardware.camera.any
+android.software.connectionservice
+android.hardware.touchscreen.multitouch.distinct
+android.hardware.location.network
+android.software.live_wallpaper
+android.hardware.location.gps
+android.software.midi
+android.hardware.location
+android.hardware.telephony
+glEsVersion = 2.0
+
+CUSTOM_DATA = 
+USER_CRASH_DATE = 2016-09-21T12:37:06.355+02:00
+AVAILABLE_MEM_SIZE = 1728811008
+BRAND = Android
+INSTALLATION_ID = 14597bb4-4dac-4666-8f44-a9c1fcfbfb03
+SHARED_PREFERENCES = default.acra.legacyAlreadyConvertedTo4.8.0=true
+default.acra.lastVersionNr=1
+
+
+FILE_PATH = /data/user/0/com.agile.science/files
+STACK_TRACE = java.lang.NullPointerException: Attempt to invoke virtual method 'void com.google.android.gms.maps.MapFragment.getMapAsync(com.google.android.gms.maps.OnMapReadyCallback)' on a null object reference
+	at com.agile.science.FragmentMap.onCreateView(FragmentMap.java:77)
+	at android.app.Fragment.performCreateView(Fragment.java:2220)
+	at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:973)
+	at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:1148)
+	at android.app.BackStackRecord.run(BackStackRecord.java:793)
+	at android.app.FragmentManagerImpl.execPendingActions(FragmentManager.java:1535)
+	at android.app.FragmentManagerImpl$1.run(FragmentManager.java:482)
+	at android.os.Handler.handleCallback(Handler.java:739)
+	at android.os.Handler.dispatchMessage(Handler.java:95)
+	at android.os.Looper.loop(Looper.java:148)
+	at android.app.ActivityThread.main(ActivityThread.java:5417)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:726)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:616)
+
+PHONE_MODEL = Android SDK built for x86_64
+TOTAL_MEM_SIZE = 2080194560
+USER_COMMENT = 
+PACKAGE_NAME = com.agile.science
+IS_SILENT = 
+DUMPSYS_MEMINFO = Permission Denial: can't dump meminfo from from pid=4768, uid=10059 without permission android.permission.DUMP
+INITIAL_CONFIGURATION = compatScreenHeightDp=504
+compatScreenWidthDp=320
+compatSmallestScreenWidthDp=320
+densityDpi=480
+fontScale=1.0
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_YES
+keyboard=KEYBOARD_NOKEYS
+keyboardHidden=KEYBOARDHIDDEN_NO
+locale=en_US
+mcc=310
+mnc=260
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=568
+screenLayout=SCREENLAYOUT_SIZE_NORMAL+SCREENLAYOUT_LONG_NO+SCREENLAYOUT_LAYOUTDIR_LTR+SCREENLAYOUT_ROUND_NO
+screenWidthDp=360
+seq=6
+smallestScreenWidthDp=360
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=false
+
+BUILD_CONFIG = $change=
+APPLICATION_ID=com.agile.science
+BUILD_TYPE=debug
+DEBUG=true
+FLAVOR=
+VERSION_CODE=1
+VERSION_NAME=2.0.0
+
+PRODUCT = sdk_google_phone_x86_64
+DISPLAY = 0.currentSizeRange.smallest=[1080,1008]
+0.currentSizeRange.largest=[1794,1704]
+0.flags=FLAG_SUPPORTS_PROTECTED_BUFFERS+FLAG_SECURE
+0.height=1776
+0.metrics.density=3.0
+0.metrics.densityDpi=480
+0.metrics.scaledDensity=x3.0
+0.metrics.widthPixels=1080
+0.metrics.heightPixels=1776
+0.metrics.xdpi=480.0
+0.metrics.ydpi=480.0
+0.name=Built-in Screen
+0.orientation=0
+0.pixelFormat=1
+0.realMetrics.density=3.0
+0.realMetrics.densityDpi=480
+0.realMetrics.scaledDensity=x3.0
+0.realMetrics.widthPixels=1080
+0.realMetrics.heightPixels=1920
+0.realMetrics.xdpi=480.0
+0.realMetrics.ydpi=480.0
+0.realSize=[1080,1920]
+0.rectSize=[0,0,1080,1776]
+0.refreshRate=60.000004
+0.rotation=ROTATION_0
+0.size=[1080,1776]
+0.width=1080
+0.isValid=true
+
+REPORT_ID = ade9e626-7809-4009-b2f3-3a77532570ef
+APP_VERSION_NAME = 2.0.0
+CRASH_CONFIGURATION = compatScreenHeightDp=504
+compatScreenWidthDp=320
+compatSmallestScreenWidthDp=320
+densityDpi=480
+fontScale=1.0
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_YES
+keyboard=KEYBOARD_NOKEYS
+keyboardHidden=KEYBOARDHIDDEN_NO
+locale=en_US
+mcc=310
+mnc=260
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=568
+screenLayout=SCREENLAYOUT_SIZE_NORMAL+SCREENLAYOUT_LONG_NO+SCREENLAYOUT_LAYOUTDIR_LTR+SCREENLAYOUT_ROUND_NO
+screenWidthDp=360
+seq=6
+smallestScreenWidthDp=360
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=false
+
+BUILD = BOARD=unknown
+BOOTLOADER=unknown
+BRAND=Android
+CPU_ABI=x86_64
+CPU_ABI2=
+DEVICE=generic_x86_64
+DISPLAY=sdk_google_phone_x86_64-userdebug 6.0 MASTER 3079352 test-keys
+FINGERPRINT=Android/sdk_google_phone_x86_64/generic_x86_64:6.0/MASTER/3079352:userdebug/test-keys
+HARDWARE=ranchu
+HOST=vpba14.mtv.corp.google.com
+ID=MASTER
+IS_DEBUGGABLE=true
+MANUFACTURER=unknown
+MODEL=Android SDK built for x86_64
+PRODUCT=sdk_google_phone_x86_64
+RADIO=unknown
+SERIAL=unknown
+SUPPORTED_32_BIT_ABIS=[x86]
+SUPPORTED_64_BIT_ABIS=[x86_64]
+SUPPORTED_ABIS=[x86_64, x86]
+TAGS=test-keys
+TIME=1469048534000
+TYPE=userdebug
+UNKNOWN=unknown
+USER=android-build
+VERSION.ACTIVE_CODENAMES=[]
+VERSION.BASE_OS=
+VERSION.CODENAME=REL
+VERSION.INCREMENTAL=3079352
+VERSION.PREVIEW_SDK_INT=0
+VERSION.RELEASE=6.0
+VERSION.RESOURCES_SDK_INT=23
+VERSION.SDK=23
+VERSION.SDK_INT=23
+VERSION.SECURITY_PATCH=2015-10-01
+
+ENVIRONMENT = getDataDirectory=/data
+getDownloadCacheDirectory=/cache
+getExternalStorageDirectory=/storage/emulated/0
+getExternalStorageState=mounted
+getLegacyExternalStorageDirectory=/sdcard
+getLegacyExternalStorageObbDirectory=/sdcard/Android/obb
+getOemDirectory=/oem
+getRootDirectory=/system
+getSecureDataDirectory=/data
+getStorageDirectory=/storage
+getSystemSecureDirectory=/data/system
+getVendorDirectory=/vendor
+isEncryptedFilesystemEnabled=false
+isExternalStorageEmulated=true
+isExternalStorageRemovable=false
+
+ANDROID_VERSION = 6.0
+USER_EMAIL = N/A
+USER_APP_START_DATE = 2016-09-21T12:37:01.764+02:00

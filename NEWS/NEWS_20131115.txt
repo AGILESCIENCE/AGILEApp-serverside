@@ -1,0 +1,18 @@
+---en===2013/11/15 AGILE-GRID view of GRB131108A ===
+
+---it===2013/11/15 Il GRB131108A visto da AGILE ===
+
+---en=== GRBs (Gamma-Rays Bursts) are flashes of gamma rays of high intensity but lasting only a few seconds. It is believed that they are related to the end of massive stars, although the mechanisms that produce these phenomena are still largely shrouded in mystery. On the night of November 8, AGILE has revealed GRB 131108A, that, for some tens of seconds, showed a brightness exceptionally high even for events of this kind. 
+This discovery is even more interesting considering the  distance from which the gamma photons of this GRB are coming. The place of origin was in fact identified in a galaxy at redshift 2.4, which corresponds to about 10 billion light years. The brightness and the distance of this event imply that the energy released in a few seconds by this GRB is 1000 times greater than that produced by the Sun during its entire life.===
+
+
+---it===I GRB (Gamma-Rays Burst) sono flash di raggi gamma di altissima intensita' ma della durata di pochi secondi. Si ritiene che siano legati alla fine di stelle di grande massa, anche se i meccanismi che producono questi fenomeni sono ancora in parte avvolti nel mistero. La notte dello scorso 8 novembre, AGILE ha rivelato il GRB 131108A che, per qualche decina di secondi, ha mostrato una luminosita' eccezionalmente alta anche per eventi di questo genere. A rendere ancora piu' interessante la scoperta e' la notevole distanza  da cui provengono i fotoni gamma di questo GRB. Il luogo di origine e' stato infatti individuato in una Galassia a redshift 2.4, che corrisponde a circa 10 miliardi di anni luce. La luminosita' e la distanza di questo evento implicano che l'energia sprigionata in pochi secondi da questo GRB e' 1000 volte maggiore di quella prodotta dal Sole durante la sua intera vita.===
+
+---en===http://agile.iasfbo.inaf.it/en/news/2013C.html===
+
+---it===http://agile.iasfbo.inaf.it/it/news/2013C.html===
+
+
+====GRB131108A.png====
+
+=====GRB131108A.png=====

@@ -1,0 +1,15 @@
+---en===The fastest gamma-ray alert monitoring system of the world===
+
+---it===Il sistema di allerta dei flare gamma piu' veloce del mondo===
+
+---en===The overall gamma-ray alert monitoring system of AGILE is compound by two independent pipelines that process the data with different data quality results. The INAF/IASF Bologna pipeline processes the data in the fastest possible way, loosing the tail of the data acquired during an AGILE orbit but it generates alert within 1.5-2 hours from the time of the last GRID event acquired in orbit. The ASDC pipeline is more accurate because all events are considered during the analysis but the alerts are generated 3-3.5 hours after. Due also to this ground segment architecture the 2012 Bruno Rossi Prize of the American Astronomical Society has been awarded to Marco Tavani, AGILE Principal Investigator,  and his team for the discovery of gamma-ray flares from the Crab Nebula.===
+
+---it===AGILE ha due sistemi di allerta automatica il primo allo IASF di Bologna con tempi di reazione di circa 1.5-2 ore, un record per missioni gamma di questo tipo, il secondo presso l'ASDC, con tempi di reazioni di circa 3-4 ore ma con una miglior qualita' dei dati prodotti. Questo gioco di squadra in due tempi e' risultato estremamente efficace permettendo ad AGILE di ottenere importanti risultati scientifici, e proprio grazie anche al suo ground segment che AGILE e' stato insignito del premio Bruno Rossi 2012 per la scoperta della variabilita' gamma della Nebulosa del Granchio.===
+
+---en===http://agile.iasfbo.inaf.it/en/top10/2010A.html===
+
+---it===http://agile.iasfbo.inaf.it/it/top10/2010A.html===
+
+====figura_10.png====
+
+=====figura_10.png=====

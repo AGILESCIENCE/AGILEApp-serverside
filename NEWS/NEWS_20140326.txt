@@ -1,0 +1,17 @@
+---en===2014/01/17 AGILE restarts the scientific observations! ===
+
+---it===2014/01/17 AGILE riprende le operazioni scientifiche!===
+
+---en=== AGILE restart after a no-telemetry hiatus (Jan. 1 - March 25, 2014). Sequence of sky maps showing the one-by-one gamma-ray photon detection as accumulated during the first day of operations (March 26-27, 2014). The AGILE satellite is in 'spinning mode' making a complete rotation in about 7 minutes. The empty sky regions corresponds to sky areas now inaccessible by the AGILE sky scanning. The last frame shows the summed-up photon intensity map. Sequence made by F. Verrecchia (ASDC) for the AGILE Team. Thanks to who has signed the petition. ===
+
+
+---it=== AGILE riprende le operazioni scientifiche dopo un periodo di non osservazione dal 1 gennaio al 25 marzo 2014. E’ possibile vedere una sequenza di immagini del cielo accumulate durante il primo giorno di operazioni. Le zone di cielo vuote corrispondono ad una regioni non accessibili ad AGILE in questo periodo. L’ultima immagini mostra tutto il cielo visto durante il primo giorno. Sequenza prodotta da F. Verrecchia (ASDC) per l’AGILE Team. Grazie a tutto coloro che hanno firmato la petizione. ===
+
+---en===http://www.asdc.asi.it/images/2.0/news/AGILE_restart_March14_anim_1d-intm_big.gif===
+
+---it===http://www.asdc.asi.it/images/2.0/news/AGILE_restart_March14_anim_1d-intm_big.gif===
+
+
+====restart.png====
+
+=====restart.png=====

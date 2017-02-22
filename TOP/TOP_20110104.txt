@@ -1,0 +1,15 @@
+---en===Discovery of TGF emission up to very high energies (100 MeV)===
+
+---it===Scoperta dell'emissione fino a energie molto elevate dei TGF ===
+
+---en=== Discovery of gamma-ray emission up to 100 MeV from terrestrial flashes associated with intense thunderstorms. Evidence for accelerating potentials larger than 100 MegaVolt. Theoretical models of acceleration in lightning discharges to be drastically revised. Significant impacts for atmospheric physics and climate studies.===
+
+---it===AGILE scopre emissione gamma fino a 100 MeV da lampi terrestri associati a tempeste particolarmente intense. Cio' prova la presenza di potenziali di accelerazione superiore a 100 Megavolt mettendo in discussione i modelli teorici di accelerazione dei fulmini. La scoperta avra' un impatto significativo sugli studi della fisica dell'atmosfera e sugli studi del clima.===
+
+---en===http://agile.iasfbo.inaf.it/en/top10/2011A.html===
+
+---it===http://agile.iasfbo.inaf.it/it/top10/2011A.html===
+
+====TGF.png====
+
+=====TGF.png=====

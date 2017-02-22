@@ -1,0 +1,15 @@
+---en===2010/11/17 AGILE extraordinary detection from the blazar 3C 454.3===
+
+---it===2010/11/17 AGILE ha rivelato emissione gamma dal blazar 3C 454.3===
+
+---en=== Starting on Nov. 17, 2010 (see ATel # 3034) the AGILE satellite detected another extraordinary gamma-ray flare from the blazar 3C 454.3 that we are calling "Crazy Diamond" for the unpredictable variability of its emission. This gamma-ray flare is the most intense and prolonged one (see ATel # 3043) ever detected, and transformed 3C 454.3 into the brightest gamma-ray source in the sky.===
+
+---it===A partire dal 17 novembre 2010 (si veda Atel# 3034) il satellite AGILE ha rivelato un altro straordinario flare gamma dal quasar 3C 454.3 denominato "Crazy Diamond" per la sua imprevedibile variabilita'. Questo e' il flare gamma piu' intenso e prolungato mai rivelato ed ha trasformato 3C 454.3 nella sorgente gamma piu' brillante del cielo.===
+
+---en===http://agile.iasfbo.inaf.it/en/news/2010D.html===
+
+---it===http://agile.iasfbo.inaf.it/it/news/2010D.html===
+
+====3C454.3_November_2010.png====
+
+=====3C454.3_November_2010.png=====

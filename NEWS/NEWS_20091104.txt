@@ -1,0 +1,15 @@
+---en===2009/11/04 AGILE in spinning mode===
+
+---it===2009/11/04 AGILE in modalita' spinning===
+
+---en=== On November 4, 2009 at 12:25:54 the AGILE scientific operations were reconfigured. The satellite will be operating in a spinning mode, i.e., with the instrument axis sweeping the accessible sky with an angular speed of 1 degree/sec. The  instrument and all detectors are operating nominally.===
+
+---it===Il 4 novembre 2009 alle 12:25:54 sono state riconfigurate le operazioni scientifiche di AGILE: Il satellite operera' in modalita' spinning, ossia con l'asse dello strumento che scandagliera' il cielo accessibile con una velocita' angolare di 1 grado/sec. Lo strumento e tutti i rivelatori operano nominalmente. ===
+
+---en===http://agile.iasfbo.inaf.it/en/news/2009B.html===
+
+---it===http://agile.iasfbo.inaf.it/it/news/2009B.html===
+
+====agile-spinning.png====
+
+=====agile-spinning.png=====

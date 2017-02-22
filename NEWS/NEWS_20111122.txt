@@ -1,0 +1,17 @@
+---en===2011/11/22 AGILE resolves the mystery of the origin of cosmic rays===
+
+---it===2011/11/22 AGILE risolve il mistero dell'origine dei raggi cosmici===
+
+---en=== AGILE has discovered a pattern of gamma-ray emission from the Supernova Remnant W44 that can be unambiguosly attributed to accelerate protons smashing against surrounding gas. For many decades, a direct identification of sites in our galaxy where proton acceleration takes place has been elusive. The AGILE data resolves the problem of clearly identifying a source of energetic cosmic rays in our galaxy. The AGILE team reported these findings in the paper by Giuliani et al., ApJL, 742, L30, 2011.===
+
+
+---it===AGILE ha scoperto nella banda gamma un'emissione in corrispondenza del resto di Supernova W44 che puo' essere attribuita inequivocabilmente a protoni accelerati che si "scontrano" con il gas circostante. Per diversi decenni, e' mancata un'identificazione diretta di siti all'interno della nostra Galassia in cui ha luogo l'accelerazione di protoni. I dati raccolti da AGILE risolvono il problema di identificare in modo chiaro una sorgente di raggi cosmici di alta energia. Il Team di AGILE ha riportato questi risultati nell'articolo di Giuliani et al., ApJL, 742, L30, 2011.===
+
+---en===http://agile.iasfbo.inaf.it/en/news/2011C.html===
+
+---it===http://agile.iasfbo.inaf.it/it/news/2011C.html===
+
+
+====W44.png====
+
+=====W44.png=====

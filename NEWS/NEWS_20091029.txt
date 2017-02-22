@@ -1,0 +1,15 @@
+---en===2009/10/29 The AGILE satellite detects "super-energetic TGFs" ===
+
+---it===2009/10/29 AGILE rileva lampi terrestri (TGF) "super-energetici" ===
+
+---en=== The AGILE satellite detects "super-energetic TGFs" that could affect air travel. "Terrestrial Gamma-Ray Flashes" (TGF) are phenomena of terrestrial (atmospheric) origin only lasting a few milliseconds that are likely associated to very intense tropical thunderstorms. The AGILE satellite detected several of these events since its first months of operations. The AGILE equatorial orbit, together with its advanced payload capabilities, allowed the discovery of TGFs with gamma-ray energy reaching up to 50 MeV. Such highly energetic radiation must be produced in atmospheric conditions requiring potential differences of 100 Mega Volts or more, hundreds of times larger than that required to produce the usual terrestrial lightning. As announced in a joint press release that can be found on the ASI and INAF websites, the AGILE Team and ASI are collaborating with ENAC (Ente Nazionale per l'Aviazione Civile) to understand the possible hazards to air traffic that these very energetic atmospheric events might cause. THE AGILE Team reported the detection of TGFs up to 40 MeV in the paper by Marisaldi et al., JGR, 115, A00E13, 2010.===
+
+---it===Il satellite AGILE rileva lampi terrestri (TGF- Terrestrial Gamma-Ray Flashes) "super-energetici" che possono disturbare la navigazione aerea. Si tratta di fenomeni di origine terrestre (atmosferica) che durano solo qualche millesimo di secondo e che sono probabilmente originati da tempeste tropicali particolarmente intense. Il satellite AGILE ha rilevato alcuni di questi eventi sin dai suoi primi mesi di operazioni. L'orbita equatoriale di AGILE, insieme alle sue capacita' avanzate di payload, hanno permesso la scoperta dei TGF con emissioni gamma che raggiungono i 50 MeV. Una simile radiazione energetica  deve essere prodotta in condizioni atmosferiche che richiedono una differenza di potenziale di 100 mega volts  o piu', centinaia di volte maggiore di quello richiesto per la produzione dei normali fulmini. Come annunciato in un comunicato stampa congiunto che puo' essere consultato sui siti ASI e INAF, il Team AGILE e ASI stanno collaborando con ENAC  (Ente Nazionale per l'Aviazione Civile) per capire il possibile impatto che questi eventi atmosferici cosi' energetici possono avere sulla navigazione aerea. Il Team AGILE ha riportato i suoi dati  nell'articolo di Marisaldi et al., JGR, 115, A00E13, 2010.===
+
+---en===http://agile.iasfbo.inaf.it/en/news/2009A.html===
+
+---it===http://agile.iasfbo.inaf.it/it/news/2009A.html===
+
+====TGF.png====
+
+=====TGF.png=====

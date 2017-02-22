@@ -1,0 +1,363 @@
+USER_EMAIL = N/A
+USER_COMMENT = 
+DEVICE_FEATURES = android.hardware.wifi
+android.hardware.location.network
+android.hardware.nfc
+com.sec.android.mdm
+android.hardware.bluetooth_le
+android.hardware.location
+android.software.input_methods
+android.hardware.sensor.gyroscope
+android.hardware.screen.landscape
+android.hardware.screen.portrait
+android.hardware.wifi.direct
+android.hardware.usb.accessory
+android.hardware.camera.any
+android.hardware.bluetooth
+android.hardware.touchscreen.multitouch.distinct
+android.hardware.microphone
+android.hardware.sensor.light
+android.hardware.camera.autofocus
+com.sec.feature.cover.sview
+android.software.live_wallpaper
+android.software.app_widgets
+android.hardware.camera.flash
+com.sec.feature.cover.sviewcover
+android.hardware.telephony
+android.software.sip
+android.hardware.touchscreen.multitouch.jazzhand
+android.hardware.usb.host
+android.hardware.touchscreen.multitouch
+com.sec.feature.cover.flip
+android.hardware.sensor.compass
+android.hardware.faketouch
+android.hardware.camera
+com.sec.feature.minimode
+android.software.home_screen
+android.software.sip.voip
+android.hardware.sensor.proximity
+android.hardware.location.gps
+android.hardware.consumerir
+android.hardware.telephony.gsm
+android.software.device_admin
+android.hardware.nfc.hce
+android.hardware.camera.front
+android.hardware.touchscreen
+android.hardware.sensor.accelerometer
+glEsVersion = 3.0
+
+PHONE_MODEL = GT-I9195
+INSTALLATION_ID = b7e43603-90ba-40ba-8d28-807b37c3c198
+SHARED_PREFERENCES = default.acra.lastVersionNr=1
+default.acra.legacyAlreadyConvertedTo4.8.0=true
+
+
+IS_SILENT = 
+PACKAGE_NAME = com.agile.science
+ANDROID_VERSION = 4.4.2
+APP_VERSION_CODE = 1
+CRASH_CONFIGURATION = FlipFont=0
+arrange=0
+compatScreenHeightDp=545
+compatScreenWidthDp=320
+compatSmallestScreenWidthDp=320
+densityDpi=240
+fontScale=1.3
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_YES
+keyboard=KEYBOARD_NOKEYS
+keyboardHidden=KEYBOARDHIDDEN_NO
+locale=it_IT
+mcc=222
+mnc=1
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=614
+screenLayout=SCREENLAYOUT_SIZE_NORMAL+SCREENLAYOUT_LONG_YES+SCREENLAYOUT_LAYOUTDIR_LTR
+screenWidthDp=360
+seq=6
+smallestScreenWidthDp=360
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=true
+
+USER_CRASH_DATE = 2016-09-22T17:10:20.635+02:00
+BUILD = BOARD=MSM8960
+BOOTLOADER=I9195XXUCOI4
+BRAND=samsung
+CPU_ABI=armeabi-v7a
+CPU_ABI2=armeabi
+DEVICE=serranolte
+DISPLAY=KOT49H.I9195XXUCOI4
+FINGERPRINT=samsung/serranoltexx/serranolte:4.4.2/KOT49H/I9195XXUCOI4:user/release-keys
+HARDWARE=qcom
+HOST=SWHD7520
+ID=KOT49H
+IS_DEBUGGABLE=false
+IS_ENG_SECURED=false
+IS_SYSTEM_SECURE=false
+MANUFACTURER=samsung
+MODEL=GT-I9195
+PRODUCT=serranoltexx
+RADIO=unknown
+SERIAL=0adbc9ec
+TAGS=release-keys
+TIME=1442989861000
+TYPE=user
+UNKNOWN=unknown
+USER=dpi
+VERSION.CODENAME=REL
+VERSION.INCREMENTAL=I9195XXUCOI4
+VERSION.RELEASE=4.4.2
+VERSION.RESOURCES_SDK_INT=19
+VERSION.SDK=19
+VERSION.SDK_INT=19
+
+DUMPSYS_MEMINFO = Permission Denial: can't dump meminfo from from pid=19417, uid=10225 without permission android.permission.DUMP
+BUILD_CONFIG = APPLICATION_ID=com.agile.science
+BUILD_TYPE=debug
+DEBUG=true
+FLAVOR=
+VERSION_CODE=1
+VERSION_NAME=2.0.0
+
+STACK_TRACE = java.lang.NullPointerException
+	at com.agile.science.FragmentMap.onCreateView(FragmentMap.java:81)
+	at android.support.v4.app.Fragment.performCreateView(Fragment.java:1974)
+	at android.support.v4.app.FragmentManagerImpl.moveToState(FragmentManager.java:1067)
+	at android.support.v4.app.FragmentManagerImpl.moveToState(FragmentManager.java:1252)
+	at android.support.v4.app.BackStackRecord.run(BackStackRecord.java:742)
+	at android.support.v4.app.FragmentManagerImpl.execPendingActions(FragmentManager.java:1617)
+	at android.support.v4.app.FragmentManagerImpl$1.run(FragmentManager.java:517)
+	at android.os.Handler.handleCallback(Handler.java:733)
+	at android.os.Handler.dispatchMessage(Handler.java:95)
+	at android.os.Looper.loop(Looper.java:146)
+	at android.app.ActivityThread.main(ActivityThread.java:5593)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:515)
+	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1283)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+	at dalvik.system.NativeStart.main(Native Method)
+
+PRODUCT = serranoltexx
+DISPLAY = 0.currentSizeRange.smallest=[540,502]
+0.currentSizeRange.largest=[960,922]
+0.flags=FLAG_SUPPORTS_PROTECTED_BUFFERS+FLAG_SECURE
+0.height=960
+0.metrics.density=1.5
+0.metrics.densityDpi=240
+0.metrics.scaledDensity=x1.5
+0.metrics.widthPixels=540
+0.metrics.heightPixels=960
+0.metrics.xdpi=249.381
+0.metrics.ydpi=256.673
+0.name=Schermo incorporato
+0.orientation=0
+0.pixelFormat=1
+0.realMetrics.density=1.5
+0.realMetrics.densityDpi=240
+0.realMetrics.scaledDensity=x1.5
+0.realMetrics.widthPixels=540
+0.realMetrics.heightPixels=960
+0.realMetrics.xdpi=249.381
+0.realMetrics.ydpi=256.673
+0.realSize=[540,960]
+0.rectSize=[0,0,540,960]
+0.refreshRate=60.0
+0.rotation=ROTATION_0
+0.size=[540,960]
+0.width=540
+0.isValid=true
+
+APP_VERSION_NAME = 2.0.0
+LOGCAT = --------- beginning of /dev/log/main
+--------- beginning of /dev/log/system
+09-22 17:07:48.782 W/dalvikvm(16823): threadid=1: thread exiting with uncaught exception (group=0x42026da0)
+09-22 17:07:48.782 E/ACRA    (16823): ACRA caught a NullPointerException for com.agile.science
+09-22 17:07:48.782 E/ACRA    (16823): java.lang.NullPointerException
+09-22 17:07:48.782 E/ACRA    (16823): 	at com.agile.science.FragmentMap.onCreateView(FragmentMap.java:81)
+09-22 17:07:48.782 E/ACRA    (16823): 	at android.support.v4.app.Fragment.performCreateView(Fragment.java:1974)
+09-22 17:07:48.782 E/ACRA    (16823): 	at android.support.v4.app.FragmentManagerImpl.moveToState(FragmentManager.java:1067)
+09-22 17:07:48.782 E/ACRA    (16823): 	at android.support.v4.app.FragmentManagerImpl.moveToState(FragmentManager.java:1252)
+09-22 17:07:48.782 E/ACRA    (16823): 	at android.support.v4.app.BackStackRecord.run(BackStackRecord.java:742)
+09-22 17:07:48.782 E/ACRA    (16823): 	at android.support.v4.app.FragmentManagerImpl.execPendingActions(FragmentManager.java:1617)
+09-22 17:07:48.782 E/ACRA    (16823): 	at android.support.v4.app.FragmentManagerImpl$1.run(FragmentManager.java:517)
+09-22 17:07:48.782 E/ACRA    (16823): 	at android.os.Handler.handleCallback(Handler.java:733)
+09-22 17:07:48.782 E/ACRA    (16823): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+09-22 17:07:48.782 E/ACRA    (16823): 	at android.os.Looper.loop(Looper.java:146)
+09-22 17:07:48.782 E/ACRA    (16823): 	at android.app.ActivityThread.main(ActivityThread.java:5593)
+09-22 17:07:48.782 E/ACRA    (16823): 	at java.lang.reflect.Method.invokeNative(Native Method)
+09-22 17:07:48.782 E/ACRA    (16823): 	at java.lang.reflect.Method.invoke(Method.java:515)
+09-22 17:07:48.782 E/ACRA    (16823): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1283)
+09-22 17:07:48.782 E/ACRA    (16823): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+09-22 17:07:48.782 E/ACRA    (16823): 	at dalvik.system.NativeStart.main(Native Method)
+09-22 17:07:48.792 I/dalvikvm(16823): Could not find method android.os.PowerManager.isInteractive, referenced from method maps.y.t.a
+09-22 17:07:48.792 W/dalvikvm(16823): VFY: unable to resolve virtual method 1832: Landroid/os/PowerManager;.isInteractive ()Z
+09-22 17:07:48.792 D/dalvikvm(16823): VFY: replacing opcode 0x6e at 0x0047
+09-22 17:07:48.812 W/ActivityThread(16823): ClassLoader.loadClass: The class loader returned by Thread.getContextClassLoader() may fail for processes that host multiple applications. You should explicitly specify a context class loader. For example: Thread.setContextClassLoader(getClass().getClassLoader());
+09-22 17:07:49.042 I/Process (16823): Sending signal. PID: 16823 SIG: 9
+09-22 17:07:49.082 D/dalvikvm(17838): Late-enabling CheckJNI
+09-22 17:07:49.222 I/MultiDex(17838): VM with version 1.6.0 does not have multidex support
+09-22 17:07:49.222 I/MultiDex(17838): install
+09-22 17:07:49.222 I/MultiDex(17838): MultiDexExtractor.load(/data/app/com.agile.science-30.apk, false)
+09-22 17:07:49.242 I/MultiDex(17838): loading existing secondary dex files
+09-22 17:07:49.252 I/MultiDex(17838): load found 1 secondary dex files
+09-22 17:07:49.252 I/MultiDex(17838): install done
+09-22 17:07:49.252 I/acra    (17838): acra
+09-22 17:07:49.422 I/ACRA    (17838): Sending report /data/data/com.agile.science/app_ACRA-approved/2016-09-22T17:07:48.894+02:00.stacktrace
+09-22 17:07:50.043 I/ACRA    (17838): Request received by server
+09-22 17:08:59.537 D/dalvikvm(18013): Late-enabling CheckJNI
+09-22 17:08:59.837 I/MultiDex(18013): VM with version 1.6.0 does not have multidex support
+09-22 17:08:59.837 I/MultiDex(18013): install
+09-22 17:08:59.837 I/MultiDex(18013): MultiDexExtractor.load(/data/app/com.agile.science-31.apk, false)
+09-22 17:08:59.848 I/MultiDex(18013): Detected that extraction must be performed.
+09-22 17:08:59.848 I/MultiDex(18013): Trying to delete old file /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-30.apk.classes2.dex of size 805696
+09-22 17:08:59.858 I/MultiDex(18013): Deleted old file /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-30.apk.classes2.dex
+09-22 17:08:59.858 I/MultiDex(18013): Trying to delete old file /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-30.apk.classes2.zip of size 284554
+09-22 17:08:59.858 I/MultiDex(18013): Deleted old file /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-30.apk.classes2.zip
+09-22 17:08:59.898 I/MultiDex(18013): Extraction is needed for file /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-31.apk.classes2.zip
+09-22 17:08:59.898 I/MultiDex(18013): Extracting /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-31.apk.classes1260633434.zip
+09-22 17:09:00.208 I/MultiDex(18013): Renaming to /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-31.apk.classes2.zip
+09-22 17:09:00.208 I/MultiDex(18013): Extraction success - length /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-31.apk.classes2.zip: 284554
+09-22 17:09:00.208 I/MultiDex(18013): load found 1 secondary dex files
+09-22 17:09:00.228 D/dalvikvm(18013): DexOpt: --- BEGIN 'com.agile.science-31.apk.classes2.zip' (bootstrap=0) ---
+09-22 17:09:00.478 D/dalvikvm(18062): DexOpt: load 30ms, verify+opt 145ms, 796020 bytes
+09-22 17:09:00.598 D/dalvikvm(18013): DexOpt: --- END 'com.agile.science-31.apk.classes2.zip' (success) ---
+09-22 17:09:00.598 D/dalvikvm(18013): DEX prep '/data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-31.apk.classes2.zip': unzip in 17ms, rewrite 368ms
+09-22 17:09:00.598 I/MultiDex(18013): install done
+09-22 17:09:00.598 I/acra    (18013): acra
+09-22 17:09:00.618 I/ACRA    (18013): ACRA is enabled for com.agile.science, initializing...
+09-22 17:09:00.638 I/FirebaseInitProvider(18013): FirebaseApp initialization unsuccessful
+09-22 17:09:00.688 I/PersonaManager(18013): getPersonaService() name persona_policy
+09-22 17:09:00.758 D/AbsListView(18013): Get MotionRecognitionManager
+09-22 17:09:00.879 I/Adreno-EGL(18013): <qeglDrvAPI_eglInitialize:381>: EGL 1.4 QUALCOMM build: SKARAJGA_AU_LINUX_ANDROID_KK_2.7_RB1.04.04.02.007.051+PATCH[ES]_msm8960_refs/tags/AU_LINUX_ANDROID_KK_2.7_RB1.04.04.02.007.051__release_ENGG ()
+09-22 17:09:00.879 I/Adreno-EGL(18013): OpenGL ES Shader Compiler Version: 17.01.12.SPL
+09-22 17:09:00.879 I/Adreno-EGL(18013): Build Date: 08/06/14 Wed
+09-22 17:09:00.879 I/Adreno-EGL(18013): Local Branch: 
+09-22 17:09:00.879 I/Adreno-EGL(18013): Remote Branch: refs/tags/AU_LINUX_ANDROID_KK_2.7_RB1.04.04.02.007.051
+09-22 17:09:00.879 I/Adreno-EGL(18013): Local Patches: daf30b480f2cdd4612dec08a5c139941061dbf00 GLES2.0: Pre-rotation - call set_framebuffer only when needed
+09-22 17:09:00.879 I/Adreno-EGL(18013): Reconstruct Branch: LOCAL_PATCH[ES]
+09-22 17:09:00.919 D/OpenGLRenderer(18013): Enabling debug mode 0
+09-22 17:10:19.953 I/map     (18013): oncreate
+09-22 17:10:19.963 I/dalvikvm(18013): Could not find method android.app.Notification$Builder.setLocalOnly, referenced from method com.google.android.gms.common.GooglePlayServicesUtil.zza
+09-22 17:10:19.963 W/dalvikvm(18013): VFY: unable to resolve virtual method 1027: Landroid/app/Notification$Builder;.setLocalOnly (Z)Landroid/app/Notification$Builder;
+09-22 17:10:19.963 D/dalvikvm(18013): VFY: replacing opcode 0x6e at 0x00d1
+09-22 17:10:19.963 I/dalvikvm(18013): Could not find method android.content.pm.PackageManager.getPackageInstaller, referenced from method com.google.android.gms.common.zze.zzl
+09-22 17:10:19.963 W/dalvikvm(18013): VFY: unable to resolve virtual method 1335: Landroid/content/pm/PackageManager;.getPackageInstaller ()Landroid/content/pm/PackageInstaller;
+09-22 17:10:19.963 D/dalvikvm(18013): VFY: replacing opcode 0x6e at 0x001b
+09-22 17:10:19.973 I/zzai    (18013): Making Creator dynamically
+09-22 17:10:20.003 I/dalvikvm(18013): Could not find method android.app.Notification$Builder.setLocalOnly, referenced from method gvh.a
+09-22 17:10:20.003 W/dalvikvm(18013): VFY: unable to resolve virtual method 1849: Landroid/app/Notification$Builder;.setLocalOnly (Z)Landroid/app/Notification$Builder;
+09-22 17:10:20.003 D/dalvikvm(18013): VFY: replacing opcode 0x6e at 0x00d7
+09-22 17:10:20.003 I/dalvikvm(18013): Could not find method android.content.pm.PackageManager.getPackageInstaller, referenced from method gvj.a
+09-22 17:10:20.003 W/dalvikvm(18013): VFY: unable to resolve virtual method 2122: Landroid/content/pm/PackageManager;.getPackageInstaller ()Landroid/content/pm/PackageInstaller;
+09-22 17:10:20.003 D/dalvikvm(18013): VFY: replacing opcode 0x6e at 0x001e
+09-22 17:10:20.013 D/ChimeraCfgMgr(18013): Reading stored module config
+09-22 17:10:20.063 D/dalvikvm(18013): DexOpt: couldn't find static field Landroid/os/Build;.SUPPORTED_64_BIT_ABIS
+09-22 17:10:20.073 W/dalvikvm(18013): VFY: unable to resolve static field 920 (SUPPORTED_64_BIT_ABIS) in Landroid/os/Build;
+09-22 17:10:20.073 D/dalvikvm(18013): VFY: replacing opcode 0x62 at 0x0012
+09-22 17:10:20.073 D/dalvikvm(18013): DexOpt: couldn't find static field Landroid/os/Build;.SUPPORTED_32_BIT_ABIS
+09-22 17:10:20.073 W/dalvikvm(18013): VFY: unable to resolve static field 919 (SUPPORTED_32_BIT_ABIS) in Landroid/os/Build;
+09-22 17:10:20.073 D/dalvikvm(18013): VFY: replacing opcode 0x62 at 0x0021
+09-22 17:10:20.073 D/dalvikvm(18013): DexOpt: couldn't find static field Landroid/os/Build;.SUPPORTED_64_BIT_ABIS
+09-22 17:10:20.073 W/dalvikvm(18013): VFY: unable to resolve static field 920 (SUPPORTED_64_BIT_ABIS) in Landroid/os/Build;
+09-22 17:10:20.073 D/dalvikvm(18013): VFY: replacing opcode 0x62 at 0x0008
+09-22 17:10:20.073 I/dalvikvm(18013): Could not find method android.system.Os.symlink, referenced from method com.google.android.chimera.container.FileApkUtils.stageFileApkFromSystemLocked
+09-22 17:10:20.073 W/dalvikvm(18013): VFY: unable to resolve static method 2865: Landroid/system/Os;.symlink (Ljava/lang/String;Ljava/lang/String;)V
+09-22 17:10:20.073 D/dalvikvm(18013): VFY: replacing opcode 0x71 at 0x0032
+09-22 17:10:20.073 D/dalvikvm(18013): DexOpt: couldn't find static field Landroid/os/Build;.SUPPORTED_ABIS
+09-22 17:10:20.073 W/dalvikvm(18013): VFY: unable to resolve static field 921 (SUPPORTED_ABIS) in Landroid/os/Build;
+09-22 17:10:20.073 D/dalvikvm(18013): VFY: replacing opcode 0x62 at 0x0008
+09-22 17:10:20.083 D/dalvikvm(18013): DexOpt: couldn't find static field Landroid/os/Build;.SUPPORTED_64_BIT_ABIS
+09-22 17:10:20.083 I/dalvikvm(18013): DexOpt: unable to optimize static field ref 0x0398 at 0x17 in Lcom/google/android/chimera/container/FileApkUtils;.getSupportedAbisForCurrentRuntime
+09-22 17:10:20.083 D/dalvikvm(18013): DexOpt: couldn't find static field Landroid/os/Build;.SUPPORTED_32_BIT_ABIS
+09-22 17:10:20.083 I/dalvikvm(18013): DexOpt: unable to optimize static field ref 0x0397 at 0x26 in Lcom/google/android/chimera/container/FileApkUtils;.getSupportedAbisForCurrentRuntime
+09-22 17:10:20.083 D/dalvikvm(18013): DexOpt: couldn't find static field Landroid/os/Build;.SUPPORTED_64_BIT_ABIS
+09-22 17:10:20.083 I/dalvikvm(18013): DexOpt: unable to optimize static field ref 0x0398 at 0x0d in Lcom/google/android/chimera/container/FileApkUtils;.is64BitRuntime
+09-22 17:10:20.083 D/ChimeraFileApk(18013): Primary ABI of requesting process is armeabi-v7a
+09-22 17:10:20.083 D/ChimeraFileApk(18013): Classloading successful. Optimized code found.
+09-22 17:10:20.123 I/Google Maps Android API(18013): Google Play services client version: 9452000
+09-22 17:10:20.123 I/Google Maps Android API(18013): Google Play services package version: 9452034
+09-22 17:10:20.133 I/dalvikvm(18013): Could not find method android.app.Notification$Builder.setLocalOnly, referenced from method kn.a
+09-22 17:10:20.133 W/dalvikvm(18013): VFY: unable to resolve virtual method 1407: Landroid/app/Notification$Builder;.setLocalOnly (Z)Landroid/app/Notification$Builder;
+09-22 17:10:20.133 D/dalvikvm(18013): VFY: replacing opcode 0x6e at 0x00d5
+09-22 17:10:20.133 I/dalvikvm(18013): Could not find method android.content.pm.PackageManager.getPackageInstaller, referenced from method ko.a
+09-22 17:10:20.133 W/dalvikvm(18013): VFY: unable to resolve virtual method 1526: Landroid/content/pm/PackageManager;.getPackageInstaller ()Landroid/content/pm/PackageInstaller;
+09-22 17:10:20.133 D/dalvikvm(18013): VFY: replacing opcode 0x6e at 0x001e
+09-22 17:10:20.313 I/c       (18013): Token loaded from file. Expires in: 423741020 ms.
+09-22 17:10:20.313 I/c       (18013): Scheduling next attempt in 423441 seconds.
+09-22 17:10:20.373 D/AbsListView(18013): Get MotionRecognitionManager
+09-22 17:10:20.474 I/path    (18013): 19 14
+09-22 17:10:20.474 D/AndroidRuntime(18013): Shutting down VM
+09-22 17:10:20.474 W/dalvikvm(18013): threadid=1: thread exiting with uncaught exception (group=0x42026da0)
+09-22 17:10:20.474 E/ACRA    (18013): ACRA caught a NullPointerException for com.agile.science
+09-22 17:10:20.474 E/ACRA    (18013): java.lang.NullPointerException
+09-22 17:10:20.474 E/ACRA    (18013): 	at com.agile.science.FragmentMap.onCreateView(FragmentMap.java:81)
+09-22 17:10:20.474 E/ACRA    (18013): 	at android.support.v4.app.Fragment.performCreateView(Fragment.java:1974)
+09-22 17:10:20.474 E/ACRA    (18013): 	at android.support.v4.app.FragmentManagerImpl.moveToState(FragmentManager.java:1067)
+09-22 17:10:20.474 E/ACRA    (18013): 	at android.support.v4.app.FragmentManagerImpl.moveToState(FragmentManager.java:1252)
+09-22 17:10:20.474 E/ACRA    (18013): 	at android.support.v4.app.BackStackRecord.run(BackStackRecord.java:742)
+09-22 17:10:20.474 E/ACRA    (18013): 	at android.support.v4.app.FragmentManagerImpl.execPendingActions(FragmentManager.java:1617)
+09-22 17:10:20.474 E/ACRA    (18013): 	at android.support.v4.app.FragmentManagerImpl$1.run(FragmentManager.java:517)
+09-22 17:10:20.474 E/ACRA    (18013): 	at android.os.Handler.handleCallback(Handler.java:733)
+09-22 17:10:20.474 E/ACRA    (18013): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+09-22 17:10:20.474 E/ACRA    (18013): 	at android.os.Looper.loop(Looper.java:146)
+09-22 17:10:20.474 E/ACRA    (18013): 	at android.app.ActivityThread.main(ActivityThread.java:5593)
+09-22 17:10:20.474 E/ACRA    (18013): 	at java.lang.reflect.Method.invokeNative(Native Method)
+09-22 17:10:20.474 E/ACRA    (18013): 	at java.lang.reflect.Method.invoke(Method.java:515)
+09-22 17:10:20.474 E/ACRA    (18013): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1283)
+09-22 17:10:20.474 E/ACRA    (18013): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+09-22 17:10:20.474 E/ACRA    (18013): 	at dalvik.system.NativeStart.main(Native Method)
+09-22 17:10:20.504 I/dalvikvm(18013): Could not find method android.os.PowerManager.isInteractive, referenced from method maps.y.t.a
+09-22 17:10:20.504 W/dalvikvm(18013): VFY: unable to resolve virtual method 1832: Landroid/os/PowerManager;.isInteractive ()Z
+09-22 17:10:20.514 D/dalvikvm(18013): VFY: replacing opcode 0x6e at 0x0047
+09-22 17:10:20.514 W/ActivityThread(18013): ClassLoader.loadClass: The class loader returned by Thread.getContextClassLoader() may fail for processes that host multiple applications. You should explicitly specify a context class loader. For example: Thread.setContextClassLoader(getClass().getClassLoader());
+AVAILABLE_MEM_SIZE = 1497550848
+USER_APP_START_DATE = 2016-09-22T17:09:00.633+02:00
+CUSTOM_DATA = 
+BRAND = samsung
+FILE_PATH = /data/data/com.agile.science/files
+TOTAL_MEM_SIZE = 5643431936
+INITIAL_CONFIGURATION = FlipFont=0
+arrange=0
+compatScreenHeightDp=545
+compatScreenWidthDp=320
+compatSmallestScreenWidthDp=320
+densityDpi=240
+fontScale=1.3
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_YES
+keyboard=KEYBOARD_NOKEYS
+keyboardHidden=KEYBOARDHIDDEN_NO
+locale=it_IT
+mcc=222
+mnc=1
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=614
+screenLayout=SCREENLAYOUT_SIZE_NORMAL+SCREENLAYOUT_LONG_YES+SCREENLAYOUT_LAYOUTDIR_LTR
+screenWidthDp=360
+seq=6
+smallestScreenWidthDp=360
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=true
+
+ENVIRONMENT = getAndroidSecureContainerDirectory=/mnt/asec
+getDataDirectory=/data
+getDownloadCacheDirectory=/cache
+getEmulatedStorageObbSource=/mnt/shell/emulated/obb
+getExternalStorageDirectory=/storage/emulated/0
+getExternalStorageState=mounted
+getLegacyExternalStorageDirectory=/storage/emulated/legacy
+getLegacyExternalStorageObbDirectory=/storage/emulated/legacy/Android/obb
+getMediaBaseStorageDirectory=/secdata
+getMediaStorageDirectory=/data/media/0
+getRootDirectory=/system
+getSecureDataDirectory=/data
+getSystemSecureDirectory=/data/system
+isEncryptedFilesystemEnabled=false
+isExternalStorageEmulated=true
+isExternalStorageRemovable=false
+
+REPORT_ID = 64cceaed-f930-4c40-9d03-e2bbfd6d8ea6

@@ -1,0 +1,15 @@
+---en===2013/01/08 Bruno Rossi prize to Marco Tavani and the AGILE Team===
+
+---it===2013/01/08 Premio Bruno Rossi 2012 a Marco Tavani e al Team AGILE===
+
+---en=== The 2012 Rossi Prize has been awarded to astrophysicist Marco Tavani and the AGILE team for the discovery of variable gamma-ray emission from the Crab Nebula. Believed to be a steady source of energy  - from optical to gamma rays - this finding has changed our understanding of cosmic accelerators. "The production of these incredible gamma-ray flares from the Crab Nebula is a feat that will lead us to a deeper understanding of the fundamental processes of particle acceleration in cosmic sources," said Dr. Tavani. "AGILE unveiled this phenomenon in part because of its rapid data acquisition and processing - a large success for a 'Small Mission'." The AAS High Energy Astrophysics Division (HEAD) awards the Rossi Prize in recognition of significant contributions as well as recent and original work in high-energy astrophysics. The prize is in honor of Professor Bruno Rossi, an authority on cosmic-ray physics and a pioneer in the field of X-ray astronomy. Dr. Tavani will give a lecture at the 221st AAS meeting in Long Beach, California, in January 2013.===
+
+---it===Il Premio Bruno Rossi 2012 e' stato conferito all'astrofisico Marco Tavani e al Team AGILE per la scoperta della variabilita' dell'emissione gamma dalla Nebulosa del Granchio. A lungo ritenuta la sorgente stabile  per eccellenza - dall'ottico al gamma - questa scoperta ha cambiato la comprensione dei processi di accelerazione cosmica. "La produzione di questi incredibili flare gamma dalla Nebulosa del Granchio e' un evento che ci portera' ad una maggiore comprensione dei processi fondamentali dell'accelerazione di particelle nelle sorgenti cosmiche," ha commentato Marco Tavani.  "AGILE ha svelato questo fenomeno grazie alla sua rapida acquisizione e processamento dati - un grande successo per una 'piccola missione'." L'High Energy Astrophysics Division (HEAD) dell'American Astronomical Society (AAS) ha conferito il Premio Bruno Rossi in riconoscimento dei contributi significativi e dell'originalita' del lavoro nel campo dell'astrofisica delle alte energie. Il premio e' in onore del Professor Bruno Rossi, un'autorita' nel campo in materia di fisica dei raggi cosmici ed un pioniere nel campo dell'astronomia dei raggi X. Il Dott. Tavani terra' un seminario al 221 AAS meeting a Long Beach, California, nel gennaio 2013.===
+
+---en===http://agile.iasfbo.inaf.it/en/news/2012A.html===
+
+---it===http://agile.iasfbo.inaf.it/it/news/2012A.html===
+
+====AGILE_Crab.png====
+
+=====AGILE_Crab.png=====

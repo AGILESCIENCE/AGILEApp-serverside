@@ -1,0 +1,15 @@
+---en===2010/09/17 AGILE discovery of TGF gamma-ray emission up to 100 MeV===
+
+---it===2010/09/17 AGILE ha scoperto emissione gamma fino a 100 MeV nei TGF===
+
+---en=== A detection that shows how the atmosphere can very efficiently accelerate particles during lightning associated with powerful thunderstorms. The AGILE discovery challenges current models of TGF acceleration based on relativistic electron production and cascading, and leads to substantial revisions of extreme particle acceleration models in lightning. This investigations have very important impacts on the study of the atmospheric environment and implications for global climate change studies. AGILE obtained the first gamma-ray imaging of TGFs from space using a special technique of on-board data selection. The AGILE Team reported the surprising discovery of gamma-ray radiation up to 100 MeV in the paper by Tavani et al., PRL, 106, 018501, 2011.===
+
+---it===Una scoperta che mostra il modo in cui l'atmosfera puo' efficacemente accelerare particelle durante lampi associati a temporali molto intensi. La scoperta di AGILE mette in discussione i modelli correnti di accelerazione di TGF basati sulla produzione e il decadimento di elettroni relativistici e porta ad una revisione sostanziale dei modelli di accelerazione estrema di particelle nei lampi. Questa ricerca ha un impatto davvero importante sullo studio dell'ambiente atmosferico  e forti implicazioni nello studio dei cambiamenti del clima globale. AGILE ha ottenuto le prime immagini dallo spazio dei TGF nella banda gamma usando una speciale tecnica di selezione dati a bordo dello strumento. Il Team AGILE ha riportato questi risultati nell'articolo di Tavani et al., PRL, 106, 018501, 2011.===
+
+---en===http://agile.iasfbo.inaf.it/en/news/2010B.html===
+
+---it===http://agile.iasfbo.inaf.it/it/news/2010B.html===
+
+====TGF.png====
+
+=====TGF.png=====

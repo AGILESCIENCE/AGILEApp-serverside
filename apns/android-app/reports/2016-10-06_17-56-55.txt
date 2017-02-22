@@ -1,0 +1,357 @@
+LOGCAT = --------- beginning of main
+10-06 17:17:15.618 I/FirebaseInitProvider( 2609): FirebaseApp initialization unsuccessful
+10-06 17:17:15.665 W/art     ( 2609): Suspending all threads took: 5.952ms
+10-06 17:17:16.665 W/art     ( 2609): Suspending all threads took: 5.161ms
+10-06 17:17:16.666 I/art     ( 2609): Background partial concurrent mark sweep GC freed 1326(408KB) AllocSpace objects, 1(84KB) LOS objects, 39% free, 4MB/7MB, paused 5.676ms total 59.154ms
+10-06 17:17:16.672 W/art     ( 2609): Suspending all threads took: 5.413ms
+10-06 17:17:16.931 D/OpenGLRenderer( 2609): Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+10-06 17:17:16.935 D/        ( 2609): HostConnection::get() New Host Connection established 0x7f5a7933b140, tid 2609
+10-06 17:17:16.993 D/        ( 2609): HostConnection::get() New Host Connection established 0x7f5a7933b200, tid 2665
+10-06 17:17:17.018 I/OpenGLRenderer( 2609): Initialized EGL, version 1.4
+10-06 17:19:05.842 W/art     ( 2609): Suspending all threads took: 8.524ms
+10-06 17:24:58.613 W/art     ( 2609): Suspending all threads took: 8.948ms
+10-06 17:31:36.180 W/art     ( 2609): Suspending all threads took: 9.763ms
+10-06 17:31:46.617 I/map     ( 2609): oncreate
+10-06 17:31:46.667 I/path    ( 2609): 23 14
+10-06 17:31:46.698 W/GooglePlayServicesUtil( 2609): Google Play services out of date.  Requires 9683000 but found 9452480
+10-06 17:31:46.702 W/GooglePlayServicesUtil( 2609): Google Play services out of date.  Requires 9683000 but found 9452480
+10-06 17:31:46.705 W/GooglePlayServicesUtil( 2609): Google Play services out of date.  Requires 9683000 but found 9452480
+10-06 17:31:46.714 W/GooglePlayServicesUtil( 2609): Google Play services out of date.  Requires 9683000 but found 9452480
+10-06 17:31:46.715 W/GooglePlayServicesUtil( 2609): Google Play services out of date.  Requires 9683000 but found 9452480
+10-06 17:31:48.803 I/list    ( 2609): create
+10-06 17:31:48.814 I/WebViewFactory( 2609): Loading com.android.webview version 44.0.2403.119 (code 246011960)
+10-06 17:31:48.861 W/System  ( 2609): ClassLoader referenced unknown path: /system/app/webview/lib/x86_64
+10-06 17:31:48.892 I/LibraryLoader( 2609): Time to load native libraries: 8 ms (timestamps 6834-6842)
+10-06 17:31:48.893 I/LibraryLoader( 2609): Expected native library version number "",actual native library version number ""
+10-06 17:31:48.905 V/WebViewChromiumFactoryProvider( 2609): Binding Chromium to main looper Looper (main, tid 1) {254fa2f}
+10-06 17:31:48.906 I/LibraryLoader( 2609): Expected native library version number "",actual native library version number ""
+10-06 17:31:48.911 I/chromium( 2609): [INFO:library_loader_hooks.cc(120)] Chromium logging enabled: level = 0, default verbosity = 0
+10-06 17:31:48.916 I/BrowserStartupController( 2609): Initializing chromium process, singleProcess=true
+10-06 17:31:48.917 W/art     ( 2609): Attempt to remove non-JNI local reference, dumping thread
+10-06 17:31:48.923 E/SysUtils( 2609): ApplicationContext is null in ApplicationStatus
+10-06 17:31:48.972 W/chromium( 2609): [WARNING:resource_bundle.cc(285)] locale_file_path.empty()
+10-06 17:31:48.978 E/libEGL  ( 2609): validate_display:255 error 3008 (EGL_BAD_DISPLAY)
+10-06 17:31:48.978 E/libEGL  ( 2609): validate_display:255 error 3008 (EGL_BAD_DISPLAY)
+10-06 17:31:49.042 E/DataReductionProxySettingListener( 2609): No DRP key due to exception:java.lang.ClassNotFoundException: com.android.webview.chromium.Drp
+10-06 17:31:49.048 W/AudioManagerAndroid( 2609): Requires BLUETOOTH permission
+10-06 17:31:49.144 W/art     ( 2609): Attempt to remove non-JNI local reference, dumping thread
+10-06 17:31:49.162 W/AwContents( 2609): onDetachedFromWindow called when already detached. Ignoring
+10-06 17:31:49.254 I/ciao    ( 2609): menu
+10-06 17:31:49.307 W/chromium( 2609): [WARNING:data_reduction_proxy_config.cc(423)] SPDY proxy OFF at startup
+10-06 17:31:49.341 I/ciao    ( 2609): menu
+10-06 17:31:49.551 W/art     ( 2609): Suspending all threads took: 10.118ms
+10-06 17:31:49.817 D/        ( 2609): HostConnection::get() New Host Connection established 0x7f5a75c77f40, tid 6759
+10-06 17:31:50.358 I/ciao    ( 2609): menu
+10-06 17:31:50.864 E/chromium( 2609): [ERROR:buffer_manager.cc(340)] [GroupMarkerNotSet(crbug.com/242999)!:F856DC755A7F0000]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+10-06 17:31:50.893 E/emuglGLESv2_enc( 2609): device/generic/goldfish-opengl/system/GLESv2_enc/GL2Encoder.cpp:s_glVertexAttribPointer:290 GL error 0x501
+10-06 17:31:51.191 I/list    ( 2609): create
+10-06 17:31:51.199 W/art     ( 2609): Attempt to remove non-JNI local reference, dumping thread
+10-06 17:31:51.203 W/AwContents( 2609): onDetachedFromWindow called when already detached. Ignoring
+10-06 17:31:51.221 I/ciao    ( 2609): menu
+10-06 17:31:51.500 I/ciao    ( 2609): menu
+10-06 17:31:51.740 E/chromium( 2609): [ERROR:buffer_manager.cc(340)] [GroupMarkerNotSet(crbug.com/242999)!:F856DC755A7F0000]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+10-06 17:31:52.545 I/ciao    ( 2609): menu
+10-06 17:31:53.071 I/map     ( 2609): oncreate
+10-06 17:31:53.071 I/path    ( 2609): 23 14
+10-06 17:31:53.076 W/GooglePlayServicesUtil( 2609): Google Play services out of date.  Requires 9683000 but found 9452480
+10-06 17:31:53.078 W/GooglePlayServicesUtil( 2609): Google Play services out of date.  Requires 9683000 but found 9452480
+10-06 17:31:53.080 W/GooglePlayServicesUtil( 2609): Google Play services out of date.  Requires 9683000 but found 9452480
+10-06 17:31:53.082 W/GooglePlayServicesUtil( 2609): Google Play services out of date.  Requires 9683000 but found 9452480
+10-06 17:31:53.086 W/GooglePlayServicesUtil( 2609): Google Play services out of date.  Requires 9683000 but found 9452480
+10-06 17:31:54.506 W/BindingManager( 2609): Cannot call determinedVisibility() - never saw a connection for the pid: 2609
+10-06 17:31:54.517 W/BindingManager( 2609): Cannot call determinedVisibility() - never saw a connection for the pid: 2609
+10-06 17:31:55.481 I/chromium( 2609): [INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1 (2)
+10-06 17:31:55.923 I/chromium( 2609): [INFO:CONSOLE(2)] "JQMIGRATE: Migrate is installed, version 1.4.1", source: http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1 (2)
+10-06 17:32:04.751 W/art     ( 2609): Suspending all threads took: 12.677ms
+10-06 17:32:08.281 W/art     ( 2609): Suspending all threads took: 15.097ms
+10-06 17:32:30.342 W/art     ( 2609): Suspending all threads took: 15.360ms
+10-06 17:47:29.257 D/AndroidRuntime( 2609): Shutting down VM
+10-06 17:47:29.258 E/ACRA    ( 2609): ACRA caught a ActivityNotFoundException for com.agile.science
+10-06 17:47:29.258 E/ACRA    ( 2609): android.content.ActivityNotFoundException: No Activity found to handle Intent { act=android.intent.action.VIEW dat=market://details?id=com.google.android.gms&pcampaignid=gcore_9683000--- flg=0x80000 pkg=com.android.vending }
+10-06 17:47:29.258 E/ACRA    ( 2609): 	at android.app.Instrumentation.checkStartActivityResult(Instrumentation.java:1798)
+10-06 17:47:29.258 E/ACRA    ( 2609): 	at android.app.Instrumentation.execStartActivity(Instrumentation.java:1512)
+10-06 17:47:29.258 E/ACRA    ( 2609): 	at android.app.Activity.startActivityForResult(Activity.java:3917)
+10-06 17:47:29.258 E/ACRA    ( 2609): 	at android.support.v4.app.BaseFragmentActivityJB.startActivityForResult(BaseFragmentActivityJB.java:48)
+10-06 17:47:29.258 E/ACRA    ( 2609): 	at android.support.v4.app.FragmentActivity.startActivityForResult(FragmentActivity.java:75)
+10-06 17:47:29.258 E/ACRA    ( 2609): 	at android.app.Activity.startActivityForResult(Activity.java:3877)
+10-06 17:47:29.258 E/ACRA    ( 2609): 	at android.support.v4.app.FragmentActivity.startActivityForResult(FragmentActivity.java:871)
+10-06 17:47:29.258 E/ACRA    ( 2609): 	at android.app.Activity.startActivity(Activity.java:4200)
+10-06 17:47:29.258 E/ACRA    ( 2609): 	at android.app.Activity.startActivity(Activity.java:4168)
+10-06 17:47:29.258 E/ACRA    ( 2609): 	at com.google.android.gms.dynamic.zza$5.onClick(Unknown Source)
+10-06 17:47:29.258 E/ACRA    ( 2609): 	at android.view.View.performClick(View.java:5198)
+10-06 17:47:29.258 E/ACRA    ( 2609): 	at android.view.View$PerformClick.run(View.java:21147)
+10-06 17:47:29.258 E/ACRA    ( 2609): 	at android.os.Handler.handleCallback(Handler.java:739)
+10-06 17:47:29.258 E/ACRA    ( 2609): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+10-06 17:47:29.258 E/ACRA    ( 2609): 	at android.os.Looper.loop(Looper.java:148)
+10-06 17:47:29.258 E/ACRA    ( 2609): 	at android.app.ActivityThread.main(ActivityThread.java:5417)
+10-06 17:47:29.258 E/ACRA    ( 2609): 	at java.lang.reflect.Method.invoke(Native Method)
+10-06 17:47:29.258 E/ACRA    ( 2609): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:726)
+10-06 17:47:29.258 E/ACRA    ( 2609): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:616)
+10-06 17:47:29.346 I/art     (10540): Not late-enabling -Xcheck:jni (already on)
+10-06 17:47:29.534 I/Process ( 2609): Sending signal. PID: 2609 SIG: 9
+10-06 17:47:29.586 W/System  (10540): ClassLoader referenced unknown path: /data/app/com.agile.science-2/lib/x86_64
+10-06 17:47:30.546 W/System  (10540): ClassLoader referenced unknown path: /data/app/com.agile.science-2/lib/x86_64
+10-06 17:47:30.551 I/MultiDex(10540): VM with version 2.1.0 has multidex support
+10-06 17:47:30.552 I/MultiDex(10540): install
+10-06 17:47:30.552 I/MultiDex(10540): VM has multidex support, MultiDex support library is disabled.
+10-06 17:47:30.552 I/acra    (10540): acra
+10-06 17:47:30.633 I/ACRA    (10540): Sending report /data/user/0/com.agile.science/app_ACRA-approved/2016-10-06T17:47:29.296+02:00.stacktrace
+10-06 17:47:32.072 I/ACRA    (10540): Request received by server
+10-06 17:56:40.746 I/art     (10701): Not late-enabling -Xcheck:jni (already on)
+10-06 17:56:40.852 W/System  (10701): ClassLoader referenced unknown path: /data/app/com.agile.science-1/lib/x86_64
+10-06 17:56:43.150 W/System  (10701): ClassLoader referenced unknown path: /data/app/com.agile.science-1/lib/x86_64
+10-06 17:56:43.160 I/MultiDex(10701): VM with version 2.1.0 has multidex support
+10-06 17:56:43.160 I/MultiDex(10701): install
+10-06 17:56:43.160 I/MultiDex(10701): VM has multidex support, MultiDex support library is disabled.
+10-06 17:56:43.161 I/acra    (10701): acra
+10-06 17:56:43.195 I/ACRA    (10701): ACRA is enabled for com.agile.science, initializing...
+10-06 17:56:43.216 I/FirebaseInitProvider(10701): FirebaseApp initialization unsuccessful
+10-06 17:56:43.394 D/OpenGLRenderer(10701): Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+10-06 17:56:43.407 D/        (10701): HostConnection::get() New Host Connection established 0x7f5a793fe340, tid 10701
+10-06 17:56:43.468 D/        (10701): HostConnection::get() New Host Connection established 0x7f5a793fe440, tid 10753
+10-06 17:56:43.482 I/OpenGLRenderer(10701): Initialized EGL, version 1.4
+10-06 17:56:47.932 I/map     (10701): oncreate
+10-06 17:56:47.984 I/path    (10701): 23 14
+10-06 17:56:47.998 W/GooglePlayServicesUtil(10701): Google Play services out of date.  Requires 9683000 but found 9452480
+10-06 17:56:47.999 W/GooglePlayServicesUtil(10701): Google Play services out of date.  Requires 9683000 but found 9452480
+10-06 17:56:48.001 W/GooglePlayServicesUtil(10701): Google Play services out of date.  Requires 9683000 but found 9452480
+10-06 17:56:48.008 W/GooglePlayServicesUtil(10701): Google Play services out of date.  Requires 9683000 but found 9452480
+10-06 17:56:48.009 W/GooglePlayServicesUtil(10701): Google Play services out of date.  Requires 9683000 but found 9452480
+10-06 17:56:51.976 D/AndroidRuntime(10701): Shutting down VM
+10-06 17:56:51.976 E/ACRA    (10701): ACRA caught a ActivityNotFoundException for com.agile.science
+10-06 17:56:51.976 E/ACRA    (10701): android.content.ActivityNotFoundException: No Activity found to handle Intent { act=android.intent.action.VIEW dat=market://details?id=com.google.android.gms&pcampaignid=gcore_9683000--- flg=0x80000 pkg=com.android.vending }
+10-06 17:56:51.976 E/ACRA    (10701): 	at android.app.Instrumentation.checkStartActivityResult(Instrumentation.java:1798)
+10-06 17:56:51.976 E/ACRA    (10701): 	at android.app.Instrumentation.execStartActivity(Instrumentation.java:1512)
+10-06 17:56:51.976 E/ACRA    (10701): 	at android.app.Activity.startActivityForResult(Activity.java:3917)
+10-06 17:56:51.976 E/ACRA    (10701): 	at android.support.v4.app.BaseFragmentActivityJB.startActivityForResult(BaseFragmentActivityJB.java:48)
+10-06 17:56:51.976 E/ACRA    (10701): 	at android.support.v4.app.FragmentActivity.startActivityForResult(FragmentActivity.java:75)
+10-06 17:56:51.976 E/ACRA    (10701): 	at android.app.Activity.startActivityForResult(Activity.java:3877)
+10-06 17:56:51.976 E/ACRA    (10701): 	at android.support.v4.app.FragmentActivity.startActivityForResult(FragmentActivity.java:871)
+10-06 17:56:51.976 E/ACRA    (10701): 	at android.app.Activity.startActivity(Activity.java:4200)
+10-06 17:56:51.976 E/ACRA    (10701): 	at android.app.Activity.startActivity(Activity.java:4168)
+10-06 17:56:51.976 E/ACRA    (10701): 	at com.google.android.gms.dynamic.zza$5.onClick(Unknown Source)
+10-06 17:56:51.976 E/ACRA    (10701): 	at android.view.View.performClick(View.java:5198)
+10-06 17:56:51.976 E/ACRA    (10701): 	at android.view.View$PerformClick.run(View.java:21147)
+10-06 17:56:51.976 E/ACRA    (10701): 	at android.os.Handler.handleCallback(Handler.java:739)
+10-06 17:56:51.976 E/ACRA    (10701): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+10-06 17:56:51.976 E/ACRA    (10701): 	at android.os.Looper.loop(Looper.java:148)
+10-06 17:56:51.976 E/ACRA    (10701): 	at android.app.ActivityThread.main(ActivityThread.java:5417)
+10-06 17:56:51.976 E/ACRA    (10701): 	at java.lang.reflect.Method.invoke(Native Method)
+10-06 17:56:51.976 E/ACRA    (10701): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:726)
+10-06 17:56:51.976 E/ACRA    (10701): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:616)
+APP_VERSION_CODE = 1
+DEVICE_FEATURES = android.hardware.sensor.proximity
+android.hardware.sensor.accelerometer
+android.hardware.faketouch
+android.hardware.usb.accessory
+android.software.backup
+android.hardware.touchscreen
+android.hardware.touchscreen.multitouch
+android.software.print
+android.software.voice_recognizers
+android.hardware.sensor.relative_humidity
+android.hardware.telephony.gsm
+android.hardware.audio.output
+android.hardware.screen.portrait
+android.software.home_screen
+android.hardware.microphone
+android.hardware.sensor.compass
+android.hardware.touchscreen.multitouch.jazzhand
+android.hardware.sensor.barometer
+android.software.app_widgets
+android.software.input_methods
+android.hardware.sensor.light
+android.software.device_admin
+android.hardware.camera
+android.hardware.screen.landscape
+android.software.managed_users
+android.software.webview
+android.hardware.camera.any
+android.software.connectionservice
+android.hardware.touchscreen.multitouch.distinct
+android.hardware.location.network
+android.software.live_wallpaper
+android.hardware.location.gps
+android.software.midi
+android.hardware.location
+android.hardware.telephony
+glEsVersion = 2.0
+
+CUSTOM_DATA = 
+USER_CRASH_DATE = 2016-10-06T17:56:52.013+02:00
+AVAILABLE_MEM_SIZE = 1624190976
+BRAND = Android
+INSTALLATION_ID = 14597bb4-4dac-4666-8f44-a9c1fcfbfb03
+SHARED_PREFERENCES = default.acra.legacyAlreadyConvertedTo4.8.0=true
+default.acra.lastVersionNr=1
+
+
+FILE_PATH = /data/user/0/com.agile.science/files
+STACK_TRACE = android.content.ActivityNotFoundException: No Activity found to handle Intent { act=android.intent.action.VIEW dat=market://details?id=com.google.android.gms&pcampaignid=gcore_9683000--- flg=0x80000 pkg=com.android.vending }
+	at android.app.Instrumentation.checkStartActivityResult(Instrumentation.java:1798)
+	at android.app.Instrumentation.execStartActivity(Instrumentation.java:1512)
+	at android.app.Activity.startActivityForResult(Activity.java:3917)
+	at android.support.v4.app.BaseFragmentActivityJB.startActivityForResult(BaseFragmentActivityJB.java:48)
+	at android.support.v4.app.FragmentActivity.startActivityForResult(FragmentActivity.java:75)
+	at android.app.Activity.startActivityForResult(Activity.java:3877)
+	at android.support.v4.app.FragmentActivity.startActivityForResult(FragmentActivity.java:871)
+	at android.app.Activity.startActivity(Activity.java:4200)
+	at android.app.Activity.startActivity(Activity.java:4168)
+	at com.google.android.gms.dynamic.zza$5.onClick(Unknown Source)
+	at android.view.View.performClick(View.java:5198)
+	at android.view.View$PerformClick.run(View.java:21147)
+	at android.os.Handler.handleCallback(Handler.java:739)
+	at android.os.Handler.dispatchMessage(Handler.java:95)
+	at android.os.Looper.loop(Looper.java:148)
+	at android.app.ActivityThread.main(ActivityThread.java:5417)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:726)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:616)
+
+PHONE_MODEL = Android SDK built for x86_64
+TOTAL_MEM_SIZE = 2080194560
+USER_COMMENT = 
+PACKAGE_NAME = com.agile.science
+IS_SILENT = 
+DUMPSYS_MEMINFO = Permission Denial: can't dump meminfo from from pid=10881, uid=10059 without permission android.permission.DUMP
+INITIAL_CONFIGURATION = compatScreenHeightDp=504
+compatScreenWidthDp=320
+compatSmallestScreenWidthDp=320
+densityDpi=480
+fontScale=1.0
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_YES
+keyboard=KEYBOARD_NOKEYS
+keyboardHidden=KEYBOARDHIDDEN_NO
+locale=en_US
+mcc=310
+mnc=260
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=568
+screenLayout=SCREENLAYOUT_SIZE_NORMAL+SCREENLAYOUT_LONG_NO+SCREENLAYOUT_LAYOUTDIR_LTR+SCREENLAYOUT_ROUND_NO
+screenWidthDp=360
+seq=5
+smallestScreenWidthDp=360
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=false
+
+BUILD_CONFIG = $change=
+APPLICATION_ID=com.agile.science
+BUILD_TYPE=debug
+DEBUG=true
+FLAVOR=
+VERSION_CODE=1
+VERSION_NAME=2.0.0
+
+PRODUCT = sdk_google_phone_x86_64
+DISPLAY = 0.currentSizeRange.smallest=[1080,1008]
+0.currentSizeRange.largest=[1794,1704]
+0.flags=FLAG_SUPPORTS_PROTECTED_BUFFERS+FLAG_SECURE
+0.height=1776
+0.metrics.density=3.0
+0.metrics.densityDpi=480
+0.metrics.scaledDensity=x3.0
+0.metrics.widthPixels=1080
+0.metrics.heightPixels=1776
+0.metrics.xdpi=480.0
+0.metrics.ydpi=480.0
+0.name=Built-in Screen
+0.orientation=0
+0.pixelFormat=1
+0.realMetrics.density=3.0
+0.realMetrics.densityDpi=480
+0.realMetrics.scaledDensity=x3.0
+0.realMetrics.widthPixels=1080
+0.realMetrics.heightPixels=1920
+0.realMetrics.xdpi=480.0
+0.realMetrics.ydpi=480.0
+0.realSize=[1080,1920]
+0.rectSize=[0,0,1080,1776]
+0.refreshRate=60.000004
+0.rotation=ROTATION_0
+0.size=[1080,1776]
+0.width=1080
+0.isValid=true
+
+REPORT_ID = a072d89d-931c-430f-a42b-ae53b3792584
+APP_VERSION_NAME = 2.0.0
+CRASH_CONFIGURATION = compatScreenHeightDp=504
+compatScreenWidthDp=320
+compatSmallestScreenWidthDp=320
+densityDpi=480
+fontScale=1.0
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_YES
+keyboard=KEYBOARD_NOKEYS
+keyboardHidden=KEYBOARDHIDDEN_NO
+locale=en_US
+mcc=310
+mnc=260
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=568
+screenLayout=SCREENLAYOUT_SIZE_NORMAL+SCREENLAYOUT_LONG_NO+SCREENLAYOUT_LAYOUTDIR_LTR+SCREENLAYOUT_ROUND_NO
+screenWidthDp=360
+seq=5
+smallestScreenWidthDp=360
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=false
+
+BUILD = BOARD=unknown
+BOOTLOADER=unknown
+BRAND=Android
+CPU_ABI=x86_64
+CPU_ABI2=
+DEVICE=generic_x86_64
+DISPLAY=sdk_google_phone_x86_64-userdebug 6.0 MASTER 3079352 test-keys
+FINGERPRINT=Android/sdk_google_phone_x86_64/generic_x86_64:6.0/MASTER/3079352:userdebug/test-keys
+HARDWARE=ranchu
+HOST=vpba14.mtv.corp.google.com
+ID=MASTER
+IS_DEBUGGABLE=true
+MANUFACTURER=unknown
+MODEL=Android SDK built for x86_64
+PRODUCT=sdk_google_phone_x86_64
+RADIO=unknown
+SERIAL=unknown
+SUPPORTED_32_BIT_ABIS=[x86]
+SUPPORTED_64_BIT_ABIS=[x86_64]
+SUPPORTED_ABIS=[x86_64, x86]
+TAGS=test-keys
+TIME=1469048534000
+TYPE=userdebug
+UNKNOWN=unknown
+USER=android-build
+VERSION.ACTIVE_CODENAMES=[]
+VERSION.BASE_OS=
+VERSION.CODENAME=REL
+VERSION.INCREMENTAL=3079352
+VERSION.PREVIEW_SDK_INT=0
+VERSION.RELEASE=6.0
+VERSION.RESOURCES_SDK_INT=23
+VERSION.SDK=23
+VERSION.SDK_INT=23
+VERSION.SECURITY_PATCH=2015-10-01
+
+ENVIRONMENT = getDataDirectory=/data
+getDownloadCacheDirectory=/cache
+getExternalStorageDirectory=/storage/emulated/0
+getExternalStorageState=mounted
+getLegacyExternalStorageDirectory=/sdcard
+getLegacyExternalStorageObbDirectory=/sdcard/Android/obb
+getOemDirectory=/oem
+getRootDirectory=/system
+getSecureDataDirectory=/data
+getStorageDirectory=/storage
+getSystemSecureDirectory=/data/system
+getVendorDirectory=/vendor
+isEncryptedFilesystemEnabled=false
+isExternalStorageEmulated=true
+isExternalStorageRemovable=false
+
+ANDROID_VERSION = 6.0
+USER_EMAIL = N/A
+USER_APP_START_DATE = 2016-10-06T17:56:43.199+02:00

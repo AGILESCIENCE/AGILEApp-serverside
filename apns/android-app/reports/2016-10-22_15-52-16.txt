@@ -1,0 +1,338 @@
+USER_EMAIL = N/A
+USER_COMMENT = 
+DEVICE_FEATURES = android.hardware.location.network
+android.hardware.location
+android.software.input_methods
+android.hardware.touchscreen.multitouch.jazzhand
+android.hardware.touchscreen.multitouch
+android.hardware.screen.landscape
+android.hardware.screen.portrait
+android.hardware.sensor.compass
+android.hardware.faketouch
+android.hardware.camera
+android.hardware.camera.any
+android.hardware.bluetooth
+android.hardware.touchscreen.multitouch.distinct
+android.software.home_screen
+android.hardware.microphone
+android.hardware.camera.autofocus
+android.software.device_admin
+android.hardware.sensor.accelerometer
+android.software.live_wallpaper
+android.hardware.touchscreen
+android.software.app_widgets
+glEsVersion = 2.0
+
+PHONE_MODEL = sdk
+INSTALLATION_ID = 88e51cc4-d329-4f31-999d-7ee440a1af2a
+SHARED_PREFERENCES = default.acra.lastVersionNr=1
+default.acra.legacyAlreadyConvertedTo4.8.0=true
+
+
+IS_SILENT = 
+PACKAGE_NAME = com.agile.science
+ANDROID_VERSION = 4.4.4
+APP_VERSION_CODE = 1
+CRASH_CONFIGURATION = compatScreenHeightDp=482
+compatScreenWidthDp=320
+compatSmallestScreenWidthDp=320
+densityDpi=320
+fontScale=1.0
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_NO
+keyboard=KEYBOARD_QWERTY
+keyboardHidden=KEYBOARDHIDDEN_NO
+locale=en_US
+mcc=310
+mnc=260
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=1207
+screenLayout=SCREENLAYOUT_SIZE_XLARGE+SCREENLAYOUT_LONG_NO+SCREENLAYOUT_LAYOUTDIR_LTR
+screenWidthDp=800
+seq=8
+smallestScreenWidthDp=800
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=true
+
+USER_CRASH_DATE = 2016-10-22T09:52:06.362-04:00
+BUILD = BOARD=unknown
+BOOTLOADER=unknown
+BRAND=generic
+CPU_ABI=armeabi-v7a
+CPU_ABI2=armeabi
+DEVICE=generic
+DISPLAY=sdk-eng 4.4.4 KK 1743154 test-keys
+FINGERPRINT=generic/sdk/generic:4.4.4/KK/1743154:eng/test-keys
+HARDWARE=goldfish
+HOST=vpbs13.mtv.corp.google.com
+ID=KK
+IS_DEBUGGABLE=true
+MANUFACTURER=unknown
+MODEL=sdk
+PRODUCT=sdk
+RADIO=unknown
+SERIAL=unknown
+TAGS=test-keys
+TIME=1424312450000
+TYPE=eng
+UNKNOWN=unknown
+USER=android-build
+VERSION.CODENAME=REL
+VERSION.INCREMENTAL=1743154
+VERSION.RELEASE=4.4.4
+VERSION.RESOURCES_SDK_INT=19
+VERSION.SDK=19
+VERSION.SDK_INT=19
+
+DUMPSYS_MEMINFO = Permission Denial: can't dump meminfo from from pid=29499, uid=10052 without permission android.permission.DUMP
+BUILD_CONFIG = APPLICATION_ID=com.agile.science
+BUILD_TYPE=debug
+DEBUG=true
+FLAVOR=
+VERSION_CODE=1
+VERSION_NAME=2.0.0
+
+STACK_TRACE = java.lang.NullPointerException
+	at quattro.FragmentQuattro.onDetach(FragmentQuattro.java:681)
+	at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:1017)
+	at android.app.FragmentManagerImpl.removeFragment(FragmentManager.java:1167)
+	at android.app.BackStackRecord.run(BackStackRecord.java:641)
+	at android.app.FragmentManagerImpl.execPendingActions(FragmentManager.java:1447)
+	at android.app.FragmentManagerImpl$1.run(FragmentManager.java:443)
+	at android.os.Handler.handleCallback(Handler.java:733)
+	at android.os.Handler.dispatchMessage(Handler.java:95)
+	at android.os.Looper.loop(Looper.java:136)
+	at android.app.ActivityThread.main(ActivityThread.java:5001)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:515)
+	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:785)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:601)
+	at dalvik.system.NativeStart.main(Native Method)
+
+PRODUCT = sdk
+DISPLAY = 0.currentSizeRange.smallest=[1600,1454]
+0.currentSizeRange.largest=[2560,2414]
+0.flags=FLAG_SUPPORTS_PROTECTED_BUFFERS+FLAG_SECURE
+0.height=2464
+0.metrics.density=2.0
+0.metrics.densityDpi=320
+0.metrics.scaledDensity=x2.0
+0.metrics.widthPixels=1600
+0.metrics.heightPixels=2464
+0.metrics.xdpi=320.0
+0.metrics.ydpi=320.0
+0.name=Built-in Screen
+0.orientation=3
+0.pixelFormat=1
+0.realMetrics.density=2.0
+0.realMetrics.densityDpi=320
+0.realMetrics.scaledDensity=x2.0
+0.realMetrics.widthPixels=1600
+0.realMetrics.heightPixels=2560
+0.realMetrics.xdpi=320.0
+0.realMetrics.ydpi=320.0
+0.realSize=[1600,2560]
+0.rectSize=[0,0,1600,2464]
+0.refreshRate=60.000004
+0.rotation=ROTATION_270
+0.size=[1600,2464]
+0.width=1600
+0.isValid=true
+
+APP_VERSION_NAME = 2.0.0
+LOGCAT = --------- beginning of /dev/log/main
+10-22 09:50:00.974 W/dalvikvm(28062): VFY: unable to resolve virtual method 1218: Landroid/content/Context;.isDeviceProtectedStorage ()Z
+10-22 09:50:00.974 D/dalvikvm(28062): VFY: replacing opcode 0x6e at 0x0009
+10-22 09:50:01.024 I/FirebaseInitProvider(28062): FirebaseApp initialization unsuccessful
+10-22 09:50:01.244 D/dalvikvm(28062): GC_FOR_ALLOC freed 325K, 12% free 3347K/3792K, paused 65ms, total 66ms
+10-22 09:50:01.724 D/dalvikvm(28062): GC_FOR_ALLOC freed 412K, 18% free 3223K/3892K, paused 55ms, total 58ms
+10-22 09:50:01.734 I/dalvikvm-heap(28062): Grow heap (frag case) to 4.335MB for 1127536-byte allocation
+10-22 09:50:01.794 D/dalvikvm(28062): GC_FOR_ALLOC freed 2K, 14% free 4322K/4996K, paused 53ms, total 54ms
+10-22 09:50:02.014 D/dalvikvm(28062): GC_FOR_ALLOC freed 2K, 14% free 4343K/4996K, paused 44ms, total 64ms
+10-22 09:50:02.024 I/dalvikvm-heap(28062): Grow heap (frag case) to 4.574MB for 230416-byte allocation
+10-22 09:50:02.084 D/dalvikvm(28062): GC_FOR_ALLOC freed 1K, 13% free 4567K/5224K, paused 57ms, total 57ms
+10-22 09:50:02.314 D/dalvikvm(28062): GC_FOR_ALLOC freed 52K, 13% free 4548K/5224K, paused 108ms, total 112ms
+10-22 09:50:02.424 I/dalvikvm-heap(28062): Grow heap (frag case) to 6.928MB for 2489776-byte allocation
+10-22 09:50:02.474 D/dalvikvm(28062): GC_FOR_ALLOC freed <1K, 9% free 6979K/7656K, paused 48ms, total 48ms
+10-22 09:50:03.384 D/        (28062): HostConnection::get() New Host Connection established 0xb717a230, tid 28062
+10-22 09:50:03.464 W/EGL_emulation(28062): eglSurfaceAttrib not implemented
+10-22 09:50:03.484 D/OpenGLRenderer(28062): Enabling debug mode 0
+10-22 09:50:10.074 I/list    (28062): create
+10-22 09:50:10.154 I/ciao    (28062): menu
+10-22 09:50:12.244 I/ciao    (28062): menu
+10-22 09:50:22.604 I/Choreographer(28062): Skipped 53 frames!  The application may be doing too much work on its main thread.
+10-22 09:50:24.644 D/dalvikvm(28062): GC_FOR_ALLOC freed 440K, 7% free 7910K/8468K, paused 81ms, total 90ms
+10-22 09:50:24.794 I/ciao    (28062): menu
+10-22 09:50:25.654 I/ciao    (28062): menu
+10-22 09:50:27.764 I/ciao    (28062): menu
+10-22 09:50:38.744 I/list    (28062): create
+10-22 09:50:38.804 I/ciao    (28062): menu
+10-22 09:50:39.994 I/list    (28062): create
+10-22 09:50:42.024 I/list    (28062): create
+10-22 09:50:42.074 V/WebViewChromiumFactoryProvider(28062): Binding Chromium to main looper Looper (main, tid 1) {adcda748}
+10-22 09:50:42.084 I/LibraryLoader(28062): Expected native library version number "",actual native library version number ""
+10-22 09:50:42.104 I/chromium(28062): [INFO:library_loader_hooks.cc(116)] Chromium logging enabled: level = 0, default verbosity = 0
+10-22 09:50:42.114 I/BrowserStartupController(28062): Initializing chromium process, renderers=0
+10-22 09:50:42.214 E/AudioManagerAndroid(28062): BLUETOOTH permission is missing!
+10-22 09:50:42.524 W/chromium(28062): [WARNING:mailbox_synchronizer.cc(36)] MailboxSync not supported due to missing EGL image/fence support
+10-22 09:50:42.974 D/dalvikvm(28062): GC_FOR_ALLOC freed 1667K, 19% free 7923K/9708K, paused 204ms, total 235ms
+10-22 09:50:43.144 W/chromium(28062): [WARNING:proxy_service.cc(890)] PAC support disabled because there is no system implementation
+10-22 09:50:43.584 I/url     (28062): http://agile.asdc.asi.it/aglfov/fov.php?fovname=dailyfov
+10-22 09:50:44.094 I/Choreographer(28062): Skipped 124 frames!  The application may be doing too much work on its main thread.
+10-22 09:50:44.244 W/AwContents(28062): nativeOnDraw failed; clearing to background color.
+10-22 09:50:45.404 W/AwContents(28062): nativeOnDraw failed; clearing to background color.
+10-22 09:50:45.464 W/AwContents(28062): nativeOnDraw failed; clearing to background color.
+10-22 09:50:45.544 W/AwContents(28062): nativeOnDraw failed; clearing to background color.
+10-22 09:50:45.594 W/AwContents(28062): nativeOnDraw failed; clearing to background color.
+10-22 09:50:45.634 W/AwContents(28062): nativeOnDraw failed; clearing to background color.
+10-22 09:50:51.374 I/list    (28062): create
+10-22 09:50:51.524 I/url     (28062): http://agile.asdc.asi.it:8080/monitoring/last/QLVMONEFFLC_FM.GIF
+10-22 09:50:51.784 W/AwContents(28062): nativeOnDraw failed; clearing to background color.
+10-22 09:51:17.824 I/ciao    (28062): menu
+10-22 09:51:20.304 I/ciao    (28062): menu
+10-22 09:51:21.394 I/ciao    (28062): menu
+10-22 09:51:22.884 I/ciao    (28062): menu
+10-22 09:51:23.084 D/dalvikvm(28062): GC_FOR_ALLOC freed 1203K, 14% free 8353K/9708K, paused 62ms, total 63ms
+10-22 09:51:23.924 I/ciao    (28062): menu
+10-22 09:51:25.754 D/dalvikvm(28062): GC_FOR_ALLOC freed 1096K, 20% free 8166K/10120K, paused 68ms, total 68ms
+10-22 09:51:26.534 I/ciao    (28062): menu
+10-22 09:51:26.904 D/dalvikvm(28062): GC_FOR_ALLOC freed 923K, 26% free 7570K/10120K, paused 43ms, total 43ms
+10-22 09:51:26.944 I/dalvikvm-heap(28062): Grow heap (frag case) to 11.740MB for 4440816-byte allocation
+10-22 09:51:27.024 D/dalvikvm(28062): GC_FOR_ALLOC freed 1K, 18% free 11905K/14460K, paused 78ms, total 78ms
+10-22 09:51:27.654 I/list    (28062): create
+10-22 09:51:28.794 I/ciao    (28062): menu
+10-22 09:51:54.174 I/ciao    (28062): menu
+10-22 09:51:55.204 I/list    (28062): create
+10-22 09:51:55.744 I/Choreographer(28062): Skipped 35 frames!  The application may be doing too much work on its main thread.
+10-22 09:51:55.754 I/ciao    (28062): menu
+10-22 09:51:55.784 W/AwContents(28062): nativeOnDraw failed; clearing to background color.
+10-22 09:51:55.924 I/ciao    (28062): menu
+10-22 09:51:57.024 I/ciao    (28062): menu
+10-22 09:51:57.094 W/AwContents(28062): nativeOnDraw failed; clearing to background color.
+10-22 09:51:57.234 W/AwContents(28062): nativeOnDraw failed; clearing to background color.
+10-22 09:51:57.284 W/AwContents(28062): nativeOnDraw failed; clearing to background color.
+10-22 09:51:57.354 W/AwContents(28062): nativeOnDraw failed; clearing to background color.
+10-22 09:51:58.034 I/map     (28062): oncreate
+10-22 09:51:58.094 I/path    (28062): 19 14
+10-22 09:51:58.124 I/dalvikvm(28062): Could not find method android.app.Notification$Builder.setLocalOnly, referenced from method com.google.android.gms.common.GooglePlayServicesUtil.zza
+10-22 09:51:58.124 W/dalvikvm(28062): VFY: unable to resolve virtual method 1042: Landroid/app/Notification$Builder;.setLocalOnly (Z)Landroid/app/Notification$Builder;
+10-22 09:51:58.124 D/dalvikvm(28062): VFY: replacing opcode 0x6e at 0x00c5
+10-22 09:51:58.164 I/dalvikvm(28062): Could not find method android.content.pm.PackageManager.getPackageInstaller, referenced from method com.google.android.gms.common.zze.zzs
+10-22 09:51:58.164 W/dalvikvm(28062): VFY: unable to resolve virtual method 1370: Landroid/content/pm/PackageManager;.getPackageInstaller ()Landroid/content/pm/PackageInstaller;
+10-22 09:51:58.174 D/dalvikvm(28062): VFY: replacing opcode 0x6e at 0x001b
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): Cannot find Google Play services package name.
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): android.content.pm.PackageManager$NameNotFoundException: com.google.android.gms
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at android.app.ApplicationPackageManager.getPackageInfo(ApplicationPackageManager.java:82)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at com.google.android.gms.internal.zzsh.getPackageInfo(Unknown Source)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at com.google.android.gms.common.zze.zzby(Unknown Source)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at com.google.android.gms.common.zze.zzbx(Unknown Source)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at com.google.android.gms.common.zze.zzbt(Unknown Source)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at com.google.android.gms.common.zze.isGooglePlayServicesAvailable(Unknown Source)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at com.google.android.gms.common.GooglePlayServicesUtil.isGooglePlayServicesAvailable(Unknown Source)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at com.google.android.gms.maps.internal.zzai.zzdq(Unknown Source)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at com.google.android.gms.maps.internal.zzai.zzdp(Unknown Source)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at com.google.android.gms.maps.MapsInitializer.initialize(Unknown Source)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at com.google.android.gms.maps.MapView$zzb.zzbru(Unknown Source)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at com.google.android.gms.maps.MapView$zzb.zza(Unknown Source)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at com.google.android.gms.dynamic.zza.zza(Unknown Source)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at com.google.android.gms.dynamic.zza.onCreate(Unknown Source)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at com.google.android.gms.maps.MapView.onCreate(Unknown Source)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at com.agile.science.FragmentMap.onCreateView(FragmentMap.java:103)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at android.app.Fragment.performCreateView(Fragment.java:1700)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:890)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:1062)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at android.app.BackStackRecord.run(BackStackRecord.java:684)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at android.app.FragmentManagerImpl.execPendingActions(FragmentManager.java:1447)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at android.app.FragmentManagerImpl$1.run(FragmentManager.java:443)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at android.os.Handler.handleCallback(Handler.java:733)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at android.os.Looper.loop(Looper.java:136)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at android.app.ActivityThread.main(ActivityThread.java:5001)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at java.lang.reflect.Method.invokeNative(Native Method)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at java.lang.reflect.Method.invoke(Method.java:515)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:785)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:601)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): 	at dalvik.system.NativeStart.main(Native Method)
+10-22 09:51:58.204 W/GooglePlayServicesUtil(28062): Google Play Store is missing.
+10-22 09:51:58.214 W/GooglePlayServicesUtil(28062): Google Play Store is missing.
+10-22 09:51:58.214 W/GooglePlayServicesUtil(28062): Google Play Store is missing.
+10-22 09:51:58.274 W/GooglePlayServicesUtil(28062): Google Play Store is missing.
+10-22 09:51:58.274 W/GooglePlayServicesUtil(28062): Google Play Store is missing.
+10-22 09:51:58.284 I/Choreographer(28062): Skipped 41 frames!  The application may be doing too much work on its main thread.
+10-22 09:52:00.494 I/list    (28062): create
+10-22 09:52:00.764 I/ciao    (28062): menu
+10-22 09:52:00.834 W/AwContents(28062): nativeOnDraw failed; clearing to background color.
+10-22 09:52:01.134 I/ciao    (28062): menu
+10-22 09:52:01.994 I/ciao    (28062): menu
+10-22 09:52:02.024 W/AwContents(28062): nativeOnDraw failed; clearing to background color.
+10-22 09:52:02.144 W/AwContents(28062): nativeOnDraw failed; clearing to background color.
+10-22 09:52:02.294 W/AwContents(28062): nativeOnDraw failed; clearing to background color.
+10-22 09:52:02.354 W/AwContents(28062): nativeOnDraw failed; clearing to background color.
+10-22 09:52:02.564 W/AwContents(28062): nativeOnDraw failed; clearing to background color.
+10-22 09:52:04.804 I/Choreographer(28062): Skipped 34 frames!  The application may be doing too much work on its main thread.
+10-22 09:52:05.174 D/AndroidRuntime(28062): Shutting down VM
+10-22 09:52:05.174 W/dalvikvm(28062): threadid=1: thread exiting with uncaught exception (group=0xad9f2ba8)
+10-22 09:52:05.224 E/ACRA    (28062): ACRA caught a NullPointerException for com.agile.science
+10-22 09:52:05.224 E/ACRA    (28062): java.lang.NullPointerException
+10-22 09:52:05.224 E/ACRA    (28062): 	at quattro.FragmentQuattro.onDetach(FragmentQuattro.java:681)
+10-22 09:52:05.224 E/ACRA    (28062): 	at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:1017)
+10-22 09:52:05.224 E/ACRA    (28062): 	at android.app.FragmentManagerImpl.removeFragment(FragmentManager.java:1167)
+10-22 09:52:05.224 E/ACRA    (28062): 	at android.app.BackStackRecord.run(BackStackRecord.java:641)
+10-22 09:52:05.224 E/ACRA    (28062): 	at android.app.FragmentManagerImpl.execPendingActions(FragmentManager.java:1447)
+10-22 09:52:05.224 E/ACRA    (28062): 	at android.app.FragmentManagerImpl$1.run(FragmentManager.java:443)
+10-22 09:52:05.224 E/ACRA    (28062): 	at android.os.Handler.handleCallback(Handler.java:733)
+10-22 09:52:05.224 E/ACRA    (28062): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+10-22 09:52:05.224 E/ACRA    (28062): 	at android.os.Looper.loop(Looper.java:136)
+10-22 09:52:05.224 E/ACRA    (28062): 	at android.app.ActivityThread.main(ActivityThread.java:5001)
+10-22 09:52:05.224 E/ACRA    (28062): 	at java.lang.reflect.Method.invokeNative(Native Method)
+10-22 09:52:05.224 E/ACRA    (28062): 	at java.lang.reflect.Method.invoke(Method.java:515)
+10-22 09:52:05.224 E/ACRA    (28062): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:785)
+10-22 09:52:05.224 E/ACRA    (28062): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:601)
+10-22 09:52:05.224 E/ACRA    (28062): 	at dalvik.system.NativeStart.main(Native Method)
+AVAILABLE_MEM_SIZE = 124624896
+USER_APP_START_DATE = 2016-10-22T09:50:00.828-04:00
+CUSTOM_DATA = 
+BRAND = generic
+FILE_PATH = /data/data/com.agile.science/files
+TOTAL_MEM_SIZE = 206577664
+INITIAL_CONFIGURATION = compatScreenHeightDp=482
+compatScreenWidthDp=320
+compatSmallestScreenWidthDp=320
+densityDpi=320
+fontScale=1.0
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_NO
+keyboard=KEYBOARD_QWERTY
+keyboardHidden=KEYBOARDHIDDEN_NO
+locale=en_US
+mcc=310
+mnc=260
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=1207
+screenLayout=SCREENLAYOUT_SIZE_XLARGE+SCREENLAYOUT_LONG_NO+SCREENLAYOUT_LAYOUTDIR_LTR
+screenWidthDp=800
+seq=8
+smallestScreenWidthDp=800
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=true
+
+ENVIRONMENT = getDataDirectory=/data
+getDownloadCacheDirectory=/cache
+getEmulatedStorageObbSource=obb
+getExternalStorageDirectory=/storage/sdcard
+getExternalStorageState=removed
+getLegacyExternalStorageDirectory=/storage/sdcard
+getLegacyExternalStorageObbDirectory=/storage/sdcard/Android/obb
+getMediaStorageDirectory=/data/media
+getRootDirectory=/system
+getSecureDataDirectory=/data
+getSystemSecureDirectory=/data/system
+isEncryptedFilesystemEnabled=false
+isExternalStorageEmulated=false
+isExternalStorageRemovable=false
+
+REPORT_ID = f4c38132-c468-48bc-8efe-06e0d659ebd3

@@ -1,0 +1,15 @@
+---en===Discovery of gamma-ray emission from the black hole system Cygnus X-3===
+
+---it===Scoperta l'emissione gamma dal misterioso buco nero Cygnus X-3===
+
+---en=== Discovery of extreme particle acceleration preceding relativistic jet plasmoid ejections from the black hole candidate Cyg X-3. Repeatedly detected by AGILE since 2008. First comprehensive survey of all Galactic microquasars by Super-AGILE and AGILE-GRID (Tavani et al., Nature, 462, 620, 2009).===
+
+---it=== AGILE scopre l'accelerazione estrema di particelle che precede l'eiezione di plasmoidi dal getto relativistico proveniente dal candidato buco nero Cyg X-3. Ripetutamente rilevata da AGILE a partire dal 2008. Primo monitoraggio completo di tutti i microquasar galattici da parte di Super AGILE  e AGILE-GRID. Il Team AGILE ha riportato i suoi risultati nell'articolo Tavani et al., Nature, 462, 620, 2009.===
+
+---en===http://agile.iasfbo.inaf.it/en/top10/2009B.html===
+
+---it===http://agile.iasfbo.inaf.it/it/top10/2009B.html===
+
+====CygX-3.png====
+
+=====CygX-3.png=====

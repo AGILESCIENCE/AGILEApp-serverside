@@ -1,0 +1,329 @@
+LOGCAT = --------- beginning of main
+12-04 19:29:28.581 I/art     ( 3142): Not late-enabling -Xcheck:jni (already on)
+12-04 19:29:28.599 W/art     ( 3142): Unexpected CPU variant for X86 using defaults: x86_64
+12-04 19:29:28.797 W/System  ( 3142): ClassLoader referenced unknown path: /data/app/com.agile.science-1/lib/x86_64
+12-04 19:29:28.893 I/acra    ( 3142): acra
+12-04 19:29:28.970 I/ACRA    ( 3142): ACRA is enabled for com.agile.science, initializing...
+12-04 19:29:29.133 W/gralloc_ranchu( 3142): Gralloc pipe failed
+12-04 19:29:29.136 D/        ( 3142): HostConnection::get() New Host Connection established 0x7ffee7a5b060, tid 3142
+12-04 19:29:29.199 D/        ( 3142): HostConnection::get() New Host Connection established 0x7ffee7a5b600, tid 3159
+12-04 19:29:29.273 I/OpenGLRenderer( 3142): Initialized EGL, version 1.4
+12-04 19:29:29.273 D/OpenGLRenderer( 3142): Swap behavior 1
+12-04 19:29:30.589 I/Choreographer( 3142): Skipped 73 frames!  The application may be doing too much work on its main thread.
+12-04 19:29:34.931 I/map     ( 3142): oncreate
+12-04 19:29:34.944 I/path    ( 3142): 24 14
+12-04 19:29:34.979 I/zzai    ( 3142): Making Creator dynamically
+12-04 19:29:34.988 W/System  ( 3142): ClassLoader referenced unknown path: /system/priv-app/PrebuiltGmsCore/lib/x86_64
+12-04 19:29:35.033 W/System  ( 3142): ClassLoader referenced unknown path: /data/user/0/com.google.android.gms/app_chimera/m/00000004/n/x86_64
+12-04 19:29:35.054 I/Google Maps Android API( 3142): Google Play services client version: 9683000
+12-04 19:29:35.059 I/Google Maps Android API( 3142): Google Play services package version: 9683480
+12-04 19:29:35.157 I/c       ( 3142): Saved token has expired. Fetching a new one.
+12-04 19:29:35.157 I/c       ( 3142): Token rejected
+12-04 19:29:35.157 I/d       ( 3142): Deleted saved auth token
+12-04 19:29:35.391 D/        ( 3142): HostConnection::get() New Host Connection established 0x7ffeec212de0, tid 3266
+12-04 19:29:35.428 I/map     ( 3142): onready
+12-04 19:29:35.448 I/b       ( 3142): Sending API token request.
+12-04 19:29:35.474 D/NetworkSecurityConfig( 3142): No Network Security Config specified, using platform default
+12-04 19:29:35.778 W/System.err( 3142): java.io.FileNotFoundException: http://agile.iasfbo.inaf.it/AGILEApp/POS/TLE.json
+12-04 19:29:35.778 W/System.err( 3142): 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:250)
+12-04 19:29:35.778 W/System.err( 3142): 	at com.agile.science.FragmentMap$DownloadTLE.doInBackground(FragmentMap.java:225)
+12-04 19:29:35.778 W/System.err( 3142): 	at com.agile.science.FragmentMap$DownloadTLE.doInBackground(FragmentMap.java:210)
+12-04 19:29:35.778 W/System.err( 3142): 	at android.os.AsyncTask$2.call(AsyncTask.java:304)
+12-04 19:29:35.778 W/System.err( 3142): 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+12-04 19:29:35.778 W/System.err( 3142): 	at android.os.AsyncTask$SerialExecutor$1.run(AsyncTask.java:243)
+12-04 19:29:35.778 W/System.err( 3142): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1133)
+12-04 19:29:35.778 W/System.err( 3142): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:607)
+12-04 19:29:35.778 W/System.err( 3142): 	at java.lang.Thread.run(Thread.java:761)
+12-04 19:29:35.799 I/map     ( 3142): on post
+12-04 19:29:35.799 D/AndroidRuntime( 3142): Shutting down VM
+12-04 19:29:35.800 E/ACRA    ( 3142): ACRA caught a NullPointerException for com.agile.science
+12-04 19:29:35.800 E/ACRA    ( 3142): java.lang.NullPointerException: println needs a message
+12-04 19:29:35.800 E/ACRA    ( 3142): 	at android.util.Log.println_native(Native Method)
+12-04 19:29:35.800 E/ACRA    ( 3142): 	at android.util.Log.i(Log.java:164)
+12-04 19:29:35.800 E/ACRA    ( 3142): 	at com.agile.science.FragmentMap$DownloadTLE.onPostExecute(FragmentMap.java:264)
+12-04 19:29:35.800 E/ACRA    ( 3142): 	at com.agile.science.FragmentMap$DownloadTLE.onPostExecute(FragmentMap.java:210)
+12-04 19:29:35.800 E/ACRA    ( 3142): 	at android.os.AsyncTask.finish(AsyncTask.java:660)
+12-04 19:29:35.800 E/ACRA    ( 3142): 	at android.os.AsyncTask.-wrap1(AsyncTask.java)
+12-04 19:29:35.800 E/ACRA    ( 3142): 	at android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:677)
+12-04 19:29:35.800 E/ACRA    ( 3142): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+12-04 19:29:35.800 E/ACRA    ( 3142): 	at android.os.Looper.loop(Looper.java:154)
+12-04 19:29:35.800 E/ACRA    ( 3142): 	at android.app.ActivityThread.main(ActivityThread.java:6077)
+12-04 19:29:35.800 E/ACRA    ( 3142): 	at java.lang.reflect.Method.invoke(Native Method)
+12-04 19:29:35.800 E/ACRA    ( 3142): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:865)
+12-04 19:29:35.800 E/ACRA    ( 3142): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:755)
+12-04 19:29:35.902 I/b       ( 3142): Received API Token: AH0uPGEc94VOf8IP_j2VqBwKHjfm4gO0i0SJn62832jbSFf27CMLcdhD7wkaFaKkhJvR_PSoZHwJoIGAobestkePcFlc51htrFRKGOsEU5KEV-bwUAH7nkgLBZgRl1mWRxkK5JygxYMafORLDRxvGHInsYUrmo64SCnHFgs8pZKpzK734IGJB7Y / Expires in: 432000000ms
+12-04 19:29:35.902 I/c       ( 3142): Scheduling next attempt in 431700 seconds.
+12-04 19:29:35.903 I/d       ( 3142): Saved auth token
+12-04 19:29:35.994 I/art     ( 3302): Not late-enabling -Xcheck:jni (already on)
+12-04 19:29:35.995 W/art     ( 3302): Unexpected CPU variant for X86 using defaults: x86_64
+12-04 19:29:36.071 I/Process ( 3142): Sending signal. PID: 3142 SIG: 9
+12-04 19:29:36.461 W/System  ( 3302): ClassLoader referenced unknown path: /data/app/com.agile.science-1/lib/x86_64
+12-04 19:29:36.565 I/acra    ( 3302): acra
+12-04 19:29:36.709 I/ACRA    ( 3302): Sending report /data/user/0/com.agile.science/app_ACRA-approved/2016-12-04T19:29:35.891+01:00.stacktrace
+12-04 19:29:36.770 D/NetworkSecurityConfig( 3302): No Network Security Config specified, using platform default
+12-04 19:29:37.057 I/ACRA    ( 3302): Request received by server
+12-04 19:30:27.468 I/art     ( 3435): Not late-enabling -Xcheck:jni (already on)
+12-04 19:30:27.468 W/art     ( 3435): Unexpected CPU variant for X86 using defaults: x86_64
+12-04 19:30:27.655 W/System  ( 3435): ClassLoader referenced unknown path: /data/app/com.agile.science-2/lib/x86_64
+12-04 19:30:27.694 I/acra    ( 3435): acra
+12-04 19:30:27.833 I/ACRA    ( 3435): ACRA is enabled for com.agile.science, initializing...
+12-04 19:30:28.000 W/gralloc_ranchu( 3435): Gralloc pipe failed
+12-04 19:30:28.001 D/        ( 3435): HostConnection::get() New Host Connection established 0x7ffee7a5e180, tid 3435
+12-04 19:30:28.163 D/        ( 3435): HostConnection::get() New Host Connection established 0x7ffeec2127e0, tid 3463
+12-04 19:30:28.275 I/OpenGLRenderer( 3435): Initialized EGL, version 1.4
+12-04 19:30:28.275 D/OpenGLRenderer( 3435): Swap behavior 1
+12-04 19:30:29.086 I/Choreographer( 3435): Skipped 39 frames!  The application may be doing too much work on its main thread.
+12-04 19:30:33.944 I/map     ( 3435): oncreate
+12-04 19:30:33.976 I/path    ( 3435): 24 14
+12-04 19:30:33.992 I/zzai    ( 3435): Making Creator dynamically
+12-04 19:30:34.001 W/System  ( 3435): ClassLoader referenced unknown path: /system/priv-app/PrebuiltGmsCore/lib/x86_64
+12-04 19:30:34.031 W/System  ( 3435): ClassLoader referenced unknown path: /data/user/0/com.google.android.gms/app_chimera/m/00000004/n/x86_64
+12-04 19:30:34.052 I/Google Maps Android API( 3435): Google Play services client version: 9683000
+12-04 19:30:34.057 I/Google Maps Android API( 3435): Google Play services package version: 9683480
+12-04 19:30:34.161 I/c       ( 3435): Token loaded from file. Expires in: 431941741 ms.
+12-04 19:30:34.161 I/c       ( 3435): Scheduling next attempt in 431641 seconds.
+12-04 19:30:34.242 D/NetworkSecurityConfig( 3435): No Network Security Config specified, using platform default
+12-04 19:30:34.357 D/        ( 3435): HostConnection::get() New Host Connection established 0x7ffee7a58fa0, tid 3582
+12-04 19:30:34.414 I/map     ( 3435): onready
+12-04 19:30:34.707 W/System.err( 3435): java.io.FileNotFoundException: http://agile.iasfbo.inaf.it/AGILEApp/POS/TLE.json
+12-04 19:30:34.707 W/System.err( 3435): 	at com.android.okhttp.internal.huc.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:250)
+12-04 19:30:34.708 W/System.err( 3435): 	at com.agile.science.FragmentMap$DownloadTLE.doInBackground(FragmentMap.java:225)
+12-04 19:30:34.708 W/System.err( 3435): 	at com.agile.science.FragmentMap$DownloadTLE.doInBackground(FragmentMap.java:210)
+12-04 19:30:34.709 W/System.err( 3435): 	at android.os.AsyncTask$2.call(AsyncTask.java:304)
+12-04 19:30:34.709 W/System.err( 3435): 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+12-04 19:30:34.709 W/System.err( 3435): 	at android.os.AsyncTask$SerialExecutor$1.run(AsyncTask.java:243)
+12-04 19:30:34.709 W/System.err( 3435): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1133)
+12-04 19:30:34.710 W/System.err( 3435): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:607)
+12-04 19:30:34.711 W/System.err( 3435): 	at java.lang.Thread.run(Thread.java:761)
+12-04 19:30:34.726 I/map     ( 3435): run
+12-04 19:30:34.727 D/AndroidRuntime( 3435): Shutting down VM
+12-04 19:30:34.735 E/ACRA    ( 3435): ACRA caught a NullPointerException for com.agile.science
+12-04 19:30:34.735 E/ACRA    ( 3435): java.lang.NullPointerException: Attempt to invoke virtual method 'int java.lang.String.length()' on a null object reference
+12-04 19:30:34.735 E/ACRA    ( 3435): 	at java.util.StringTokenizer.<init>(StringTokenizer.java:199)
+12-04 19:30:34.735 E/ACRA    ( 3435): 	at java.util.StringTokenizer.<init>(StringTokenizer.java:221)
+12-04 19:30:34.735 E/ACRA    ( 3435): 	at com.agile.science.Satellite.readTLE(TestCoordinates.java:65)
+12-04 19:30:34.735 E/ACRA    ( 3435): 	at com.agile.science.FragmentMap$1.run(FragmentMap.java:136)
+12-04 19:30:34.735 E/ACRA    ( 3435): 	at com.agile.science.FragmentMap$DownloadTLE.onPostExecute(FragmentMap.java:266)
+12-04 19:30:34.735 E/ACRA    ( 3435): 	at com.agile.science.FragmentMap$DownloadTLE.onPostExecute(FragmentMap.java:210)
+12-04 19:30:34.735 E/ACRA    ( 3435): 	at android.os.AsyncTask.finish(AsyncTask.java:660)
+12-04 19:30:34.735 E/ACRA    ( 3435): 	at android.os.AsyncTask.-wrap1(AsyncTask.java)
+12-04 19:30:34.735 E/ACRA    ( 3435): 	at android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:677)
+12-04 19:30:34.735 E/ACRA    ( 3435): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+12-04 19:30:34.735 E/ACRA    ( 3435): 	at android.os.Looper.loop(Looper.java:154)
+12-04 19:30:34.735 E/ACRA    ( 3435): 	at android.app.ActivityThread.main(ActivityThread.java:6077)
+12-04 19:30:34.735 E/ACRA    ( 3435): 	at java.lang.reflect.Method.invoke(Native Method)
+12-04 19:30:34.735 E/ACRA    ( 3435): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:865)
+12-04 19:30:34.735 E/ACRA    ( 3435): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:755)
+APP_VERSION_CODE = 7
+DEVICE_FEATURES = android.hardware.sensor.accelerometer
+android.hardware.faketouch
+android.hardware.usb.accessory
+android.software.backup
+android.hardware.touchscreen
+android.hardware.touchscreen.multitouch
+android.software.print
+android.software.voice_recognizers
+android.hardware.fingerprint
+android.hardware.camera.autofocus
+android.hardware.audio.output
+android.hardware.screen.portrait
+android.software.home_screen
+android.hardware.microphone
+android.hardware.sensor.compass
+android.hardware.touchscreen.multitouch.jazzhand
+android.software.app_widgets
+android.software.input_methods
+android.software.device_admin
+android.hardware.camera
+android.hardware.screen.landscape
+android.software.managed_users
+android.software.webview
+android.hardware.camera.any
+android.software.connectionservice
+android.hardware.touchscreen.multitouch.distinct
+android.hardware.location.network
+android.software.live_wallpaper
+android.software.midi
+android.hardware.location
+glEsVersion = 2.0
+
+USER_CRASH_DATE = 2016-12-04T19:30:34.840+01:00
+CUSTOM_DATA = 
+AVAILABLE_MEM_SIZE = 494620672
+BRAND = Android
+INSTALLATION_ID = 5e48394e-b4ed-40cc-94ea-4306d384dd4c
+SHARED_PREFERENCES = default.App Restrictions=AAAAAA==
+    
+default.acra.legacyAlreadyConvertedTo4.8.0=true
+default.acra.lastVersionNr=7
+
+
+FILE_PATH = /data/user/0/com.agile.science/files
+STACK_TRACE = java.lang.NullPointerException: Attempt to invoke virtual method 'int java.lang.String.length()' on a null object reference
+	at java.util.StringTokenizer.<init>(StringTokenizer.java:199)
+	at java.util.StringTokenizer.<init>(StringTokenizer.java:221)
+	at com.agile.science.Satellite.readTLE(TestCoordinates.java:65)
+	at com.agile.science.FragmentMap$1.run(FragmentMap.java:136)
+	at com.agile.science.FragmentMap$DownloadTLE.onPostExecute(FragmentMap.java:266)
+	at com.agile.science.FragmentMap$DownloadTLE.onPostExecute(FragmentMap.java:210)
+	at android.os.AsyncTask.finish(AsyncTask.java:660)
+	at android.os.AsyncTask.-wrap1(AsyncTask.java)
+	at android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:677)
+	at android.os.Handler.dispatchMessage(Handler.java:102)
+	at android.os.Looper.loop(Looper.java:154)
+	at android.app.ActivityThread.main(ActivityThread.java:6077)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:865)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:755)
+
+PHONE_MODEL = Android SDK built for x86_64
+TOTAL_MEM_SIZE = 817143808
+USER_COMMENT = 
+PACKAGE_NAME = com.agile.science
+IS_SILENT = 
+DUMPSYS_MEMINFO = 
+BUILD_CONFIG = APPLICATION_ID=com.agile.science
+BUILD_TYPE=debug
+DEBUG=true
+FLAVOR=
+VERSION_CODE=7
+VERSION_NAME=2.0.1
+
+INITIAL_CONFIGURATION = compatScreenHeightDp=512
+compatScreenWidthDp=319
+compatSmallestScreenWidthDp=320
+densityDpi=420
+fontScale=1.0
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_NO
+keyboard=KEYBOARD_QWERTY
+keyboardHidden=KEYBOARDHIDDEN_NO
+locale=it_IT
+mcc=310
+mnc=260
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=659
+screenLayout=SCREENLAYOUT_SIZE_NORMAL+SCREENLAYOUT_LONG_NO+SCREENLAYOUT_LAYOUTDIR_LTR+SCREENLAYOUT_ROUND_NO
+screenWidthDp=411
+seq=7
+smallestScreenWidthDp=411
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=false
+
+PRODUCT = sdk_google_phone_x86_64
+DISPLAY = 0.currentSizeRange.smallest=[1080,1017]
+0.currentSizeRange.largest=[1794,1731]
+0.flags=FLAG_SUPPORTS_PROTECTED_BUFFERS+FLAG_SECURE
+0.height=1794
+0.metrics.density=2.625
+0.metrics.densityDpi=420
+0.metrics.scaledDensity=x2.625
+0.metrics.widthPixels=1080
+0.metrics.heightPixels=1794
+0.metrics.xdpi=420.0
+0.metrics.ydpi=420.0
+0.name=Schermo incorporato
+0.orientation=0
+0.pixelFormat=1
+0.realMetrics.density=2.625
+0.realMetrics.densityDpi=420
+0.realMetrics.scaledDensity=x2.625
+0.realMetrics.widthPixels=1080
+0.realMetrics.heightPixels=1920
+0.realMetrics.xdpi=420.0
+0.realMetrics.ydpi=420.0
+0.realSize=[1080,1920]
+0.rectSize=[0,0,1080,1794]
+0.refreshRate=60.000004
+0.rotation=ROTATION_0
+0.size=[1080,1794]
+0.width=1080
+0.isValid=true
+
+REPORT_ID = cca78b08-ee43-4e72-8ae4-a091cca633a5
+APP_VERSION_NAME = 2.0.1
+CRASH_CONFIGURATION = compatScreenHeightDp=512
+compatScreenWidthDp=319
+compatSmallestScreenWidthDp=320
+densityDpi=420
+fontScale=1.0
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_NO
+keyboard=KEYBOARD_QWERTY
+keyboardHidden=KEYBOARDHIDDEN_NO
+locale=it_IT
+mcc=310
+mnc=260
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=659
+screenLayout=SCREENLAYOUT_SIZE_NORMAL+SCREENLAYOUT_LONG_NO+SCREENLAYOUT_LAYOUTDIR_LTR+SCREENLAYOUT_ROUND_NO
+screenWidthDp=411
+seq=7
+smallestScreenWidthDp=411
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=false
+
+BUILD = BOARD=unknown
+BOOTLOADER=unknown
+BRAND=Android
+CPU_ABI=x86_64
+CPU_ABI2=
+DEVICE=generic_x86_64
+DISPLAY=sdk_google_phone_x86_64-userdebug 7.0 NYC 3287311 test-keys
+FINGERPRINT=Android/sdk_google_phone_x86_64/generic_x86_64:7.0/NYC/3287311:userdebug/test-keys
+HARDWARE=ranchu
+HOST=vpeb14.mtv.corp.google.com
+ID=NYC
+IS_DEBUGGABLE=true
+IS_EMULATOR=true
+MANUFACTURER=unknown
+MODEL=Android SDK built for x86_64
+PERMISSIONS_REVIEW_REQUIRED=false
+PRODUCT=sdk_google_phone_x86_64
+RADIO=unknown
+SERIAL=unknown
+SUPPORTED_32_BIT_ABIS=[x86]
+SUPPORTED_64_BIT_ABIS=[x86_64]
+SUPPORTED_ABIS=[x86_64, x86]
+TAGS=test-keys
+TIME=1474399966000
+TYPE=userdebug
+UNKNOWN=unknown
+USER=android-build
+VERSION.ACTIVE_CODENAMES=[]
+VERSION.BASE_OS=
+VERSION.CODENAME=REL
+VERSION.INCREMENTAL=3287311
+VERSION.PREVIEW_SDK_INT=0
+VERSION.RELEASE=7.0
+VERSION.RESOURCES_SDK_INT=24
+VERSION.SDK=24
+VERSION.SDK_INT=24
+VERSION.SECURITY_PATCH=2016-09-06
+
+ENVIRONMENT = getDataDirectory=/data
+getDataMiscDirectory=/data/misc
+getDataSystemCeDirectory=/data/system_ce
+getDataSystemDeDirectory=/data/system_de
+getDataSystemDirectory=/data/system
+getDownloadCacheDirectory=/cache
+getExpandDirectory=/mnt/expand
+getExternalStorageDirectory=/storage/emulated/0
+getExternalStorageState=mounted
+getLegacyExternalStorageDirectory=/sdcard
+getLegacyExternalStorageObbDirectory=/sdcard/Android/obb
+getOdmDirectory=/odm
+getOemDirectory=/oem
+getRootDirectory=/system
+getStorageDirectory=/storage
+getVendorDirectory=/vendor
+isExternalStorageEmulated=true
+isExternalStorageRemovable=false
+
+USER_EMAIL = N/A
+ANDROID_VERSION = 7.0
+USER_APP_START_DATE = 2016-12-04T19:30:27.837+01:00

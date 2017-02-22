@@ -1,0 +1,15 @@
+---en===Soft gamma-ray pulsars (PSR 1509-58 and others)===
+
+---it===Pulsar gamma "soft" (PSR 1509-58 e altre)===
+
+---en===First post-EGRET gamma-ray pulsar discovered with the AGILE first light in 2007. Unveiling  a class of "soft" gamma-ray pulsar barely detectable below 200 MeV, such as PSR B1509-58. Theoretical constraints on "photon splitting" in PSR magnetospheres.===
+
+---it===Scoperta dalla prima luce di AGILE nel 2007 la prima pulsar gamma post-EGRET. Rivelata una classe di pulsar gamma "soft" appena rilevabili sotto i 200 MeV, come la PSR B1509-58. Limiti teorici sul "photon splitting" nelle magnetosfere delle pulsar.===
+
+---en===http://agile.iasfbo.inaf.it/en/top10/2010C.html===
+
+---it===http://agile.iasfbo.inaf.it/it/top10/2010C.html===
+
+====Pulsar_B1509-58.png====
+
+=====Pulsar_B1509-58.png=====

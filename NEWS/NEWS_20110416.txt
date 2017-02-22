@@ -1,0 +1,17 @@
+---en===2011/04/16 The Crab Nebula super-flare in gamma-rays===
+
+---it===2011/04/16 L'emissione gamma della Nebulosa del Granchio===
+
+---en=== A very strong gamma-ray flare was detected by AGILE on April 16, 2011 from the Crab Nebula.
+The flux above 100 MeV reached the unprecedented value of  F = (2000 +/- 370) 10^{-8} ph/cm^2/sec.
+The Crab was then twice as bright as the Vela Pulsar! See ATel # 3286.===
+
+---it===Il 16 aprile 2011 AGILE ha rivelato un fortissimo flare gamma dalla Nebulosa del Granchio. Il flusso sopra i 100 MeV ha raggiunto il valore senza precedenti di  F = (2000 +/- 370) 10^{-8} ph/cm^2/sec. La Nebulosa del Granchio e' stata quindi due volte piu' brillante della pulsar Vela! Si veda Atel # 3286.===
+
+---en===http://agile.iasfbo.inaf.it/en/news/2011B.html===
+
+---it===http://agile.iasfbo.inaf.it/it/news/2011B.html===
+
+====AGILE_Crab.png====
+
+=====AGILE_Crab.png=====

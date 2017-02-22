@@ -1,0 +1,441 @@
+USER_EMAIL = N/A
+USER_COMMENT = 
+DEVICE_FEATURES = android.hardware.wifi
+android.hardware.location.network
+android.hardware.nfc
+com.sec.android.mdm
+android.hardware.bluetooth_le
+android.hardware.location
+android.software.input_methods
+android.hardware.sensor.gyroscope
+android.hardware.screen.landscape
+android.hardware.screen.portrait
+android.hardware.wifi.direct
+android.hardware.usb.accessory
+android.hardware.camera.any
+android.hardware.bluetooth
+android.hardware.touchscreen.multitouch.distinct
+android.hardware.microphone
+android.hardware.sensor.light
+android.hardware.camera.autofocus
+com.sec.feature.cover.sview
+android.software.live_wallpaper
+android.software.app_widgets
+android.hardware.camera.flash
+com.sec.feature.cover.sviewcover
+android.hardware.telephony
+android.software.sip
+android.hardware.touchscreen.multitouch.jazzhand
+android.hardware.usb.host
+android.hardware.touchscreen.multitouch
+com.sec.feature.cover.flip
+android.hardware.sensor.compass
+android.hardware.faketouch
+android.hardware.camera
+com.sec.feature.minimode
+android.software.home_screen
+android.software.sip.voip
+android.hardware.sensor.proximity
+android.hardware.location.gps
+android.hardware.consumerir
+android.hardware.telephony.gsm
+android.software.device_admin
+android.hardware.nfc.hce
+android.hardware.camera.front
+android.hardware.touchscreen
+android.hardware.sensor.accelerometer
+glEsVersion = 3.0
+
+PHONE_MODEL = GT-I9195
+INSTALLATION_ID = b7e43603-90ba-40ba-8d28-807b37c3c198
+SHARED_PREFERENCES = default.acra.lastVersionNr=1
+default.acra.legacyAlreadyConvertedTo4.8.0=true
+
+
+IS_SILENT = 
+PACKAGE_NAME = com.agile.science
+ANDROID_VERSION = 4.4.2
+APP_VERSION_CODE = 1
+CRASH_CONFIGURATION = FlipFont=0
+arrange=0
+compatScreenHeightDp=545
+compatScreenWidthDp=320
+compatSmallestScreenWidthDp=320
+densityDpi=240
+fontScale=1.3
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_YES
+keyboard=KEYBOARD_NOKEYS
+keyboardHidden=KEYBOARDHIDDEN_NO
+locale=it_IT
+mcc=222
+mnc=1
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=614
+screenLayout=SCREENLAYOUT_SIZE_NORMAL+SCREENLAYOUT_LONG_YES+SCREENLAYOUT_LAYOUTDIR_LTR
+screenWidthDp=360
+seq=6
+smallestScreenWidthDp=360
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=true
+
+USER_CRASH_DATE = 2016-09-21T12:31:58.970+02:00
+BUILD = BOARD=MSM8960
+BOOTLOADER=I9195XXUCOI4
+BRAND=samsung
+CPU_ABI=armeabi-v7a
+CPU_ABI2=armeabi
+DEVICE=serranolte
+DISPLAY=KOT49H.I9195XXUCOI4
+FINGERPRINT=samsung/serranoltexx/serranolte:4.4.2/KOT49H/I9195XXUCOI4:user/release-keys
+HARDWARE=qcom
+HOST=SWHD7520
+ID=KOT49H
+IS_DEBUGGABLE=false
+IS_ENG_SECURED=false
+IS_SYSTEM_SECURE=false
+MANUFACTURER=samsung
+MODEL=GT-I9195
+PRODUCT=serranoltexx
+RADIO=unknown
+SERIAL=0adbc9ec
+TAGS=release-keys
+TIME=1442989861000
+TYPE=user
+UNKNOWN=unknown
+USER=dpi
+VERSION.CODENAME=REL
+VERSION.INCREMENTAL=I9195XXUCOI4
+VERSION.RELEASE=4.4.2
+VERSION.RESOURCES_SDK_INT=19
+VERSION.SDK=19
+VERSION.SDK_INT=19
+
+DUMPSYS_MEMINFO = Permission Denial: can't dump meminfo from from pid=30011, uid=10225 without permission android.permission.DUMP
+BUILD_CONFIG = APPLICATION_ID=com.agile.science
+BUILD_TYPE=debug
+DEBUG=true
+FLAVOR=
+VERSION_CODE=1
+VERSION_NAME=2.0.0
+
+STACK_TRACE = java.lang.NullPointerException
+	at com.agile.science.ActivitySky$DownloadOrbit.onPostExecute(ActivitySky.java:158)
+	at com.agile.science.ActivitySky$DownloadOrbit.onPostExecute(ActivitySky.java:115)
+	at android.os.AsyncTask.finish(AsyncTask.java:632)
+	at android.os.AsyncTask.access$600(AsyncTask.java:177)
+	at android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:645)
+	at android.os.Handler.dispatchMessage(Handler.java:102)
+	at android.os.Looper.loop(Looper.java:146)
+	at android.app.ActivityThread.main(ActivityThread.java:5593)
+	at java.lang.reflect.Method.invokeNative(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:515)
+	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1283)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+	at dalvik.system.NativeStart.main(Native Method)
+
+PRODUCT = serranoltexx
+DISPLAY = 0.currentSizeRange.smallest=[540,502]
+0.currentSizeRange.largest=[960,922]
+0.flags=FLAG_SUPPORTS_PROTECTED_BUFFERS+FLAG_SECURE
+0.height=960
+0.metrics.density=1.5
+0.metrics.densityDpi=240
+0.metrics.scaledDensity=x1.5
+0.metrics.widthPixels=540
+0.metrics.heightPixels=960
+0.metrics.xdpi=249.381
+0.metrics.ydpi=256.673
+0.name=Schermo incorporato
+0.orientation=0
+0.pixelFormat=1
+0.realMetrics.density=1.5
+0.realMetrics.densityDpi=240
+0.realMetrics.scaledDensity=x1.5
+0.realMetrics.widthPixels=540
+0.realMetrics.heightPixels=960
+0.realMetrics.xdpi=249.381
+0.realMetrics.ydpi=256.673
+0.realSize=[540,960]
+0.rectSize=[0,0,540,960]
+0.refreshRate=60.0
+0.rotation=ROTATION_0
+0.size=[540,960]
+0.width=540
+0.isValid=true
+
+APP_VERSION_NAME = 2.0.0
+LOGCAT = --------- beginning of /dev/log/main
+09-21 12:28:40.773 W/dalvikvm(27694): VFY: unable to resolve virtual method 62561: Lcom/google/firebase/FirebaseOptions;.getApplicationId ()Ljava/lang/String;
+09-21 12:28:40.773 D/dalvikvm(27694): VFY: replacing opcode 0x6e at 0x0014
+09-21 12:28:40.773 D/dalvikvm(27694): DexOpt: unable to opt direct call 0xf43d at 0x0b in Lcom/google/firebase/FirebaseApp;.getToken
+09-21 12:28:40.773 D/AndroidRuntime(27694): Shutting down VM
+09-21 12:28:40.773 W/dalvikvm(27694): threadid=1: thread exiting with uncaught exception (group=0x42026da0)
+09-21 12:28:40.773 E/ACRA    (27694): ACRA caught a NoClassDefFoundError for com.agile.science
+09-21 12:28:40.773 E/ACRA    (27694): java.lang.NoClassDefFoundError: com.google.firebase.FirebaseOptions
+09-21 12:28:40.773 E/ACRA    (27694): 	at com.google.firebase.FirebaseApp.zzek(Unknown Source)
+09-21 12:28:40.773 E/ACRA    (27694): 	at com.google.firebase.provider.FirebaseInitProvider.onCreate(Unknown Source)
+09-21 12:28:40.773 E/ACRA    (27694): 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+09-21 12:28:40.773 E/ACRA    (27694): 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+09-21 12:28:40.773 E/ACRA    (27694): 	at com.google.firebase.provider.FirebaseInitProvider.attachInfo(Unknown Source)
+09-21 12:28:40.773 E/ACRA    (27694): 	at android.app.ActivityThread.installProvider(ActivityThread.java:5233)
+09-21 12:28:40.773 E/ACRA    (27694): 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4827)
+09-21 12:28:40.773 E/ACRA    (27694): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4710)
+09-21 12:28:40.773 E/ACRA    (27694): 	at android.app.ActivityThread.access$1600(ActivityThread.java:174)
+09-21 12:28:40.773 E/ACRA    (27694): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1367)
+09-21 12:28:40.773 E/ACRA    (27694): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+09-21 12:28:40.773 E/ACRA    (27694): 	at android.os.Looper.loop(Looper.java:146)
+09-21 12:28:40.773 E/ACRA    (27694): 	at android.app.ActivityThread.main(ActivityThread.java:5593)
+09-21 12:28:40.773 E/ACRA    (27694): 	at java.lang.reflect.Method.invokeNative(Native Method)
+09-21 12:28:40.773 E/ACRA    (27694): 	at java.lang.reflect.Method.invoke(Method.java:515)
+09-21 12:28:40.773 E/ACRA    (27694): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1283)
+09-21 12:28:40.773 E/ACRA    (27694): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+09-21 12:28:40.773 E/ACRA    (27694): 	at dalvik.system.NativeStart.main(Native Method)
+09-21 12:28:40.773 E/dalvikvm(27694): Could not find class 'org.acra.collector.LogCatCollector$1', referenced from method org.acra.collector.LogCatCollector.collectLogCat
+09-21 12:28:40.773 W/dalvikvm(27694): VFY: unable to resolve new-instance 9913 (Lorg/acra/collector/LogCatCollector$1;) in Lorg/acra/collector/LogCatCollector;
+09-21 12:28:40.773 D/dalvikvm(27694): VFY: replacing opcode 0x22 at 0x0097
+09-21 12:28:40.783 D/dalvikvm(27694): DexOpt: unable to opt direct call 0xfca1 at 0x99 in Lorg/acra/collector/LogCatCollector;.collectLogCat
+09-21 12:28:40.783 D/dalvikvm(27694): DexOpt: unable to opt direct call 0xfca2 at 0xa9 in Lorg/acra/collector/LogCatCollector;.collectLogCat
+09-21 12:28:40.793 E/ACRA    (27694): ACRA failed to capture the error - handing off to native error reporter
+09-21 12:28:40.793 E/ACRA    (27694): java.lang.NoClassDefFoundError: org.acra.collector.LogCatCollector$1
+09-21 12:28:40.793 E/ACRA    (27694): 	at org.acra.collector.LogCatCollector.collectLogCat(LogCatCollector.java:105)
+09-21 12:28:40.793 E/ACRA    (27694): 	at org.acra.collector.CrashReportDataFactory.createCrashData(CrashReportDataFactory.java:198)
+09-21 12:28:40.793 E/ACRA    (27694): 	at org.acra.builder.ReportExecutor.execute(ReportExecutor.java:170)
+09-21 12:28:40.793 E/ACRA    (27694): 	at org.acra.builder.ReportBuilder.build(ReportBuilder.java:150)
+09-21 12:28:40.793 E/ACRA    (27694): 	at org.acra.ErrorReporter.uncaughtException(ErrorReporter.java:264)
+09-21 12:28:40.793 E/ACRA    (27694): 	at java.lang.ThreadGroup.uncaughtException(ThreadGroup.java:693)
+09-21 12:28:40.793 E/ACRA    (27694): 	at java.lang.ThreadGroup.uncaughtException(ThreadGroup.java:690)
+09-21 12:28:40.793 E/ACRA    (27694): 	at dalvik.system.NativeStart.main(Native Method)
+09-21 12:28:40.793 I/ACRA    (27694): ACRA is disabled for com.agile.science - forwarding uncaught Exception on to default ExceptionHandler
+--------- beginning of /dev/log/system
+09-21 12:28:40.793 E/AndroidRuntime(27694): FATAL EXCEPTION: main
+09-21 12:28:40.793 E/AndroidRuntime(27694): Process: com.agile.science, PID: 27694
+09-21 12:28:40.793 E/AndroidRuntime(27694): java.lang.NoClassDefFoundError: com.google.firebase.FirebaseOptions
+09-21 12:28:40.793 E/AndroidRuntime(27694): 	at com.google.firebase.FirebaseApp.zzek(Unknown Source)
+09-21 12:28:40.793 E/AndroidRuntime(27694): 	at com.google.firebase.provider.FirebaseInitProvider.onCreate(Unknown Source)
+09-21 12:28:40.793 E/AndroidRuntime(27694): 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+09-21 12:28:40.793 E/AndroidRuntime(27694): 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+09-21 12:28:40.793 E/AndroidRuntime(27694): 	at com.google.firebase.provider.FirebaseInitProvider.attachInfo(Unknown Source)
+09-21 12:28:40.793 E/AndroidRuntime(27694): 	at android.app.ActivityThread.installProvider(ActivityThread.java:5233)
+09-21 12:28:40.793 E/AndroidRuntime(27694): 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4827)
+09-21 12:28:40.793 E/AndroidRuntime(27694): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4710)
+09-21 12:28:40.793 E/AndroidRuntime(27694): 	at android.app.ActivityThread.access$1600(ActivityThread.java:174)
+09-21 12:28:40.793 E/AndroidRuntime(27694): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1367)
+09-21 12:28:40.793 E/AndroidRuntime(27694): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+09-21 12:28:40.793 E/AndroidRuntime(27694): 	at android.os.Looper.loop(Looper.java:146)
+09-21 12:28:40.793 E/AndroidRuntime(27694): 	at android.app.ActivityThread.main(ActivityThread.java:5593)
+09-21 12:28:40.793 E/AndroidRuntime(27694): 	at java.lang.reflect.Method.invokeNative(Native Method)
+09-21 12:28:40.793 E/AndroidRuntime(27694): 	at java.lang.reflect.Method.invoke(Method.java:515)
+09-21 12:28:40.793 E/AndroidRuntime(27694): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1283)
+09-21 12:28:40.793 E/AndroidRuntime(27694): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+09-21 12:28:40.793 E/AndroidRuntime(27694): 	at dalvik.system.NativeStart.main(Native Method)
+09-21 12:28:53.787 I/Process (27694): Sending signal. PID: 27694 SIG: 9
+09-21 12:29:00.384 D/dalvikvm(28041): Late-enabling CheckJNI
+09-21 12:29:00.494 I/acra    (28041): acra
+09-21 12:29:00.544 I/ACRA    (28041): ACRA is enabled for com.agile.science, initializing...
+09-21 12:29:00.564 W/dalvikvm(28041): VFY: unable to find class referenced in signature (Lcom/google/firebase/FirebaseOptions;)
+09-21 12:29:00.564 E/dalvikvm(28041): Could not find class 'com.google.firebase.FirebaseOptions', referenced from method com.google.firebase.FirebaseApp.<init>
+09-21 12:29:00.564 W/dalvikvm(28041): VFY: unable to resolve check-cast 9436 (Lcom/google/firebase/FirebaseOptions;) in Lcom/google/firebase/FirebaseApp;
+09-21 12:29:00.564 D/dalvikvm(28041): VFY: replacing opcode 0x1f at 0x0039
+09-21 12:29:00.564 W/dalvikvm(28041): VFY: unable to find class referenced in signature (Lcom/google/firebase/FirebaseOptions;)
+09-21 12:29:00.564 W/dalvikvm(28041): VFY: unable to find class referenced in signature (Lcom/google/firebase/FirebaseOptions;)
+09-21 12:29:00.564 W/dalvikvm(28041): VFY: unable to find class referenced in signature (Lcom/google/firebase/FirebaseOptions;)
+09-21 12:29:00.564 W/dalvikvm(28041): VFY: unable to find class referenced in signature (Lcom/google/firebase/FirebaseOptions;)
+09-21 12:29:00.564 W/dalvikvm(28041): VFY: unable to find class referenced in signature (Lcom/google/firebase/FirebaseOptions;)
+09-21 12:29:00.564 W/dalvikvm(28041): VFY: unable to find class referenced in signature (Lcom/google/firebase/FirebaseOptions;)
+09-21 12:29:00.574 W/dalvikvm(28041): VFY: unable to find class referenced in signature (Lcom/google/firebase/FirebaseOptions;)
+09-21 12:29:00.574 E/dalvikvm(28041): Could not find class 'com.google.firebase.FirebaseApp$zzb', referenced from method com.google.firebase.FirebaseApp.zzcm
+09-21 12:29:00.574 W/dalvikvm(28041): VFY: unable to resolve check-cast 9432 (Lcom/google/firebase/FirebaseApp$zzb;) in Lcom/google/firebase/FirebaseApp;
+09-21 12:29:00.574 D/dalvikvm(28041): VFY: replacing opcode 0x1f at 0x0017
+09-21 12:29:00.574 I/dalvikvm(28041): Could not find method com.google.firebase.FirebaseOptions.fromResource, referenced from method com.google.firebase.FirebaseApp.zzek
+09-21 12:29:00.574 W/dalvikvm(28041): VFY: unable to resolve static method 62560: Lcom/google/firebase/FirebaseOptions;.fromResource (Landroid/content/Context;)Lcom/google/firebase/FirebaseOptions;
+09-21 12:29:00.574 D/dalvikvm(28041): VFY: replacing opcode 0x71 at 0x0000
+09-21 12:29:00.574 W/dalvikvm(28041): VFY: unable to find class referenced in signature (Lcom/google/firebase/FirebaseOptions;)
+09-21 12:29:00.574 E/dalvikvm(28041): Could not find class 'com.google.firebase.FirebaseApiNotAvailableException', referenced from method com.google.firebase.FirebaseApp.getToken
+09-21 12:29:00.574 W/dalvikvm(28041): VFY: unable to resolve new-instance 9430 (Lcom/google/firebase/FirebaseApiNotAvailableException;) in Lcom/google/firebase/FirebaseApp;
+09-21 12:29:00.574 D/dalvikvm(28041): VFY: replacing opcode 0x22 at 0x0007
+09-21 12:29:00.574 W/dalvikvm(28041): VFY: unable to find class referenced in signature (Lcom/google/firebase/auth/FirebaseUser;)
+09-21 12:29:00.574 W/dalvikvm(28041): VFY: unable to find class referenced in signature (Lcom/google/firebase/auth/FirebaseUser;)
+09-21 12:29:00.574 W/dalvikvm(28041): VFY: unable to find class referenced in signature (Lcom/google/firebase/auth/FirebaseUser;)
+09-21 12:29:00.574 E/dalvikvm(28041): Could not find class 'com.google.firebase.FirebaseApp$zza', referenced from method com.google.firebase.FirebaseApp.zza
+09-21 12:29:00.574 W/dalvikvm(28041): VFY: unable to resolve check-cast 9431 (Lcom/google/firebase/FirebaseApp$zza;) in Lcom/google/firebase/FirebaseApp;
+09-21 12:29:00.574 D/dalvikvm(28041): VFY: replacing opcode 0x1f at 0x0019
+09-21 12:29:00.574 W/dalvikvm(28041): VFY: unable to find class referenced in signature (Lcom/google/firebase/FirebaseOptions;)
+09-21 12:29:00.574 I/dalvikvm(28041): Could not find method com.google.firebase.FirebaseOptions.getApplicationId, referenced from method com.google.firebase.FirebaseApp.zzckc
+09-21 12:29:00.574 W/dalvikvm(28041): VFY: unable to resolve virtual method 62561: Lcom/google/firebase/FirebaseOptions;.getApplicationId ()Ljava/lang/String;
+09-21 12:29:00.574 D/dalvikvm(28041): VFY: replacing opcode 0x6e at 0x0014
+09-21 12:29:00.574 D/dalvikvm(28041): DexOpt: unable to opt direct call 0xf43d at 0x0b in Lcom/google/firebase/FirebaseApp;.getToken
+09-21 12:29:00.584 D/AndroidRuntime(28041): Shutting down VM
+09-21 12:29:00.584 W/dalvikvm(28041): threadid=1: thread exiting with uncaught exception (group=0x42026da0)
+09-21 12:29:00.584 E/ACRA    (28041): ACRA caught a NoClassDefFoundError for com.agile.science
+09-21 12:29:00.584 E/ACRA    (28041): java.lang.NoClassDefFoundError: com.google.firebase.FirebaseOptions
+09-21 12:29:00.584 E/ACRA    (28041): 	at com.google.firebase.FirebaseApp.zzek(Unknown Source)
+09-21 12:29:00.584 E/ACRA    (28041): 	at com.google.firebase.provider.FirebaseInitProvider.onCreate(Unknown Source)
+09-21 12:29:00.584 E/ACRA    (28041): 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+09-21 12:29:00.584 E/ACRA    (28041): 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+09-21 12:29:00.584 E/ACRA    (28041): 	at com.google.firebase.provider.FirebaseInitProvider.attachInfo(Unknown Source)
+09-21 12:29:00.584 E/ACRA    (28041): 	at android.app.ActivityThread.installProvider(ActivityThread.java:5233)
+09-21 12:29:00.584 E/ACRA    (28041): 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4827)
+09-21 12:29:00.584 E/ACRA    (28041): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4710)
+09-21 12:29:00.584 E/ACRA    (28041): 	at android.app.ActivityThread.access$1600(ActivityThread.java:174)
+09-21 12:29:00.584 E/ACRA    (28041): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1367)
+09-21 12:29:00.584 E/ACRA    (28041): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+09-21 12:29:00.584 E/ACRA    (28041): 	at android.os.Looper.loop(Looper.java:146)
+09-21 12:29:00.584 E/ACRA    (28041): 	at android.app.ActivityThread.main(ActivityThread.java:5593)
+09-21 12:29:00.584 E/ACRA    (28041): 	at java.lang.reflect.Method.invokeNative(Native Method)
+09-21 12:29:00.584 E/ACRA    (28041): 	at java.lang.reflect.Method.invoke(Method.java:515)
+09-21 12:29:00.584 E/ACRA    (28041): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1283)
+09-21 12:29:00.584 E/ACRA    (28041): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+09-21 12:29:00.584 E/ACRA    (28041): 	at dalvik.system.NativeStart.main(Native Method)
+09-21 12:29:00.584 E/dalvikvm(28041): Could not find class 'org.acra.collector.LogCatCollector$1', referenced from method org.acra.collector.LogCatCollector.collectLogCat
+09-21 12:29:00.584 W/dalvikvm(28041): VFY: unable to resolve new-instance 9913 (Lorg/acra/collector/LogCatCollector$1;) in Lorg/acra/collector/LogCatCollector;
+09-21 12:29:00.584 D/dalvikvm(28041): VFY: replacing opcode 0x22 at 0x0097
+09-21 12:29:00.584 D/dalvikvm(28041): DexOpt: unable to opt direct call 0xfca1 at 0x99 in Lorg/acra/collector/LogCatCollector;.collectLogCat
+09-21 12:29:00.584 D/dalvikvm(28041): DexOpt: unable to opt direct call 0xfca2 at 0xa9 in Lorg/acra/collector/LogCatCollector;.collectLogCat
+09-21 12:29:00.604 E/ACRA    (28041): ACRA failed to capture the error - handing off to native error reporter
+09-21 12:29:00.604 E/ACRA    (28041): java.lang.NoClassDefFoundError: org.acra.collector.LogCatCollector$1
+09-21 12:29:00.604 E/ACRA    (28041): 	at org.acra.collector.LogCatCollector.collectLogCat(LogCatCollector.java:105)
+09-21 12:29:00.604 E/ACRA    (28041): 	at org.acra.collector.CrashReportDataFactory.createCrashData(CrashReportDataFactory.java:198)
+09-21 12:29:00.604 E/ACRA    (28041): 	at org.acra.builder.ReportExecutor.execute(ReportExecutor.java:170)
+09-21 12:29:00.604 E/ACRA    (28041): 	at org.acra.builder.ReportBuilder.build(ReportBuilder.java:150)
+09-21 12:29:00.604 E/ACRA    (28041): 	at org.acra.ErrorReporter.uncaughtException(ErrorReporter.java:264)
+09-21 12:29:00.604 E/ACRA    (28041): 	at java.lang.ThreadGroup.uncaughtException(ThreadGroup.java:693)
+09-21 12:29:00.604 E/ACRA    (28041): 	at java.lang.ThreadGroup.uncaughtException(ThreadGroup.java:690)
+09-21 12:29:00.604 E/ACRA    (28041): 	at dalvik.system.NativeStart.main(Native Method)
+09-21 12:29:00.604 I/ACRA    (28041): ACRA is disabled for com.agile.science - forwarding uncaught Exception on to default ExceptionHandler
+09-21 12:29:00.604 E/AndroidRuntime(28041): FATAL EXCEPTION: main
+09-21 12:29:00.604 E/AndroidRuntime(28041): Process: com.agile.science, PID: 28041
+09-21 12:29:00.604 E/AndroidRuntime(28041): java.lang.NoClassDefFoundError: com.google.firebase.FirebaseOptions
+09-21 12:29:00.604 E/AndroidRuntime(28041): 	at com.google.firebase.FirebaseApp.zzek(Unknown Source)
+09-21 12:29:00.604 E/AndroidRuntime(28041): 	at com.google.firebase.provider.FirebaseInitProvider.onCreate(Unknown Source)
+09-21 12:29:00.604 E/AndroidRuntime(28041): 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1591)
+09-21 12:29:00.604 E/AndroidRuntime(28041): 	at android.content.ContentProvider.attachInfo(ContentProvider.java:1562)
+09-21 12:29:00.604 E/AndroidRuntime(28041): 	at com.google.firebase.provider.FirebaseInitProvider.attachInfo(Unknown Source)
+09-21 12:29:00.604 E/AndroidRuntime(28041): 	at android.app.ActivityThread.installProvider(ActivityThread.java:5233)
+09-21 12:29:00.604 E/AndroidRuntime(28041): 	at android.app.ActivityThread.installContentProviders(ActivityThread.java:4827)
+09-21 12:29:00.604 E/AndroidRuntime(28041): 	at android.app.ActivityThread.handleBindApplication(ActivityThread.java:4710)
+09-21 12:29:00.604 E/AndroidRuntime(28041): 	at android.app.ActivityThread.access$1600(ActivityThread.java:174)
+09-21 12:29:00.604 E/AndroidRuntime(28041): 	at android.app.ActivityThread$H.handleMessage(ActivityThread.java:1367)
+09-21 12:29:00.604 E/AndroidRuntime(28041): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+09-21 12:29:00.604 E/AndroidRuntime(28041): 	at android.os.Looper.loop(Looper.java:146)
+09-21 12:29:00.604 E/AndroidRuntime(28041): 	at android.app.ActivityThread.main(ActivityThread.java:5593)
+09-21 12:29:00.604 E/AndroidRuntime(28041): 	at java.lang.reflect.Method.invokeNative(Native Method)
+09-21 12:29:00.604 E/AndroidRuntime(28041): 	at java.lang.reflect.Method.invoke(Method.java:515)
+09-21 12:29:00.604 E/AndroidRuntime(28041): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1283)
+09-21 12:29:00.604 E/AndroidRuntime(28041): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+09-21 12:29:00.604 E/AndroidRuntime(28041): 	at dalvik.system.NativeStart.main(Native Method)
+09-21 12:31:42.958 D/dalvikvm(29457): Late-enabling CheckJNI
+09-21 12:31:43.218 I/MultiDex(29457): VM with version 1.6.0 does not have multidex support
+09-21 12:31:43.218 I/MultiDex(29457): install
+09-21 12:31:43.218 I/MultiDex(29457): MultiDexExtractor.load(/data/app/com.agile.science-14.apk, false)
+09-21 12:31:43.228 I/MultiDex(29457): Detected that extraction must be performed.
+09-21 12:31:43.228 I/MultiDex(29457): Trying to delete old file /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-11.apk.classes2.dex of size 822248
+09-21 12:31:43.578 I/MultiDex(29457): Deleted old file /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-11.apk.classes2.dex
+09-21 12:31:43.578 I/MultiDex(29457): Trying to delete old file /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-11.apk.classes2.zip of size 296455
+09-21 12:31:43.578 I/MultiDex(29457): Deleted old file /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-11.apk.classes2.zip
+09-21 12:31:43.608 I/MultiDex(29457): Extraction is needed for file /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-14.apk.classes2.zip
+09-21 12:31:43.618 I/MultiDex(29457): Extracting /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-14.apk.classes1260633434.zip
+09-21 12:31:43.828 I/MultiDex(29457): Renaming to /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-14.apk.classes2.zip
+09-21 12:31:43.828 I/MultiDex(29457): Extraction success - length /data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-14.apk.classes2.zip: 284554
+09-21 12:31:43.828 I/MultiDex(29457): load found 1 secondary dex files
+09-21 12:31:44.319 D/dalvikvm(29457): DexOpt: --- BEGIN 'com.agile.science-14.apk.classes2.zip' (bootstrap=0) ---
+09-21 12:31:44.589 D/dalvikvm(29536): DexOpt: load 34ms, verify+opt 163ms, 796020 bytes
+09-21 12:31:44.649 D/dalvikvm(29457): DexOpt: --- END 'com.agile.science-14.apk.classes2.zip' (success) ---
+09-21 12:31:44.649 D/dalvikvm(29457): DEX prep '/data/data/com.agile.science/code_cache/secondary-dexes/com.agile.science-14.apk.classes2.zip': unzip in 16ms, rewrite 335ms
+09-21 12:31:44.659 I/MultiDex(29457): install done
+09-21 12:31:44.659 I/acra    (29457): acra
+09-21 12:31:44.669 I/ACRA    (29457): ACRA is enabled for com.agile.science, initializing...
+09-21 12:31:44.699 I/FirebaseInitProvider(29457): FirebaseApp initialization unsuccessful
+09-21 12:31:44.729 I/PersonaManager(29457): getPersonaService() name persona_policy
+09-21 12:31:44.810 D/AbsListView(29457): Get MotionRecognitionManager
+09-21 12:31:44.980 I/Adreno-EGL(29457): <qeglDrvAPI_eglInitialize:381>: EGL 1.4 QUALCOMM build: SKARAJGA_AU_LINUX_ANDROID_KK_2.7_RB1.04.04.02.007.051+PATCH[ES]_msm8960_refs/tags/AU_LINUX_ANDROID_KK_2.7_RB1.04.04.02.007.051__release_ENGG ()
+09-21 12:31:44.980 I/Adreno-EGL(29457): OpenGL ES Shader Compiler Version: 17.01.12.SPL
+09-21 12:31:44.980 I/Adreno-EGL(29457): Build Date: 08/06/14 Wed
+09-21 12:31:44.980 I/Adreno-EGL(29457): Local Branch: 
+09-21 12:31:44.980 I/Adreno-EGL(29457): Remote Branch: refs/tags/AU_LINUX_ANDROID_KK_2.7_RB1.04.04.02.007.051
+09-21 12:31:44.980 I/Adreno-EGL(29457): Local Patches: daf30b480f2cdd4612dec08a5c139941061dbf00 GLES2.0: Pre-rotation - call set_framebuffer only when needed
+09-21 12:31:44.980 I/Adreno-EGL(29457): Reconstruct Branch: LOCAL_PATCH[ES]
+09-21 12:31:45.020 D/OpenGLRenderer(29457): Enabling debug mode 0
+09-21 12:31:55.731 I/System.out(29457): apri sky
+09-21 12:31:55.791 I/PersonaManager(29457): getPersonaService() name persona_policy
+09-21 12:31:55.821 E/sky     (29457): create view 1 
+09-21 12:31:55.821 E/sky     (29457): download 
+09-21 12:31:55.871 D/ProgressBar(29457): updateDrawableBounds: left = 0
+09-21 12:31:55.871 D/ProgressBar(29457): updateDrawableBounds: top = 0
+09-21 12:31:55.871 D/ProgressBar(29457): updateDrawableBounds: right = 72
+09-21 12:31:55.871 D/ProgressBar(29457): updateDrawableBounds: bottom = 72
+09-21 12:31:58.544 E/sky     (29457): fine sky
+09-21 12:31:58.794 I/orbit   (29457): 57650.33_57652.33
+09-21 12:31:58.794 I/orbit   (29457): 2016-09-19T07:58:55
+09-21 12:31:58.794 I/orbit   (29457): 2016-09-21T07:58:55
+09-21 12:31:58.794 I/orbit   (29457): 401356735
+09-21 12:31:58.794 I/orbit   (29457): 401529535
+09-21 12:31:58.794 I/orbit   (29457): ����������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������������
+09-21 12:31:58.794 D/AndroidRuntime(29457): Shutting down VM
+09-21 12:31:58.794 W/dalvikvm(29457): threadid=1: thread exiting with uncaught exception (group=0x42026da0)
+09-21 12:31:58.804 E/ACRA    (29457): ACRA caught a NullPointerException for com.agile.science
+09-21 12:31:58.804 E/ACRA    (29457): java.lang.NullPointerException
+09-21 12:31:58.804 E/ACRA    (29457): 	at com.agile.science.ActivitySky$DownloadOrbit.onPostExecute(ActivitySky.java:158)
+09-21 12:31:58.804 E/ACRA    (29457): 	at com.agile.science.ActivitySky$DownloadOrbit.onPostExecute(ActivitySky.java:115)
+09-21 12:31:58.804 E/ACRA    (29457): 	at android.os.AsyncTask.finish(AsyncTask.java:632)
+09-21 12:31:58.804 E/ACRA    (29457): 	at android.os.AsyncTask.access$600(AsyncTask.java:177)
+09-21 12:31:58.804 E/ACRA    (29457): 	at android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:645)
+09-21 12:31:58.804 E/ACRA    (29457): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+09-21 12:31:58.804 E/ACRA    (29457): 	at android.os.Looper.loop(Looper.java:146)
+09-21 12:31:58.804 E/ACRA    (29457): 	at android.app.ActivityThread.main(ActivityThread.java:5593)
+09-21 12:31:58.804 E/ACRA    (29457): 	at java.lang.reflect.Method.invokeNative(Native Method)
+09-21 12:31:58.804 E/ACRA    (29457): 	at java.lang.reflect.Method.invoke(Method.java:515)
+09-21 12:31:58.804 E/ACRA    (29457): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1283)
+09-21 12:31:58.804 E/ACRA    (29457): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1099)
+09-21 12:31:58.804 E/ACRA    (29457): 	at dalvik.system.NativeStart.main(Native Method)
+AVAILABLE_MEM_SIZE = 1480024064
+USER_APP_START_DATE = 2016-09-21T12:31:44.687+02:00
+CUSTOM_DATA = 
+BRAND = samsung
+FILE_PATH = /data/data/com.agile.science/files
+TOTAL_MEM_SIZE = 5643431936
+INITIAL_CONFIGURATION = FlipFont=0
+arrange=0
+compatScreenHeightDp=545
+compatScreenWidthDp=320
+compatSmallestScreenWidthDp=320
+densityDpi=240
+fontScale=1.3
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_YES
+keyboard=KEYBOARD_NOKEYS
+keyboardHidden=KEYBOARDHIDDEN_NO
+locale=it_IT
+mcc=222
+mnc=1
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=614
+screenLayout=SCREENLAYOUT_SIZE_NORMAL+SCREENLAYOUT_LONG_YES+SCREENLAYOUT_LAYOUTDIR_LTR
+screenWidthDp=360
+seq=6
+smallestScreenWidthDp=360
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=true
+
+ENVIRONMENT = getAndroidSecureContainerDirectory=/mnt/asec
+getDataDirectory=/data
+getDownloadCacheDirectory=/cache
+getEmulatedStorageObbSource=/mnt/shell/emulated/obb
+getExternalStorageDirectory=/storage/emulated/0
+getExternalStorageState=mounted
+getLegacyExternalStorageDirectory=/storage/emulated/legacy
+getLegacyExternalStorageObbDirectory=/storage/emulated/legacy/Android/obb
+getMediaBaseStorageDirectory=/secdata
+getMediaStorageDirectory=/data/media/0
+getRootDirectory=/system
+getSecureDataDirectory=/data
+getSystemSecureDirectory=/data/system
+isEncryptedFilesystemEnabled=false
+isExternalStorageEmulated=true
+isExternalStorageRemovable=false
+
+REPORT_ID = 10343a16-46c2-4e73-836e-31eb5dd9fdf9

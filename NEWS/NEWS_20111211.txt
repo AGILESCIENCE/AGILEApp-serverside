@@ -1,0 +1,15 @@
+---en===2011/12/11 SuperAGILE detects a Gamma-Ray Burst associated to a Supernova===
+
+---it===2011/12/11 SuperAGILE rivela un GRB associato ad una Supernova===
+
+---en=== On December 11, 2011 at 22:17:33 UT the SuperAGILE hard X-ray monitor aboard the Italian AGILE satellite localized a Gamma-Ray Burst, GRB 111211A ( see GCN #12666 F. Lazzarotto et al.). The GRB 111211A is the first event detected by SuperAGILE associated with a Supernova. While an average number of about 200 - 300 GRBs are localised each year in the X-ray band, less than twenty firm associations with Supernovae are established up to now. The SuperAGILE GRB 111211A is a rare occurrence of a burst which appears to be accompanied by a Supernova explosion, and gives the opportunity to further investigate the GRB-Supernova connection.===
+
+---it===L'11 dicembre 2011 alle 22:17:33 UT il rivelatoredi raggi X duri di SuperAGILE a bordo del satellite italiano AGILE ha localizzato  un Gamma - Ray Burst, il GRB #111211 (si veda GCN#12666 F. Lazzarotto et al.). Il GRB #111211 e' il primo evento da SuperAGILE associato ad una Supernova. Mentre viene localizzato un numero medio di circa 200 - 300 GRB  all'anno nella banda dei raggi X, sono state stabilite fino ad ora meno di venti associazioni sicure con le Supernovae.  Il GRB 111211A di SuperAGILE rappresenta un raro evento di burst che sembra essere accompagnato dall'esplosione di una Supernova e offre l'opportunita' di approfondire la connessione tra GRB e Supernova.===
+
+---en===http://agile.iasfbo.inaf.it/en/news/2011D.html===
+
+---it===http://agile.iasfbo.inaf.it/it/news/2011D.html===
+
+====AGILE_GRB_SN.png====
+
+=====AGILE_GRB_SN.png=====

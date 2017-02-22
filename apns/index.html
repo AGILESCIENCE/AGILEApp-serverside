@@ -1,0 +1,54 @@
+ <html>
+<body background="sfondo1.jpg">
+
+<h1> Form Notifiche </h1>
+
+<form method="post" action="http://marlin.iasfbo.inaf.it/apns/samples.php">
+<table>
+<tr><td>Messaggio</td> <td> <input type="text" size="60" name="messaggio"> </td>
+</tr>
+<tr>
+<td>Link ( includere http:// ) </td><td><input type="text" size="60" name="link"></td>
+</tr>
+<tr>
+<td>Password  </td><td><input type="password" size="60" name="pwd"></td>
+</tr>
+</table><br>
+<table>
+<tr>
+<td>News</td><td> <input checked  type="radio" name="id" value="1"></td>
+</tr>
+<tr>
+<td>Top </td> <td><input type="radio" name="id" value="2"></td>
+</tr>
+<tr>
+<td>Atel</td> <td><input type="radio" name="id" value="3"></td>
+</tr>
+</table>
+<br>
+
+<table>
+<tr>
+<td>Nicolo'</td><td> <input type="checkbox"  checked="checked" name="n" value="1" ></td>
+</tr>
+<tr>
+<td>Andrea</td><td> <input type="checkbox" name="a"  value="1"></td>
+</tr>
+<tr>
+<td>Team</td><td> <input type="checkbox"  name="team"  value="1"></td>
+</tr>
+<tr>
+<td>All</td><td> <input type="checkbox" name="all"  value="1"></td>
+</tr>
+</table>
+<br>
+<input type="submit" value="Invia notifica">
+
+
+
+</form>
+
+
+</body>
+</html>
+

@@ -1,0 +1,327 @@
+LOGCAT = --------- beginning of main
+09-22 16:23:05.117 I/title   ( 3161): <p style="color: #000000;">The 2012 Rossi Prize has been awarded to astrophysicist Marco Tavani and the AGILE team for the discovery of variable gamma-ray emission from the Crab Nebula. Believed to be a steady source of energy &#8211; from optical to gamma rays &#8211; this finding has changed our understanding of cosmic accelerators. &#8220;The production of these incredible gamma-ray flares from the Crab Nebula is a feat that will lead us to a deeper understanding of the fundamental processes of particle acceleration in cosmic sources,&#8221; said Dr. Tavani. &#8220;AGILE unveiled this phenomenon in part because of its rapid data acquisition and processing &#8211; a large success for a &#8216;Small Mission&#8217;.&#8221; The AAS High Energy Astrophysics Division (HEAD) awards the Rossi Prize in recognition of significant contributions as well as recent and original work in high-energy astrophysics. The prize is in honor of Professor Bruno Rossi, an authority on cosmic-ray physics and a pioneer in the field of X-ray astronomy. Dr. Tavani will give a lecture at the 221st AAS meeting in Long Beach, California, in January 2013.</p><p style="color: #000000;"><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_AGILE_Crab.png"><img class="alignnone wp-image-21 size-full" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_AGILE_Crab.png" alt="big_AGILE_Crab" width="600" height="550" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_AGILE_Crab.png 600w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_AGILE_Crab-300x275.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+09-22 16:23:05.117 I/title   ( 3161): Confirmation of the proton acceleration in Supernova Remnants
+09-22 16:23:05.120 I/title   ( 3161): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_W44.png
+09-22 16:23:05.120 I/title   ( 3161): <p style="color: #000000;">AGILE has discovered a pattern of gamma-ray emission from the Supernova Remnant W44 that can be unambiguosly attributed to accelerate protons smashing against surrounding gas. For many decades, a direct identification of sites in our galaxy where proton acceleration takes place has been elusive. The AGILE data resolves the problem of clearly identifying a source of energetic cosmic rays in our galaxy. The AGILE team reported these findings in the paper by Giuliani et al., ApJL, 742, L30, 2011.</p><p style="color: #000000;"><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_W44.png"><img class="alignnone wp-image-52 size-full" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_W44.png" alt="big_W44" width="600" height="583" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_W44.png 600w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_W44-300x291.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+09-22 16:23:05.120 I/title   ( 3161): AGILE 9th and 10th Science Workshop
+09-22 16:23:05.120 I/title   ( 3161): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_locandina9.png
+09-22 16:23:05.120 I/title   ( 3161): <p style="color: #000000;">We are pleased to invite you to the Scientific Workshops that will be held at the ESA-ESRIN Headquarters in Frascati where ASDC (ASI Science Data Center) is based: April 16-17, &#8220;Astrophysics with AGILE: Five Years of Surprises&#8221;, April 18, &#8220;Lightning, Terrestrial Gamma-Ray Flashes, and Meteorology&#8221;. Scientific topics to be addressed are inspired by the AGILE Mission and will cover a wide range of astrophysics and atmospheric physics of general interest.</p><p style="color: #000000;"><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_locandina9.png"><img class="alignnone wp-image-29 size-full" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_locandina9.png" alt="big_locandina9" width="350" height="496" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_locandina9.png 350w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_locandina9-211x300.png 211w" sizes="(max-width: 350px) 100vw, 350px" /></a></p>
+09-22 16:23:05.120 I/title   ( 3161): SuperAGILE detects a Gamma-Ray Burst associated to a Supernova
+09-22 16:23:05.120 I/title   ( 3161): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_AGILE_GRB_SN.png
+09-22 16:23:05.120 I/title   ( 3161): <p style="color: #000000;">On December 11, 2011 at 22:17:33 UT the SuperAGILE hard X-ray monitor aboard the Italian AGILE satellite localized a Gamma-Ray Burst, GRB 111211A ( see GCN #12666 F. Lazzarotto et al.). The GRB 111211A is the first event detected by SuperAGILE associated with a Supernova. While an average number of about 200 &#8211; 300 GRBs are localised each year in the X-ray band, less than twenty firm associations with Supernovae are established up to now. The SuperAGILE GRB 111211A is a rare occurrence of a burst which appears to be accompanied by a Supernova explosion, and gives the opportunity to further investigate the GRB-Supernova connection.</p><p style="color: #000000;"><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_AGILE_GRB_SN.png"><img class="alignnone wp-image-22 size-full" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_AGILE_GRB_SN.png" alt="big_AGILE_GRB_SN" width="600" height="426" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_AGILE_GRB_SN.png 600w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_AGILE_GRB_SN-300x213.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+09-22 16:23:05.120 I/title   ( 3161): AGILE resolves the mystery of the origin of cosmic rays
+09-22 16:23:05.120 I/title   ( 3161): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_W44.png
+09-22 16:23:05.125 I/title   ( 3161): <p style="color: #000000;">AGILE has discovered a pattern of gamma-ray emission from the Supernova Remnant W44 that can be unambiguosly attributed to accelerate protons smashing against surrounding gas. For many decades, a direct identification of sites in our galaxy where proton acceleration takes place has been elusive. The AGILE data resolves the problem of clearly identifying a source of energetic cosmic rays in our galaxy. The AGILE team reported these findings in the paper by Giuliani et al., ApJL, 742, L30, 2011.</p><p style="color: #000000;"><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_W44.png"><img class="alignnone wp-image-52 size-full" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_W44.png" alt="big_W44" width="600" height="583" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_W44.png 600w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_W44-300x291.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+09-22 16:23:05.125 I/title   ( 3161): The Crab Nebula super-flare in gamma-rays
+09-22 16:23:05.125 I/title   ( 3161): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_AGILE_Crab.png
+09-22 16:23:05.125 I/title   ( 3161): <p style="color: #000000;">A very strong gamma-ray flare was detected by AGILE on April 16, 2011 from the Crab Nebula.<br />The flux above 100 MeV reached the unprecedented value of F = (2000 +/- 370) 10^{-8} ph/cm^2/sec.<br />The Crab was then twice as bright as the Vela Pulsar! See ATel # 3286.</p><p style="color: #000000;"><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_AGILE_Crab.png"><img class="alignnone wp-image-21 size-full" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_AGILE_Crab.png" alt="big_AGILE_Crab" width="600" height="550" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_AGILE_Crab.png 600w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_AGILE_Crab-300x275.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+09-22 16:23:05.125 I/title   ( 3161): AGILE’s 20.000 orbits
+09-22 16:23:05.125 I/title   ( 3161): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_AGILE.png
+09-22 16:23:05.125 I/title   ( 3161): <p style="color: #000000;">On March 10, 2011 AGILE reached an important goal, it orbited the Earth 20.000 times since it was launched from the Sriharikota Indian base on April 23, 2007.</p><p style="color: #000000;"><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_AGILE.png"><img class="alignnone wp-image-24 size-full" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_AGILE.png" alt="big_AGILE" width="600" height="459" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_AGILE.png 600w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_AGILE-300x229.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+09-22 16:23:05.125 I/title   ( 3161): AGILE extraordinary detection from the blazar 3C 454.3
+09-22 16:23:05.125 I/title   ( 3161): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_3C454.3_November_2010.png
+09-22 16:23:05.125 I/title   ( 3161): <p>Starting on Nov. 17, 2010 (see ATel # 3034) the AGILE satellite detected another extraordinary gamma-ray flare from the blazar 3C 454.3 that we are calling &#8220;Crazy Diamond&#8221; for the unpredictable variability of its emission. This gamma-ray flare is the most intense and prolonged one (see ATel # 3043) ever detected, and transformed 3C 454.3 into the brightest gamma-ray source in the sky.</p><p><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_3C454.3_November_2010.png"><img class="alignnone wp-image-19 size-full" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_3C454.3_November_2010.png" alt="big_3C454.3_November_2010" width="600" height="310" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_3C454.3_November_2010.png 600w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_3C454.3_November_2010-300x155.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+09-22 16:23:05.125 I/title   ( 3161): AGILE discovery that the Crab Nebula is variable
+09-22 16:23:05.125 I/title   ( 3161): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_AGILE_Crab.png
+09-22 16:23:05.125 I/title   ( 3161): <p>The Crab Nebula is certainly one of the most famous astronomical objects. It is at the center of a bright supernova that exploded in 1054 and was recorded by Chinese astronomers. It encloses now at its very center one of the most powerful pulsars. The Crab has been considered for decades as one of the strongest persistent X-ray and gamma-ray source in the sky and was then used as a standard calibration source in astrophysics. Therefore, when between Sept. 19 and Sept.21, 2010 the AGILE team detected a strongly enhanced gamma-ray emission from the Crab Nebula region (see ATel # 2855) it provoked a sort of shock in the community. Following the AGILE discovery and the confirmation by Fermi/LAT on the following day (see Atel #2861), many telescopes (Swift, INTEGRAL, Hubble, Chandra) have then pointed and are still pointing at the Crab, gathering precious information for precisely identifying the phenomenon. The AGILE team reported the surprising gamma-ray flares of the Crab Nebula in the paper by Tavani et al., Science, 331, 736, 2011.</p><p><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_AGILE_Crab.png"><img class="alignnone wp-image-21 size-full" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_AGILE_Crab.png" alt="big_AGILE_Crab" width="600" height="550" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_AGILE_Crab.png 600w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_AGILE_Crab-300x275.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+09-22 16:23:05.125 I/title   ( 3161): AGILE discovery of TGF gamma-ray emission up to 100 MeV
+09-22 16:23:05.125 I/title   ( 3161): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_TGF.png
+09-22 16:23:05.125 I/title   ( 3161): <p style="color: #000000;">A detection that shows how the atmosphere can very efficiently accelerate particles during lightning associated with powerful thunderstorms. The AGILE discovery challenges current models of TGF acceleration based on relativistic electron production and cascading, and leads to substantial revisions of extreme particle acceleration models in lightning. This investigations have very important impacts on the study of the atmospheric environment and implications for global climate change studies. AGILE obtained the first gamma-ray imaging of TGFs from space using a special technique of on-board data selection. The AGILE Team reported the surprising discovery of gamma-ray radiation up to 100 MeV in the paper by Tavani et al., PRL, 106, 018501, 2011.</p><p style="color: #000000;"><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_TGF.png"><img class="alignnone wp-image-31 size-full" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_TGF.png" alt="big_TGF" width="464" height="600" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_TGF.png 464w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_TGF-232x300.png 232w" sizes="(max-width: 464px) 100vw, 464px" /></a></p>
+09-22 16:23:05.125 I/title   ( 3161): AGILE detection of GRB 100724B
+09-22 16:23:05.125 I/title   ( 3161): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_GRB100724B_lc.png
+09-22 16:23:05.125 I/title   ( 3161): <p style="color: #000000;">The Gamma-Ray Imaging Detector (GRID) on board AGILE detected the long bright GRB 100724B (Bhat, GCN 10977; Tanaka et al., GCN 10978; Golenetskii et al., GCN 10981; Marisaldi et al., GCN 10994) in the energy range 25 &#8211; 500 MeV with a statistical significance larger than 9 sigma. The gamma-ray emission observed by the AGILE-GRID instrument lasted about 100 seconds, and two peaks are evident in the lightcurve consistent with the behaviour reported by Fermi LAT. See AGILE GCN number 10996.</p><p style="color: #000000;"><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_GRB100724B_lc.png"><img class="alignnone wp-image-27 size-full" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_GRB100724B_lc.png" alt="big_GRB100724B_lc" width="600" height="600" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_GRB100724B_lc.png 600w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_GRB100724B_lc-150x150.png 150w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_GRB100724B_lc-300x300.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+09-22 16:23:05.125 I/title   ( 3161): AGILE first detection of gamma-rays above 100 MeV.
+09-22 16:23:05.125 I/title   ( 3161): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_CygX-3.png
+09-22 16:23:05.125 I/title   ( 3161): <p>Discovery of extreme particle acceleration preceding relativistic jet plasmoid ejections from the black hole candidate Cyg X-3. Repeatedly detected by AGILE since 2008. First comprehensive survey of all Galactic microquasars by SuperAGILE and AGILE-GRID. The AGILE Team reported the discovery in the paper by Tavani et al., Nature, 462, 620, 2009.</p><p><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_CygX-3.png"><img class="alignnone wp-image-25 size-full" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_CygX-3.png" alt="big_CygX-3" width="600" height="501" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_CygX-3.png 600w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_CygX-3-300x250.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+09-22 16:23:05.125 I/title   ( 3161): AGILE detects a giant gamma-ray flare from the galaxy 3C 454.3.
+09-22 16:23:05.125 I/title   ( 3161): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_3C-454_superflare_2-3dic-2010.png
+09-22 16:23:05.125 I/title   ( 3161): <p>During the period December 2-8, 2009 AGILE detected the strongest gamma-ray flaring source ever observed: the black hole (&#8220;Crazy Diamond&#8221;) in the active galaxy 3C 454.3.</p><p><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_3C-454_superflare_2-3dic-2010.png"><img class="alignnone wp-image-18 size-full" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_3C-454_superflare_2-3dic-2010.png" alt="big_3C-454_superflare_2-3dic-2010" width="600" height="348" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_3C-454_superflare_2-3dic-2010.png 600w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_3C-454_superflare_2-3dic-2010-300x174.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+09-22 16:23:05.125 I/title   ( 3161): AGILE in spinning mode
+09-22 16:23:05.125 I/title   ( 3161): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_agile-spinning.png
+09-22 16:23:05.125 I/title   ( 3161): <p style="color: #000000;">On November 4, 2009 at 12:25:54 the AGILE scientific operations were reconfigured. The satellite will be operating in a spinning mode, i.e., with the instrument axis sweeping the accessible sky with an angular speed of 1 degree/sec. The instrument and all detectors are operating nominally.</p><p style="color: #000000;"><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_agile-spinning.png"><img class="alignnone wp-image-23 size-full" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_agile-spinning.png" alt="big_agile-spinning" width="600" height="404" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_agile-spinning.png 600w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_agile-spinning-300x202.png 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+09-22 16:23:05.126 I/title   ( 3161): The AGILE satellite detects “super-energetic TGFs”
+09-22 16:23:05.126 I/title   ( 3161): http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_TGF.png
+09-22 16:23:05.126 I/title   ( 3161): <p>The AGILE satellite detects &#8220;super-energetic TGFs&#8221; that could affect air travel. &#8220;Terrestrial Gamma-Ray Flashes&#8221; (TGF) are phenomena of terrestrial (atmospheric) origin only lasting a few milliseconds that are likely associated to very intense tropical thunderstorms. The AGILE satellite detected several of these events since its first months of operations. The AGILE equatorial orbit, together with its advanced payload capabilities, allowed the discovery of TGFs with gamma-ray energy reaching up to 50 MeV. Such highly energetic radiation must be produced in atmospheric conditions requiring potential differences of 100 Mega Volts or more, hundreds of times larger than that required to produce the usual terrestrial lightning. As announced in a joint press release that can be found on the ASI and INAF websites, the AGILE Team and ASI are collaborating with ENAC (Ente Nazionale per l&#8217;Aviazione Civile) to understand the possible hazards to air traffic that these very energetic atmospheric events might cause. THE AGILE Team reported the detection of TGFs up to 40 MeV in the paper by Marisaldi et al., JGR, 115, A00E13, 2010.</p><p><a href="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_TGF.png"><img class="alignnone wp-image-31 size-full" src="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_TGF.png" alt="big_TGF" width="464" height="600" srcset="http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_TGF.png 464w, http://marlin.iasfbo.inaf.it/devenv/dev-agilescienceen/wp-content/uploads/2014/08/big_TGF-232x300.png 232w" sizes="(max-width: 464px) 100vw, 464px" /></a></p>
+09-22 16:23:05.126 I/title   ( 3161): AGILE detection of enhanced gamma-ray activity from a new unidentified source at high Galactic latitude, AGLJ0917+1511
+09-22 16:23:05.126 I/title   ( 3161): asdc
+09-22 16:23:05.126 I/title   ( 3161): <p> New ATel issued: <a href='http://www.astronomerstelegram.org/?read=8974' target='_blank'>ATel #8974</a> (F. Lucarelli et al.).</p>
+09-22 16:23:05.127 I/Choreographer( 3161): Skipped 117 frames!  The application may be doing too much work on its main thread.
+09-22 16:23:05.146 I/list    ( 3161): 0
+09-22 16:23:05.197 I/list    ( 3161): 1
+09-22 16:23:05.200 I/list    ( 3161): 2
+09-22 16:23:05.221 I/list    ( 3161): 3
+09-22 16:23:05.246 I/list    ( 3161): 4
+09-22 16:23:06.255 I/summary ( 3161): 1080
+09-22 16:23:06.275 I/ciao    ( 3161): menu
+09-22 16:23:06.279 I/condividi( 3161): condividi
+09-22 16:23:08.738 I/summary ( 3161): 1080
+09-22 16:23:08.753 I/ciao    ( 3161): menu
+09-22 16:23:08.753 I/condividi( 3161): condividi
+09-22 16:23:09.936 I/summary ( 3161): 1080
+09-22 16:23:09.937 I/ciao    ( 3161): menu
+09-22 16:23:09.937 I/condividi( 3161): condividi
+09-22 16:23:10.286 I/progress( 3161): visible
+09-22 16:23:10.306 I/list    ( 3161): 0
+09-22 16:23:10.308 I/list    ( 3161): 1
+09-22 16:23:10.309 I/list    ( 3161): 2
+09-22 16:23:10.310 I/list    ( 3161): 3
+09-22 16:23:10.329 I/list    ( 3161): 4
+09-22 16:23:14.905 I/ingo    ( 3161): click
+09-22 16:23:14.976 I/ciao    ( 3161): menu
+09-22 16:23:17.402 I/ingo    ( 3161): click
+09-22 16:23:17.545 I/ciao    ( 3161): menu
+09-22 16:23:19.216 I/Choreographer( 3161): Skipped 99 frames!  The application may be doing too much work on its main thread.
+09-22 16:23:21.256 I/ingo    ( 3161): click
+09-22 16:23:21.351 I/ciao    ( 3161): menu
+09-22 16:23:22.355 I/Choreographer( 3161): Skipped 59 frames!  The application may be doing too much work on its main thread.
+09-22 16:23:31.337 I/ingo    ( 3161): click
+09-22 16:23:31.355 I/ciao    ( 3161): menu
+09-22 16:23:35.843 I/ingo    ( 3161): click
+09-22 16:23:35.899 I/ciao    ( 3161): menu
+09-22 16:23:39.460 I/ingo    ( 3161): click
+09-22 16:23:39.599 I/ciao    ( 3161): menu
+09-22 16:23:41.132 I/Choreographer( 3161): Skipped 91 frames!  The application may be doing too much work on its main thread.
+09-22 16:23:46.999 I/ingo    ( 3161): click
+09-22 16:23:47.019 I/ciao    ( 3161): menu
+09-22 16:23:49.496 I/ingo    ( 3161): click
+09-22 16:23:49.560 I/ciao    ( 3161): menu
+09-22 16:23:50.596 I/Choreographer( 3161): Skipped 61 frames!  The application may be doing too much work on its main thread.
+09-22 16:24:04.996 I/map     ( 3161): oncreate
+09-22 16:24:05.054 I/zzai    ( 3161): Making Creator dynamically
+09-22 16:24:05.065 W/System  ( 3161): ClassLoader referenced unknown path: /system/priv-app/PrebuiltGmsCore/lib/x86_64
+09-22 16:24:05.077 D/ChimeraCfgMgr( 3161): Reading stored module config
+09-22 16:24:05.105 W/System  ( 3161): ClassLoader referenced unknown path: /data/user/0/com.google.android.gms/app_chimera/m/00000001/n/x86_64
+09-22 16:24:05.115 D/ChimeraFileApk( 3161): Primary ABI of requesting process is x86_64
+09-22 16:24:05.115 D/ChimeraFileApk( 3161): Classloading successful. Optimized code found.
+09-22 16:24:05.169 I/Google Maps Android API( 3161): Google Play services client version: 9452000
+09-22 16:24:05.176 I/Google Maps Android API( 3161): Google Play services package version: 9452480
+09-22 16:24:05.259 D/FLASH   ( 3161): Couldn't find file:  /data/user/0/com.agile.science/files/DATA_ServerControlledParametersManager.data.com.agile.science: open failed: ENOENT (No such file or directory)
+09-22 16:24:05.499 I/path    ( 3161): 23 14
+09-22 16:24:05.499 D/AndroidRuntime( 3161): Shutting down VM
+09-22 16:24:05.500 E/ACRA    ( 3161): ACRA caught a NullPointerException for com.agile.science
+09-22 16:24:05.500 E/ACRA    ( 3161): java.lang.NullPointerException: Attempt to invoke virtual method 'void com.google.android.gms.maps.MapFragment.getMapAsync(com.google.android.gms.maps.OnMapReadyCallback)' on a null object reference
+09-22 16:24:05.500 E/ACRA    ( 3161): 	at com.agile.science.FragmentMap.onCreateView(FragmentMap.java:77)
+09-22 16:24:05.500 E/ACRA    ( 3161): 	at android.app.Fragment.performCreateView(Fragment.java:2220)
+09-22 16:24:05.500 E/ACRA    ( 3161): 	at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:973)
+09-22 16:24:05.500 E/ACRA    ( 3161): 	at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:1148)
+09-22 16:24:05.500 E/ACRA    ( 3161): 	at android.app.BackStackRecord.run(BackStackRecord.java:793)
+09-22 16:24:05.500 E/ACRA    ( 3161): 	at android.app.FragmentManagerImpl.execPendingActions(FragmentManager.java:1535)
+09-22 16:24:05.500 E/ACRA    ( 3161): 	at android.app.FragmentManagerImpl$1.run(FragmentManager.java:482)
+09-22 16:24:05.500 E/ACRA    ( 3161): 	at android.os.Handler.handleCallback(Handler.java:739)
+09-22 16:24:05.500 E/ACRA    ( 3161): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+09-22 16:24:05.500 E/ACRA    ( 3161): 	at android.os.Looper.loop(Looper.java:148)
+09-22 16:24:05.500 E/ACRA    ( 3161): 	at android.app.ActivityThread.main(ActivityThread.java:5417)
+09-22 16:24:05.500 E/ACRA    ( 3161): 	at java.lang.reflect.Method.invoke(Native Method)
+09-22 16:24:05.500 E/ACRA    ( 3161): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:726)
+09-22 16:24:05.500 E/ACRA    ( 3161): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:616)
+APP_VERSION_CODE = 1
+DEVICE_FEATURES = android.hardware.sensor.proximity
+android.hardware.sensor.accelerometer
+android.hardware.faketouch
+android.hardware.usb.accessory
+android.software.backup
+android.hardware.touchscreen
+android.hardware.touchscreen.multitouch
+android.software.print
+android.software.voice_recognizers
+android.hardware.sensor.relative_humidity
+android.hardware.telephony.gsm
+android.hardware.audio.output
+android.hardware.screen.portrait
+android.software.home_screen
+android.hardware.microphone
+android.hardware.sensor.compass
+android.hardware.touchscreen.multitouch.jazzhand
+android.hardware.sensor.barometer
+android.software.app_widgets
+android.software.input_methods
+android.hardware.sensor.light
+android.software.device_admin
+android.hardware.camera
+android.hardware.screen.landscape
+android.software.managed_users
+android.software.webview
+android.hardware.camera.any
+android.software.connectionservice
+android.hardware.touchscreen.multitouch.distinct
+android.hardware.location.network
+android.software.live_wallpaper
+android.hardware.location.gps
+android.software.midi
+android.hardware.location
+android.hardware.telephony
+glEsVersion = 2.0
+
+CUSTOM_DATA = 
+USER_CRASH_DATE = 2016-09-22T16:24:05.548+02:00
+AVAILABLE_MEM_SIZE = 1721565184
+BRAND = Android
+INSTALLATION_ID = 14597bb4-4dac-4666-8f44-a9c1fcfbfb03
+SHARED_PREFERENCES = default.acra.legacyAlreadyConvertedTo4.8.0=true
+default.acra.lastVersionNr=1
+
+
+FILE_PATH = /data/user/0/com.agile.science/files
+STACK_TRACE = java.lang.NullPointerException: Attempt to invoke virtual method 'void com.google.android.gms.maps.MapFragment.getMapAsync(com.google.android.gms.maps.OnMapReadyCallback)' on a null object reference
+	at com.agile.science.FragmentMap.onCreateView(FragmentMap.java:77)
+	at android.app.Fragment.performCreateView(Fragment.java:2220)
+	at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:973)
+	at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:1148)
+	at android.app.BackStackRecord.run(BackStackRecord.java:793)
+	at android.app.FragmentManagerImpl.execPendingActions(FragmentManager.java:1535)
+	at android.app.FragmentManagerImpl$1.run(FragmentManager.java:482)
+	at android.os.Handler.handleCallback(Handler.java:739)
+	at android.os.Handler.dispatchMessage(Handler.java:95)
+	at android.os.Looper.loop(Looper.java:148)
+	at android.app.ActivityThread.main(ActivityThread.java:5417)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:726)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:616)
+
+PHONE_MODEL = Android SDK built for x86_64
+TOTAL_MEM_SIZE = 2080194560
+USER_COMMENT = 
+PACKAGE_NAME = com.agile.science
+IS_SILENT = 
+DUMPSYS_MEMINFO = Permission Denial: can't dump meminfo from from pid=4248, uid=10059 without permission android.permission.DUMP
+INITIAL_CONFIGURATION = compatScreenHeightDp=504
+compatScreenWidthDp=320
+compatSmallestScreenWidthDp=320
+densityDpi=480
+fontScale=1.0
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_YES
+keyboard=KEYBOARD_NOKEYS
+keyboardHidden=KEYBOARDHIDDEN_NO
+locale=en_US
+mcc=310
+mnc=260
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=568
+screenLayout=SCREENLAYOUT_SIZE_NORMAL+SCREENLAYOUT_LONG_NO+SCREENLAYOUT_LAYOUTDIR_LTR+SCREENLAYOUT_ROUND_NO
+screenWidthDp=360
+seq=5
+smallestScreenWidthDp=360
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=false
+
+BUILD_CONFIG = $change=
+APPLICATION_ID=com.agile.science
+BUILD_TYPE=debug
+DEBUG=true
+FLAVOR=
+VERSION_CODE=1
+VERSION_NAME=2.0.0
+
+PRODUCT = sdk_google_phone_x86_64
+DISPLAY = 0.currentSizeRange.smallest=[1080,1008]
+0.currentSizeRange.largest=[1794,1704]
+0.flags=FLAG_SUPPORTS_PROTECTED_BUFFERS+FLAG_SECURE
+0.height=1776
+0.metrics.density=3.0
+0.metrics.densityDpi=480
+0.metrics.scaledDensity=x3.0
+0.metrics.widthPixels=1080
+0.metrics.heightPixels=1776
+0.metrics.xdpi=480.0
+0.metrics.ydpi=480.0
+0.name=Built-in Screen
+0.orientation=0
+0.pixelFormat=1
+0.realMetrics.density=3.0
+0.realMetrics.densityDpi=480
+0.realMetrics.scaledDensity=x3.0
+0.realMetrics.widthPixels=1080
+0.realMetrics.heightPixels=1920
+0.realMetrics.xdpi=480.0
+0.realMetrics.ydpi=480.0
+0.realSize=[1080,1920]
+0.rectSize=[0,0,1080,1776]
+0.refreshRate=60.000004
+0.rotation=ROTATION_0
+0.size=[1080,1776]
+0.width=1080
+0.isValid=true
+
+REPORT_ID = b8091af6-93ca-4a8b-ad14-ccd14b1ea9c1
+APP_VERSION_NAME = 2.0.0
+CRASH_CONFIGURATION = compatScreenHeightDp=504
+compatScreenWidthDp=320
+compatSmallestScreenWidthDp=320
+densityDpi=480
+fontScale=1.0
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_YES
+keyboard=KEYBOARD_NOKEYS
+keyboardHidden=KEYBOARDHIDDEN_NO
+locale=en_US
+mcc=310
+mnc=260
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=568
+screenLayout=SCREENLAYOUT_SIZE_NORMAL+SCREENLAYOUT_LONG_NO+SCREENLAYOUT_LAYOUTDIR_LTR+SCREENLAYOUT_ROUND_NO
+screenWidthDp=360
+seq=5
+smallestScreenWidthDp=360
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=false
+
+BUILD = BOARD=unknown
+BOOTLOADER=unknown
+BRAND=Android
+CPU_ABI=x86_64
+CPU_ABI2=
+DEVICE=generic_x86_64
+DISPLAY=sdk_google_phone_x86_64-userdebug 6.0 MASTER 3079352 test-keys
+FINGERPRINT=Android/sdk_google_phone_x86_64/generic_x86_64:6.0/MASTER/3079352:userdebug/test-keys
+HARDWARE=ranchu
+HOST=vpba14.mtv.corp.google.com
+ID=MASTER
+IS_DEBUGGABLE=true
+MANUFACTURER=unknown
+MODEL=Android SDK built for x86_64
+PRODUCT=sdk_google_phone_x86_64
+RADIO=unknown
+SERIAL=unknown
+SUPPORTED_32_BIT_ABIS=[x86]
+SUPPORTED_64_BIT_ABIS=[x86_64]
+SUPPORTED_ABIS=[x86_64, x86]
+TAGS=test-keys
+TIME=1469048534000
+TYPE=userdebug
+UNKNOWN=unknown
+USER=android-build
+VERSION.ACTIVE_CODENAMES=[]
+VERSION.BASE_OS=
+VERSION.CODENAME=REL
+VERSION.INCREMENTAL=3079352
+VERSION.PREVIEW_SDK_INT=0
+VERSION.RELEASE=6.0
+VERSION.RESOURCES_SDK_INT=23
+VERSION.SDK=23
+VERSION.SDK_INT=23
+VERSION.SECURITY_PATCH=2015-10-01
+
+ENVIRONMENT = getDataDirectory=/data
+getDownloadCacheDirectory=/cache
+getExternalStorageDirectory=/storage/emulated/0
+getExternalStorageState=mounted
+getLegacyExternalStorageDirectory=/sdcard
+getLegacyExternalStorageObbDirectory=/sdcard/Android/obb
+getOemDirectory=/oem
+getRootDirectory=/system
+getSecureDataDirectory=/data
+getStorageDirectory=/storage
+getSystemSecureDirectory=/data/system
+getVendorDirectory=/vendor
+isEncryptedFilesystemEnabled=false
+isExternalStorageEmulated=true
+isExternalStorageRemovable=false
+
+ANDROID_VERSION = 6.0
+USER_EMAIL = N/A
+USER_APP_START_DATE = 2016-09-22T16:22:58.105+02:00

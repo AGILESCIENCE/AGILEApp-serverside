@@ -1,0 +1,348 @@
+LOGCAT = --------- beginning of main
+12-04 20:47:36.002 E/SELinux (18786): [DEBUG] get_category: variable seinfo: default sensitivity: NULL, cateogry: NULL
+12-04 20:47:36.032 D/TimaKeyStoreProvider(18786): TimaSignature is unavailable
+12-04 20:47:36.032 D/ActivityThread(18786): Added TimaKeyStore provider
+12-04 20:47:36.112 I/acra    (18786): acra
+12-04 20:47:36.182 I/ACRA    (18786): ACRA is enabled for com.agile.science, initializing...
+12-04 20:47:36.272 D/PhoneWindow(18786): *FMB* installDecor mIsFloating : false
+12-04 20:47:36.272 D/PhoneWindow(18786): *FMB* installDecor flags : 8454400
+12-04 20:47:36.352 D/AbsListView(18786): Get MotionRecognitionManager
+12-04 20:47:36.392 D/OpenGLRenderer(18786): Render dirty regions requested: true
+12-04 20:47:36.402 D/PhoneWindow(18786): *FMB* isFloatingMenuEnabled mFloatingMenuBtn : null
+12-04 20:47:36.402 D/PhoneWindow(18786): *FMB* isFloatingMenuEnabled return false
+12-04 20:47:36.432 D/SRIB_DCS(18786): log_dcs ThreadedRenderer::initialize entered! 
+12-04 20:47:36.432 I/Adreno-EGL(18786): <qeglDrvAPI_eglInitialize:379>: EGL 1.4 QUALCOMM build: SKARAJGA_AU_LINUX_ANDROID_LA.BR.1.1.2_RB1.05.00.02.031.018+PATCH[ES]_msm8916_32_refs/tags/AU_LINUX_ANDROID_LA.BR.1.1.2_RB1.05.00.02.031.018__release_ENGG (I856e09677e)
+12-04 20:47:36.432 I/Adreno-EGL(18786): OpenGL ES Shader Compiler Version: E031.25.03.02
+12-04 20:47:36.432 I/Adreno-EGL(18786): Build Date: 04/06/15 Mon
+12-04 20:47:36.432 I/Adreno-EGL(18786): Local Branch: 
+12-04 20:47:36.432 I/Adreno-EGL(18786): Remote Branch: refs/tags/AU_LINUX_ANDROID_LA.BR.1.1.2_RB1.05.00.02.031.018
+12-04 20:47:36.432 I/Adreno-EGL(18786): Local Patches: 112c106f3772623daa7b4181c6cf23491044ead1 Revert "Disable ASTC on A405"
+12-04 20:47:36.432 I/Adreno-EGL(18786):                  58a118cb818fdc906095a49a90977c15f9d3b223 Remove ASTC
+12-04 20:47:36.432 I/OpenGLRenderer(18786): Initialized EGL, version 1.4
+12-04 20:47:36.452 D/OpenGLRenderer(18786): Get maximum texture size. GL_MAX_TEXTURE_SIZE is 4096
+12-04 20:47:36.452 D/OpenGLRenderer(18786): Enabling debug mode 0
+12-04 20:48:51.502 D/PhoneWindow(18786): *FMB* installDecor mIsFloating : false
+12-04 20:48:51.502 D/PhoneWindow(18786): *FMB* installDecor flags : 8454400
+12-04 20:48:51.502 D/AbsListView(18786): Get MotionRecognitionManager
+12-04 20:48:51.522 D/PhoneWindow(18786): *FMB* isFloatingMenuEnabled mFloatingMenuBtn : null
+12-04 20:48:51.522 D/PhoneWindow(18786): *FMB* isFloatingMenuEnabled return false
+12-04 20:48:51.532 D/SRIB_DCS(18786): log_dcs ThreadedRenderer::initialize entered! 
+12-04 20:48:51.582 I/Timeline(18786): Timeline: Activity_idle id: android.os.BinderProxy@7a6d3ca time:36727383
+12-04 20:48:52.342 D/ViewRootImpl(18786): ViewPostImeInputStage ACTION_DOWN
+12-04 20:48:53.262 D/ViewRootImpl(18786): ViewPostImeInputStage ACTION_DOWN
+12-04 20:48:53.422 I/map     (18786): oncreate
+12-04 20:48:53.442 I/path    (18786): 21 14
+12-04 20:48:53.452 I/zzai    (18786): Making Creator dynamically
+--------- beginning of system
+12-04 20:48:53.532 W/ResourcesManager(18786): Asset path '/system/framework/com.android.media.remotedisplay.jar' does not exist or contains no resources.
+12-04 20:48:53.532 W/ResourcesManager(18786): Asset path '/system/framework/com.android.location.provider.jar' does not exist or contains no resources.
+12-04 20:48:53.732 W/art     (18786): Suspending all threads took: 7.315ms
+12-04 20:48:53.732 I/art     (18786): Background sticky concurrent mark sweep GC freed 1675(135KB) AllocSpace objects, 2(52KB) LOS objects, 2% free, 13MB/13MB, paused 9.338ms total 49.218ms
+12-04 20:48:53.752 I/art     (18786): DexFile_isDexOptNeeded failed to open oat file '/data/dalvik-cache/arm/data@data@com.google.android.gms@app_chimera@m@00000015@DynamiteModulesB_GmsCore_prodlmp_xhdpi_release.apk@classes.dex' for file location '/data/data/com.google.android.gms/app_chimera/m/00000015/DynamiteModulesB_GmsCore_prodlmp_xhdpi_release.apk': Failed to open oat filename for reading: No such file or directory
+12-04 20:48:53.792 W/f       (18786): Suppressed StrictMode policy violation: StrictModeDiskReadViolation
+12-04 20:48:53.802 I/Google Maps Android API(18786): Google Play services client version: 9683000
+12-04 20:48:53.812 I/Google Maps Android API(18786): Google Play services package version: 10084236
+12-04 20:48:53.822 W/f       (18786): Suppressed StrictMode policy violation: StrictModeDiskReadViolation
+12-04 20:48:53.852 W/f       (18786): Suppressed StrictMode policy violation: StrictModeDiskReadViolation
+12-04 20:48:53.862 W/f       (18786): Suppressed StrictMode policy violation: StrictModeDiskReadViolation
+12-04 20:48:53.882 W/f       (18786): Suppressed StrictMode policy violation: StrictModeDiskReadViolation
+12-04 20:48:53.892 W/f       (18786): Suppressed StrictMode policy violation: StrictModeDiskReadViolation
+12-04 20:48:53.912 W/f       (18786): Suppressed StrictMode policy violation: StrictModeDiskReadViolation
+12-04 20:48:53.932 W/f       (18786): Suppressed StrictMode policy violation: StrictModeDiskReadViolation
+12-04 20:48:53.942 W/f       (18786): Suppressed StrictMode policy violation: StrictModeDiskReadViolation
+12-04 20:48:53.942 W/f       (18786): Suppressed StrictMode policy violation: StrictModeDiskWriteViolation
+12-04 20:48:53.962 W/f       (18786): Suppressed StrictMode policy violation: StrictModeDiskReadViolation
+12-04 20:48:54.002 W/f       (18786): Suppressed StrictMode policy violation: StrictModeDiskReadViolation
+12-04 20:48:54.042 D/AbsListView(18786): Get MotionRecognitionManager
+12-04 20:48:54.082 W/f       (18786): Suppressed StrictMode policy violation: StrictModeDiskWriteViolation
+12-04 20:48:54.082 W/f       (18786): Suppressed StrictMode policy violation: StrictModeDiskWriteViolation
+12-04 20:48:54.182 W/f       (18786): Suppressed StrictMode policy violation: StrictModeDiskReadViolation
+12-04 20:48:54.182 W/f       (18786): Suppressed StrictMode policy violation: StrictModeDiskReadViolation
+12-04 20:48:54.182 W/f       (18786): Suppressed StrictMode policy violation: StrictModeDiskWriteViolation
+12-04 20:48:54.192 I/Choreographer(18786): Skipped 45 frames!  The application may be doing too much work on its main thread.
+12-04 20:48:54.222 I/b       (18786): Sending API token request.
+12-04 20:48:54.222 I/map     (18786): onready
+12-04 20:48:54.302 I/System.out(18786): (HTTPLog)-Static: SBServiceAPI: getService class android.os.ServiceManager
+12-04 20:48:54.302 I/System.out(18786): (HTTPLog)-Static: isSBSettingEnabled false
+12-04 20:48:54.302 I/System.out(18786): (HTTPLog)-Static: isShipBuild true
+12-04 20:48:54.302 I/System.out(18786): (HTTPLog)-Thread-6901-468089402: SmartBonding Enabling is false, SHIP_BUILD is true, log to file is false, DBG is false
+12-04 20:48:54.302 I/System.out(18786): (HTTPLog)-Static: isSBSettingEnabled false
+12-04 20:48:54.312 I/System.out(18786): KnoxVpnUidStorageknoxVpnSupported API value returned is false
+12-04 20:48:54.412 W/System.err(18786): java.io.FileNotFoundException: http://agile.iasfbo.inaf.it/AGILEApp/POS/TLE.json
+12-04 20:48:54.412 W/System.err(18786): 	at com.android.okhttp.internal.http.HttpURLConnectionImpl.getInputStream(HttpURLConnectionImpl.java:210)
+12-04 20:48:54.412 W/System.err(18786): 	at com.agile.science.FragmentMap$DownloadTLE.doInBackground(FragmentMap.java:225)
+12-04 20:48:54.412 W/System.err(18786): 	at com.agile.science.FragmentMap$DownloadTLE.doInBackground(FragmentMap.java:210)
+12-04 20:48:54.412 W/System.err(18786): 	at android.os.AsyncTask$2.call(AsyncTask.java:288)
+12-04 20:48:54.412 W/System.err(18786): 	at java.util.concurrent.FutureTask.run(FutureTask.java:237)
+12-04 20:48:54.412 W/System.err(18786): 	at android.os.AsyncTask$SerialExecutor$1.run(AsyncTask.java:231)
+12-04 20:48:54.412 W/System.err(18786): 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1112)
+12-04 20:48:54.412 W/System.err(18786): 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:587)
+12-04 20:48:54.412 W/System.err(18786): 	at java.lang.Thread.run(Thread.java:818)
+12-04 20:48:54.422 I/map     (18786): on post
+12-04 20:48:54.422 D/AndroidRuntime(18786): Shutting down VM
+12-04 20:48:54.422 E/ACRA    (18786): ACRA caught a NullPointerException for com.agile.science
+12-04 20:48:54.422 E/ACRA    (18786): java.lang.NullPointerException: println needs a message
+12-04 20:48:54.422 E/ACRA    (18786): 	at android.util.Log.println_native(Native Method)
+12-04 20:48:54.422 E/ACRA    (18786): 	at android.util.Log.i(Log.java:207)
+12-04 20:48:54.422 E/ACRA    (18786): 	at com.agile.science.FragmentMap$DownloadTLE.onPostExecute(FragmentMap.java:264)
+12-04 20:48:54.422 E/ACRA    (18786): 	at com.agile.science.FragmentMap$DownloadTLE.onPostExecute(FragmentMap.java:210)
+12-04 20:48:54.422 E/ACRA    (18786): 	at android.os.AsyncTask.finish(AsyncTask.java:632)
+12-04 20:48:54.422 E/ACRA    (18786): 	at android.os.AsyncTask.access$600(AsyncTask.java:177)
+12-04 20:48:54.422 E/ACRA    (18786): 	at android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:645)
+12-04 20:48:54.422 E/ACRA    (18786): 	at android.os.Handler.dispatchMessage(Handler.java:102)
+12-04 20:48:54.422 E/ACRA    (18786): 	at android.os.Looper.loop(Looper.java:145)
+12-04 20:48:54.422 E/ACRA    (18786): 	at android.app.ActivityThread.main(ActivityThread.java:6145)
+12-04 20:48:54.422 E/ACRA    (18786): 	at java.lang.reflect.Method.invoke(Native Method)
+12-04 20:48:54.422 E/ACRA    (18786): 	at java.lang.reflect.Method.invoke(Method.java:372)
+12-04 20:48:54.422 E/ACRA    (18786): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1399)
+12-04 20:48:54.422 E/ACRA    (18786): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1194)
+APP_VERSION_CODE = 7
+DEVICE_FEATURES = android.hardware.wifi.direct
+android.hardware.touchscreen.multitouch
+com.sec.feature.cover.flip
+com.sec.feature.multiwindow.recentui
+android.hardware.sensor.proximity
+android.hardware.telephony
+android.hardware.bluetooth_le
+com.sec.android.mdm
+com.sec.feature.secretmode_service
+com.sec.feature.motionrecognition_service
+com.sec.android.secimaging
+com.sec.feature.wfd_support
+android.software.voice_recognizers
+com.sec.feature.multiwindow.phone
+android.hardware.location.gps
+com.sec.android.smartface.smart_stay
+com.sec.feature.multiwindow.multiwindowlaunch
+com.samsung.feature.mirrorlink_fw
+android.software.sip
+android.software.input_methods
+android.software.connectionservice
+android.software.webview
+android.software.backup
+com.sec.feature.call_vt_support
+android.hardware.nfc.hce
+android.hardware.camera.front
+android.hardware.screen.portrait
+android.hardware.touchscreen
+com.sec.feature.cover.sview
+android.software.live_wallpaper
+com.sec.feature.cover.sviewcover
+android.hardware.wifi
+android.software.print
+com.sec.feature.findo
+com.sec.feature.multiwindow
+com.samsung.android.feature.sdl.2101
+android.hardware.sensor.accelerometer
+android.software.app_widgets
+android.software.device_admin
+android.hardware.camera.any
+android.software.sip.voip
+android.hardware.camera
+com.sec.feature.multiwindow.multiinstance
+android.hardware.usb.accessory
+android.hardware.touchscreen.multitouch.distinct
+com.sec.feature.minimode
+com.sec.feature.multiwindow.commonui
+android.hardware.camera.flash
+android.hardware.faketouch
+android.hardware.sensor.light
+android.hardware.sensor.compass
+android.hardware.location
+android.hardware.screen.landscape
+com.sec.feature.samsunglinkplatform
+android.hardware.location.network
+android.hardware.telephony.gsm
+android.hardware.bluetooth
+android.hardware.audio.output
+android.hardware.nfc
+android.software.home_screen
+android.hardware.touchscreen.multitouch.jazzhand
+android.hardware.microphone
+android.hardware.camera.autofocus
+glEsVersion = 3.0
+
+CUSTOM_DATA = 
+USER_CRASH_DATE = 2016-12-04T20:48:54.507+01:00
+AVAILABLE_MEM_SIZE = 5981556736
+BRAND = samsung
+INSTALLATION_ID = b383e190-d010-430a-9db6-6c9e331e312b
+SHARED_PREFERENCES = default.acra.legacyAlreadyConvertedTo4.8.0=true
+default.acra.lastVersionNr=7
+
+
+FILE_PATH = /data/data/com.agile.science/files
+STACK_TRACE = java.lang.NullPointerException: println needs a message
+	at android.util.Log.println_native(Native Method)
+	at android.util.Log.i(Log.java:207)
+	at com.agile.science.FragmentMap$DownloadTLE.onPostExecute(FragmentMap.java:264)
+	at com.agile.science.FragmentMap$DownloadTLE.onPostExecute(FragmentMap.java:210)
+	at android.os.AsyncTask.finish(AsyncTask.java:632)
+	at android.os.AsyncTask.access$600(AsyncTask.java:177)
+	at android.os.AsyncTask$InternalHandler.handleMessage(AsyncTask.java:645)
+	at android.os.Handler.dispatchMessage(Handler.java:102)
+	at android.os.Looper.loop(Looper.java:145)
+	at android.app.ActivityThread.main(ActivityThread.java:6145)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:372)
+	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:1399)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:1194)
+
+PHONE_MODEL = SM-A500FU
+TOTAL_MEM_SIZE = 12540850176
+USER_COMMENT = 
+PACKAGE_NAME = com.agile.science
+IS_SILENT = 
+DUMPSYS_MEMINFO = Permission Denial: can't dump meminfo from from pid=19026, uid=10207 without permission android.permission.DUMP
+INITIAL_CONFIGURATION = locale=it_IT
+FlipFont=0
+arrange=0
+compatScreenHeightDp=546
+compatScreenWidthDp=320
+compatSmallestScreenWidthDp=320
+densityDpi=320
+fontScale=1.0
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_YES
+keyboard=KEYBOARD_NOKEYS
+keyboardHidden=KEYBOARDHIDDEN_NO
+mcc=222
+mnc=88
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=615
+screenLayout=SCREENLAYOUT_SIZE_NORMAL+SCREENLAYOUT_LONG_YES+SCREENLAYOUT_LAYOUTDIR_LTR
+screenWidthDp=360
+seq=110
+smallestScreenWidthDp=360
+themeSeq=0
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=true
+
+BUILD_CONFIG = APPLICATION_ID=com.agile.science
+BUILD_TYPE=release
+FLAVOR=
+VERSION_NAME=2.0.1
+DEBUG=false
+VERSION_CODE=7
+
+PRODUCT = a5ultexx
+DISPLAY = 0.currentSizeRange.smallest=[720,670]
+0.currentSizeRange.largest=[1280,1230]
+0.flags=FLAG_SUPPORTS_PROTECTED_BUFFERS+FLAG_SECURE
+0.height=1280
+0.metrics.density=2.0
+0.metrics.densityDpi=320
+0.metrics.scaledDensity=x2.0
+0.metrics.widthPixels=720
+0.metrics.heightPixels=1280
+0.metrics.xdpi=294.967
+0.metrics.ydpi=295.563
+0.name=Schermo incorporato
+0.orientation=0
+0.pixelFormat=1
+0.realMetrics.density=2.0
+0.realMetrics.densityDpi=320
+0.realMetrics.scaledDensity=x2.0
+0.realMetrics.widthPixels=720
+0.realMetrics.heightPixels=1280
+0.realMetrics.xdpi=294.967
+0.realMetrics.ydpi=295.563
+0.realSize=[720,1280]
+0.rectSize=[0,0,720,1280]
+0.refreshRate=60.0
+0.rotation=ROTATION_0
+0.size=[720,1280]
+0.width=720
+0.isValid=true
+
+REPORT_ID = c54a9756-91be-4239-9021-27a0dccda49c
+APP_VERSION_NAME = 2.0.1
+CRASH_CONFIGURATION = locale=it_IT
+FlipFont=0
+arrange=0
+compatScreenHeightDp=546
+compatScreenWidthDp=320
+compatSmallestScreenWidthDp=320
+densityDpi=320
+fontScale=1.0
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_YES
+keyboard=KEYBOARD_NOKEYS
+keyboardHidden=KEYBOARDHIDDEN_NO
+mcc=222
+mnc=88
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=615
+screenLayout=SCREENLAYOUT_SIZE_NORMAL+SCREENLAYOUT_LONG_YES+SCREENLAYOUT_LAYOUTDIR_LTR
+screenWidthDp=360
+seq=110
+smallestScreenWidthDp=360
+themeSeq=0
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=true
+
+BUILD = BOARD=MSM8916
+BOOTLOADER=A500FUXXS1BPG3
+BRAND=samsung
+CPU_ABI=armeabi-v7a
+CPU_ABI2=armeabi
+DEVICE=a5ulte
+DISPLAY=LRX22G.A500FUXXS1BPG3
+FINGERPRINT=samsung/a5ultexx/a5ulte:5.0.2/LRX22G/A500FUXXS1BPG3:user/release-keys
+FOTA_INFO=1469346478
+HARDWARE=qcom
+HOST=SWHD4008
+ID=LRX22G
+MANUFACTURER=samsung
+MODEL=SM-A500FU
+PRODUCT=a5ultexx
+RADIO=unknown
+SERIAL=f6b5a7e5
+SUPPORTED_32_BIT_ABIS=[armeabi-v7a, armeabi]
+SUPPORTED_64_BIT_ABIS=[]
+SUPPORTED_ABIS=[armeabi-v7a, armeabi]
+TAGS=release-keys
+TYPE=user
+UNKNOWN=unknown
+USER=dpi
+TIME=1469346560000
+IS_DEBUGGABLE=false
+IS_SYSTEM_SECURE=false
+isOSUpgradeKK2LL=true
+VERSION.ACTIVE_CODENAMES=[]
+VERSION.BASE_OS=samsung/a5ultexx/a5ulte:5.0.2/LRX22G/A500FUXXU1BOJ6:user/release-keys
+VERSION.CODENAME=REL
+VERSION.INCREMENTAL=A500FUXXS1BPG3
+VERSION.RELEASE=5.0.2
+VERSION.SDK=21
+VERSION.SECURITY_PATCH=2016-07-01
+VERSION.RESOURCES_SDK_INT=21
+VERSION.SDK_INT=21
+VERSION.SDL_INT=2101
+
+ENVIRONMENT = getAndroidSecureContainerDirectory=/mnt/asec
+getDataDirectory=/data
+getDownloadCacheDirectory=/cache
+getEmulatedStorageObbSource=/mnt/shell/emulated/obb
+getExternalStorageDirectory=/storage/emulated/0
+getExternalStorageState=mounted
+getLegacyExternalStorageDirectory=/storage/emulated/legacy
+getLegacyExternalStorageObbDirectory=/storage/emulated/legacy/Android/obb
+getMediaBaseStorageDirectory=/secdata
+getMediaStorageDirectory=/data/media/0
+getOemDirectory=/oem
+getRootDirectory=/system
+getSecureDataDirectory=/data
+getSystemSecureDirectory=/data/system
+getVendorDirectory=/vendor
+isEncryptedFilesystemEnabled=false
+isExternalStorageEmulated=true
+isExternalStorageRemovable=false
+
+ANDROID_VERSION = 5.0.2
+USER_EMAIL = N/A
+USER_APP_START_DATE = 2016-12-04T20:47:36.200+01:00

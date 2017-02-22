@@ -1,0 +1,16 @@
+---en===Discovery of variable gamma-ray emission from the Crab Nebula ===
+
+---it===Scoperta l'emissione gamma variabile dalla Nebulosa del Granchio===
+
+---en=== AGILE discovery that the archetypical source of gamma-ray astrophysics is not constant. Very rapid and intense gamma-ray flares from the inner Nebula driven by plasma instabilities. Theoretical particle acceleration models challenged and to be drastically revised. Consequences and broad applications in plasma physics experiments and theoretical studies of particle acceleration. ===
+
+
+---it===AGILE scopre la variabilita' della sorgente gamma stabile per eccellenza, rilevando flare gamma molto rapidi e intensi provenienti dalla parte interna della Nebulosa caratterizzata da instabilita' di plasma. Vengono cosi' messi in discussione i modelli teorici di accelerazione di particelle. Cio' avra' conseguenze e ampie implicazioni sugli esperimenti  di fisica dei plasmi e sugli studi teorici dell'accelerazione di particelle.===
+
+---en===http://agile.iasfbo.inaf.it/en/top10/2010B.html===
+
+---it===http://agile.iasfbo.inaf.it/it/top10/2010B.html===
+
+====AGILE_Crab.png====
+
+=====AGILE_Crab.png=====

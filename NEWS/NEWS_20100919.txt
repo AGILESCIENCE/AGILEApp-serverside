@@ -1,0 +1,15 @@
+---en===2010/09/19 AGILE discovery that the Crab Nebula is variable===
+
+---it===2010/09/19 AGILE e la variabilita' della Nebulosa del Granchio===
+
+---en=== The Crab Nebula is certainly one of the most famous astronomical objects. It is at the center of  a bright supernova that exploded in 1054 and was recorded by Chinese astronomers. It encloses now at its very center one of the most powerful pulsars. The Crab has been considered for decades as one of the strongest persistent X-ray  and gamma-ray source in the sky and was then used  as a standard calibration source in astrophysics. Therefore, when between  Sept. 19 and  Sept.21, 2010 the AGILE team detected a strongly enhanced gamma-ray emission from the Crab Nebula region  (see ATel # 2855) it provoked a sort of shock in the community.  Following the AGILE discovery and the confirmation by Fermi/LAT on the following day (see Atel #2861), many telescopes (Swift, INTEGRAL, Hubble, Chandra) have then pointed and are still pointing at the Crab, gathering precious information for precisely identifying  the phenomenon. The AGILE team reported the surprising gamma-ray flares of the Crab Nebula in the paper by Tavani et al., Science, 331, 736, 2011.===
+
+---it===La Nebulosa del Granchio e' sicuramente uno degli oggetti celesti piu' famosi del cielo. E' cio' che resta di una stella esplosa nell'anno 1054 e registrata accuratamente da astronomi cinesi. E' ora un Resto di Supernova con al centro una delle pulsar piu' potenti. La Nebulosa del Granchio e' stata considerata per decenni la sorgente X e gamma stabile per eccellenza ed era infatti usata come un'unita' di misura di flusso in astrofisica. Quindi, quando tra il 19 ed il 21 settembre 2010 il Team AGILE ha rilevato una forte emissione gamma transiente dalla regione della Nebulosa del Granchio (si veda Atel# 2855) cio' ha provocato una sorta di shock nella comunita' scientifica. A seguito della scoperta di AGILE e della conferma da parte del satellite della NASA Fermi il giorno successivo (si veda Atel#2861), molti telescopi (Swift, INTEGRAL, Hubble, Chnadra) hanno puntato ed ancora puntano alla Nebulosa del Granchio, raccogliendo informazioni preziose per identificare in maniera precisa il fenomeno. Il Team AGILE ha riportato questi risultati nell'articolo di Tavani et al., Science, 331, 736, 2011.===
+
+---en===http://agile.iasfbo.inaf.it/en/news/2010C.html===
+
+---it===http://agile.iasfbo.inaf.it/it/news/2010C.html===
+
+====AGILE_Crab.png====
+
+=====AGILE_Crab.png=====

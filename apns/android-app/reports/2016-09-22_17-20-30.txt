@@ -1,0 +1,357 @@
+LOGCAT = --------- beginning of main
+09-22 16:57:16.169 D/ChimeraCfgMgr( 9621): Reading stored module config
+09-22 16:57:16.183 W/System  ( 9621): ClassLoader referenced unknown path: /data/user/0/com.google.android.gms/app_chimera/m/00000001/n/x86_64
+09-22 16:57:16.184 D/ChimeraFileApk( 9621): Primary ABI of requesting process is x86_64
+09-22 16:57:16.184 D/ChimeraFileApk( 9621): Classloading successful. Optimized code found.
+09-22 16:57:16.223 I/Google Maps Android API( 9621): Google Play services client version: 9452000
+09-22 16:57:16.232 I/Google Maps Android API( 9621): Google Play services package version: 9452480
+09-22 16:57:16.311 I/c       ( 9621): Token loaded from file. Expires in: 430614895 ms.
+09-22 16:57:16.311 I/c       ( 9621): Scheduling next attempt in 430314 seconds.
+09-22 16:57:16.443 I/path    ( 9621): 23 14
+09-22 16:57:16.443 D/AndroidRuntime( 9621): Shutting down VM
+09-22 16:57:16.444 E/ACRA    ( 9621): ACRA caught a NullPointerException for com.agile.science
+09-22 16:57:16.444 E/ACRA    ( 9621): java.lang.NullPointerException: Attempt to invoke virtual method 'void com.google.android.gms.maps.MapFragment.getMapAsync(com.google.android.gms.maps.OnMapReadyCallback)' on a null object reference
+09-22 16:57:16.444 E/ACRA    ( 9621): 	at com.agile.science.FragmentMap.onCreateView(FragmentMap.java:80)
+09-22 16:57:16.444 E/ACRA    ( 9621): 	at android.app.Fragment.performCreateView(Fragment.java:2220)
+09-22 16:57:16.444 E/ACRA    ( 9621): 	at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:973)
+09-22 16:57:16.444 E/ACRA    ( 9621): 	at android.app.FragmentManagerImpl.moveToState(FragmentManager.java:1148)
+09-22 16:57:16.444 E/ACRA    ( 9621): 	at android.app.BackStackRecord.run(BackStackRecord.java:793)
+09-22 16:57:16.444 E/ACRA    ( 9621): 	at android.app.FragmentManagerImpl.execPendingActions(FragmentManager.java:1535)
+09-22 16:57:16.444 E/ACRA    ( 9621): 	at android.app.FragmentManagerImpl$1.run(FragmentManager.java:482)
+09-22 16:57:16.444 E/ACRA    ( 9621): 	at android.os.Handler.handleCallback(Handler.java:739)
+09-22 16:57:16.444 E/ACRA    ( 9621): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+09-22 16:57:16.444 E/ACRA    ( 9621): 	at android.os.Looper.loop(Looper.java:148)
+09-22 16:57:16.444 E/ACRA    ( 9621): 	at android.app.ActivityThread.main(ActivityThread.java:5417)
+09-22 16:57:16.444 E/ACRA    ( 9621): 	at java.lang.reflect.Method.invoke(Native Method)
+09-22 16:57:16.444 E/ACRA    ( 9621): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:726)
+09-22 16:57:16.444 E/ACRA    ( 9621): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:616)
+09-22 16:57:16.593 I/art     ( 9882): Not late-enabling -Xcheck:jni (already on)
+09-22 16:57:16.762 I/Process ( 9621): Sending signal. PID: 9621 SIG: 9
+09-22 16:57:16.770 W/System  ( 9882): ClassLoader referenced unknown path: /data/app/com.agile.science-2/lib/x86_64
+09-22 16:57:17.948 W/System  ( 9882): ClassLoader referenced unknown path: /data/app/com.agile.science-2/lib/x86_64
+09-22 16:57:17.964 I/MultiDex( 9882): VM with version 2.1.0 has multidex support
+09-22 16:57:17.964 I/MultiDex( 9882): install
+09-22 16:57:17.964 I/MultiDex( 9882): VM has multidex support, MultiDex support library is disabled.
+09-22 16:57:17.964 I/acra    ( 9882): acra
+09-22 16:57:18.292 I/ACRA    ( 9882): Sending report /data/user/0/com.agile.science/app_ACRA-approved/2016-09-22T16:57:16.492+02:00.stacktrace
+09-22 16:57:18.928 I/ACRA    ( 9882): Request received by server
+09-22 17:19:39.338 I/art     ( 9959): Not late-enabling -Xcheck:jni (already on)
+09-22 17:19:39.363 W/System  ( 9959): ClassLoader referenced unknown path: /data/app/com.agile.science-2/lib/x86_64
+09-22 17:19:39.424 W/dex2oat ( 9972): Unexpected CPU variant for X86 using defaults: x86_64
+09-22 17:19:39.424 I/dex2oat ( 9972): /system/bin/dex2oat --debuggable --dex-file=/data/data/com.agile.science/files/instant-run/dex/slice-slice_0-classes.dex --oat-file=/data/user/0/com.agile.science/cache/slice-slice_0-classes.dex
+09-22 17:19:39.424 E/cutils-trace( 9972): Error opening trace file: Permission denied (13)
+09-22 17:19:40.394 W/dex2oat ( 9972): Compilation of java.lang.Object com.agile.science.ActivityInfo.access$super(com.agile.science.ActivityInfo, java.lang.String, java.lang.Object[]) took 136.365ms
+09-22 17:19:40.432 W/dex2oat ( 9972): Compilation of java.lang.Object com.agile.science.ActivityMain.access$super(com.agile.science.ActivityMain, java.lang.String, java.lang.Object[]) took 129.255ms
+09-22 17:19:40.596 W/dex2oat ( 9972): Compilation of java.lang.Object com.agile.science.ActivitySky.access$super(com.agile.science.ActivitySky, java.lang.String, java.lang.Object[]) took 149.714ms
+09-22 17:19:40.779 W/dex2oat ( 9972): Compilation of java.lang.Object com.agile.science.MainActivity.access$super(com.agile.science.MainActivity, java.lang.String, java.lang.Object[]) took 181.009ms
+09-22 17:19:40.892 I/dex2oat ( 9972): dex2oat took 1.468s (threads: 2) arena alloc=3MB java alloc=458KB native alloc=6MB free=4MB
+09-22 17:19:41.273 W/System  ( 9959): ClassLoader referenced unknown path: /data/app/com.agile.science-2/lib/x86_64
+09-22 17:19:41.289 I/MultiDex( 9959): VM with version 2.1.0 has multidex support
+09-22 17:19:41.290 I/MultiDex( 9959): install
+09-22 17:19:41.290 I/MultiDex( 9959): VM has multidex support, MultiDex support library is disabled.
+09-22 17:19:41.290 I/acra    ( 9959): acra
+09-22 17:19:41.426 I/ACRA    ( 9959): ACRA is enabled for com.agile.science, initializing...
+09-22 17:19:41.743 I/FirebaseInitProvider( 9959): FirebaseApp initialization unsuccessful
+09-22 17:19:41.969 W/art     ( 9959): Suspending all threads took: 15.653ms
+09-22 17:19:42.270 D/OpenGLRenderer( 9959): Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+09-22 17:19:42.274 D/        ( 9959): HostConnection::get() New Host Connection established 0x7fcf86dbfc80, tid 9959
+09-22 17:19:42.323 D/        ( 9959): HostConnection::get() New Host Connection established 0x7fcf86dbfd40, tid 10026
+09-22 17:19:42.372 I/OpenGLRenderer( 9959): Initialized EGL, version 1.4
+09-22 17:19:43.130 I/Choreographer( 9959): Skipped 30 frames!  The application may be doing too much work on its main thread.
+09-22 17:19:47.196 I/map     ( 9959): oncreate
+09-22 17:19:47.229 I/zzai    ( 9959): Making Creator dynamically
+09-22 17:19:47.239 W/System  ( 9959): ClassLoader referenced unknown path: /system/priv-app/PrebuiltGmsCore/lib/x86_64
+09-22 17:19:47.256 D/ChimeraCfgMgr( 9959): Reading stored module config
+09-22 17:19:47.272 W/System  ( 9959): ClassLoader referenced unknown path: /data/user/0/com.google.android.gms/app_chimera/m/00000001/n/x86_64
+09-22 17:19:47.273 D/ChimeraFileApk( 9959): Primary ABI of requesting process is x86_64
+09-22 17:19:47.273 D/ChimeraFileApk( 9959): Classloading successful. Optimized code found.
+09-22 17:19:47.284 I/Google Maps Android API( 9959): Google Play services client version: 9452000
+09-22 17:19:47.286 I/Google Maps Android API( 9959): Google Play services package version: 9452480
+09-22 17:19:47.362 I/c       ( 9959): Token loaded from file. Expires in: 429263844 ms.
+09-22 17:19:47.362 I/c       ( 9959): Scheduling next attempt in 428963 seconds.
+09-22 17:19:47.504 I/path    ( 9959): 23 14
+09-22 17:19:47.504 D/AndroidRuntime( 9959): Shutting down VM
+09-22 17:19:47.504 E/ACRA    ( 9959): ACRA caught a NullPointerException for com.agile.science
+09-22 17:19:47.504 E/ACRA    ( 9959): java.lang.NullPointerException: Attempt to invoke virtual method 'void com.google.android.gms.maps.SupportMapFragment.getMapAsync(com.google.android.gms.maps.OnMapReadyCallback)' on a null object reference
+09-22 17:19:47.504 E/ACRA    ( 9959): 	at com.agile.science.FragmentMap.onCreateView(FragmentMap.java:81)
+09-22 17:19:47.504 E/ACRA    ( 9959): 	at android.support.v4.app.Fragment.performCreateView(Fragment.java:1974)
+09-22 17:19:47.504 E/ACRA    ( 9959): 	at android.support.v4.app.FragmentManagerImpl.moveToState(FragmentManager.java:1067)
+09-22 17:19:47.504 E/ACRA    ( 9959): 	at android.support.v4.app.FragmentManagerImpl.moveToState(FragmentManager.java:1252)
+09-22 17:19:47.504 E/ACRA    ( 9959): 	at android.support.v4.app.BackStackRecord.run(BackStackRecord.java:742)
+09-22 17:19:47.504 E/ACRA    ( 9959): 	at android.support.v4.app.FragmentManagerImpl.execPendingActions(FragmentManager.java:1617)
+09-22 17:19:47.504 E/ACRA    ( 9959): 	at android.support.v4.app.FragmentManagerImpl$1.run(FragmentManager.java:517)
+09-22 17:19:47.504 E/ACRA    ( 9959): 	at android.os.Handler.handleCallback(Handler.java:739)
+09-22 17:19:47.504 E/ACRA    ( 9959): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+09-22 17:19:47.504 E/ACRA    ( 9959): 	at android.os.Looper.loop(Looper.java:148)
+09-22 17:19:47.504 E/ACRA    ( 9959): 	at android.app.ActivityThread.main(ActivityThread.java:5417)
+09-22 17:19:47.504 E/ACRA    ( 9959): 	at java.lang.reflect.Method.invoke(Native Method)
+09-22 17:19:47.504 E/ACRA    ( 9959): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:726)
+09-22 17:19:47.504 E/ACRA    ( 9959): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:616)
+09-22 17:19:47.609 I/art     (10130): Not late-enabling -Xcheck:jni (already on)
+09-22 17:19:47.648 I/art     (10130): Debugger is no longer active
+09-22 17:19:47.758 I/Process ( 9959): Sending signal. PID: 9959 SIG: 9
+09-22 17:19:47.806 W/System  (10130): ClassLoader referenced unknown path: /data/app/com.agile.science-2/lib/x86_64
+09-22 17:19:49.370 W/System  (10130): ClassLoader referenced unknown path: /data/app/com.agile.science-2/lib/x86_64
+09-22 17:19:49.413 I/MultiDex(10130): VM with version 2.1.0 has multidex support
+09-22 17:19:49.413 I/MultiDex(10130): install
+09-22 17:19:49.413 I/MultiDex(10130): VM has multidex support, MultiDex support library is disabled.
+09-22 17:19:49.413 I/acra    (10130): acra
+09-22 17:19:49.508 I/ACRA    (10130): Sending report /data/user/0/com.agile.science/app_ACRA-approved/2016-09-22T17:19:47.550+02:00.stacktrace
+09-22 17:19:49.908 I/ACRA    (10130): Request received by server
+09-22 17:20:04.914 I/art     (10193): Not late-enabling -Xcheck:jni (already on)
+09-22 17:20:05.022 W/System  (10193): ClassLoader referenced unknown path: /data/app/com.agile.science-2/lib/x86_64
+09-22 17:20:05.225 W/dex2oat (10215): Unexpected CPU variant for X86 using defaults: x86_64
+09-22 17:20:05.225 I/dex2oat (10215): /system/bin/dex2oat --debuggable --dex-file=/data/data/com.agile.science/files/instant-run/dex/slice-slice_0-classes.dex --oat-file=/data/user/0/com.agile.science/cache/slice-slice_0-classes.dex
+09-22 17:20:05.225 E/cutils-trace(10215): Error opening trace file: Permission denied (13)
+09-22 17:20:06.312 I/dex2oat (10215): dex2oat took 1.087s (threads: 2) arena alloc=3MB java alloc=454KB native alloc=7MB free=4MB
+09-22 17:20:06.477 W/System  (10193): ClassLoader referenced unknown path: /data/app/com.agile.science-2/lib/x86_64
+09-22 17:20:06.486 I/MultiDex(10193): VM with version 2.1.0 has multidex support
+09-22 17:20:06.486 I/MultiDex(10193): install
+09-22 17:20:06.486 I/MultiDex(10193): VM has multidex support, MultiDex support library is disabled.
+09-22 17:20:06.486 I/acra    (10193): acra
+09-22 17:20:06.516 I/ACRA    (10193): ACRA is enabled for com.agile.science, initializing...
+09-22 17:20:06.644 I/FirebaseInitProvider(10193): FirebaseApp initialization unsuccessful
+09-22 17:20:07.275 D/OpenGLRenderer(10193): Use EGL_SWAP_BEHAVIOR_PRESERVED: true
+09-22 17:20:07.290 D/        (10193): HostConnection::get() New Host Connection established 0x7fcf86d8ac80, tid 10193
+09-22 17:20:07.371 D/        (10193): HostConnection::get() New Host Connection established 0x7fcf86d8ad40, tid 10250
+09-22 17:20:07.393 I/OpenGLRenderer(10193): Initialized EGL, version 1.4
+09-22 17:20:26.624 I/map     (10193): oncreate
+09-22 17:20:26.678 I/path    (10193): 23 14
+09-22 17:20:26.694 I/zzai    (10193): Making Creator dynamically
+09-22 17:20:26.714 W/System  (10193): ClassLoader referenced unknown path: /system/priv-app/PrebuiltGmsCore/lib/x86_64
+09-22 17:20:26.736 D/ChimeraCfgMgr(10193): Reading stored module config
+09-22 17:20:26.751 W/System  (10193): ClassLoader referenced unknown path: /data/user/0/com.google.android.gms/app_chimera/m/00000001/n/x86_64
+09-22 17:20:26.751 D/ChimeraFileApk(10193): Primary ABI of requesting process is x86_64
+09-22 17:20:26.753 D/ChimeraFileApk(10193): Classloading successful. Optimized code found.
+09-22 17:20:26.772 I/Google Maps Android API(10193): Google Play services client version: 9452000
+09-22 17:20:26.775 I/Google Maps Android API(10193): Google Play services package version: 9452480
+09-22 17:20:26.863 I/c       (10193): Token loaded from file. Expires in: 429224343 ms.
+09-22 17:20:26.863 I/c       (10193): Scheduling next attempt in 428924 seconds.
+09-22 17:20:26.992 D/AndroidRuntime(10193): Shutting down VM
+09-22 17:20:26.993 E/ACRA    (10193): ACRA caught a NullPointerException for com.agile.science
+09-22 17:20:26.993 E/ACRA    (10193): java.lang.NullPointerException: Attempt to invoke virtual method 'void com.google.android.gms.maps.MapFragment.getMapAsync(com.google.android.gms.maps.OnMapReadyCallback)' on a null object reference
+09-22 17:20:26.993 E/ACRA    (10193): 	at com.agile.science.FragmentMap.onCreateView(FragmentMap.java:86)
+09-22 17:20:26.993 E/ACRA    (10193): 	at android.support.v4.app.Fragment.performCreateView(Fragment.java:1974)
+09-22 17:20:26.993 E/ACRA    (10193): 	at android.support.v4.app.FragmentManagerImpl.moveToState(FragmentManager.java:1067)
+09-22 17:20:26.993 E/ACRA    (10193): 	at android.support.v4.app.FragmentManagerImpl.moveToState(FragmentManager.java:1252)
+09-22 17:20:26.993 E/ACRA    (10193): 	at android.support.v4.app.BackStackRecord.run(BackStackRecord.java:742)
+09-22 17:20:26.993 E/ACRA    (10193): 	at android.support.v4.app.FragmentManagerImpl.execPendingActions(FragmentManager.java:1617)
+09-22 17:20:26.993 E/ACRA    (10193): 	at android.support.v4.app.FragmentManagerImpl$1.run(FragmentManager.java:517)
+09-22 17:20:26.993 E/ACRA    (10193): 	at android.os.Handler.handleCallback(Handler.java:739)
+09-22 17:20:26.993 E/ACRA    (10193): 	at android.os.Handler.dispatchMessage(Handler.java:95)
+09-22 17:20:26.993 E/ACRA    (10193): 	at android.os.Looper.loop(Looper.java:148)
+09-22 17:20:26.993 E/ACRA    (10193): 	at android.app.ActivityThread.main(ActivityThread.java:5417)
+09-22 17:20:26.993 E/ACRA    (10193): 	at java.lang.reflect.Method.invoke(Native Method)
+09-22 17:20:26.993 E/ACRA    (10193): 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:726)
+09-22 17:20:26.993 E/ACRA    (10193): 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:616)
+APP_VERSION_CODE = 1
+DEVICE_FEATURES = android.hardware.sensor.proximity
+android.hardware.sensor.accelerometer
+android.hardware.faketouch
+android.hardware.usb.accessory
+android.software.backup
+android.hardware.touchscreen
+android.hardware.touchscreen.multitouch
+android.software.print
+android.software.voice_recognizers
+android.hardware.sensor.relative_humidity
+android.hardware.telephony.gsm
+android.hardware.audio.output
+android.hardware.screen.portrait
+android.software.home_screen
+android.hardware.microphone
+android.hardware.sensor.compass
+android.hardware.touchscreen.multitouch.jazzhand
+android.hardware.sensor.barometer
+android.software.app_widgets
+android.software.input_methods
+android.hardware.sensor.light
+android.software.device_admin
+android.hardware.camera
+android.hardware.screen.landscape
+android.software.managed_users
+android.software.webview
+android.hardware.camera.any
+android.software.connectionservice
+android.hardware.touchscreen.multitouch.distinct
+android.hardware.location.network
+android.software.live_wallpaper
+android.hardware.location.gps
+android.software.midi
+android.hardware.location
+android.hardware.telephony
+glEsVersion = 2.0
+
+CUSTOM_DATA = 
+USER_CRASH_DATE = 2016-09-22T17:20:27.038+02:00
+AVAILABLE_MEM_SIZE = 1696407552
+BRAND = Android
+INSTALLATION_ID = 14597bb4-4dac-4666-8f44-a9c1fcfbfb03
+SHARED_PREFERENCES = default.acra.legacyAlreadyConvertedTo4.8.0=true
+default.acra.lastVersionNr=1
+
+
+FILE_PATH = /data/user/0/com.agile.science/files
+STACK_TRACE = java.lang.NullPointerException: Attempt to invoke virtual method 'void com.google.android.gms.maps.MapFragment.getMapAsync(com.google.android.gms.maps.OnMapReadyCallback)' on a null object reference
+	at com.agile.science.FragmentMap.onCreateView(FragmentMap.java:86)
+	at android.support.v4.app.Fragment.performCreateView(Fragment.java:1974)
+	at android.support.v4.app.FragmentManagerImpl.moveToState(FragmentManager.java:1067)
+	at android.support.v4.app.FragmentManagerImpl.moveToState(FragmentManager.java:1252)
+	at android.support.v4.app.BackStackRecord.run(BackStackRecord.java:742)
+	at android.support.v4.app.FragmentManagerImpl.execPendingActions(FragmentManager.java:1617)
+	at android.support.v4.app.FragmentManagerImpl$1.run(FragmentManager.java:517)
+	at android.os.Handler.handleCallback(Handler.java:739)
+	at android.os.Handler.dispatchMessage(Handler.java:95)
+	at android.os.Looper.loop(Looper.java:148)
+	at android.app.ActivityThread.main(ActivityThread.java:5417)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:726)
+	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:616)
+
+PHONE_MODEL = Android SDK built for x86_64
+TOTAL_MEM_SIZE = 2080194560
+USER_COMMENT = 
+PACKAGE_NAME = com.agile.science
+IS_SILENT = 
+DUMPSYS_MEMINFO = Permission Denial: can't dump meminfo from from pid=10547, uid=10059 without permission android.permission.DUMP
+INITIAL_CONFIGURATION = compatScreenHeightDp=504
+compatScreenWidthDp=320
+compatSmallestScreenWidthDp=320
+densityDpi=480
+fontScale=1.0
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_YES
+keyboard=KEYBOARD_NOKEYS
+keyboardHidden=KEYBOARDHIDDEN_NO
+locale=en_US
+mcc=310
+mnc=260
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=568
+screenLayout=SCREENLAYOUT_SIZE_NORMAL+SCREENLAYOUT_LONG_NO+SCREENLAYOUT_LAYOUTDIR_LTR+SCREENLAYOUT_ROUND_NO
+screenWidthDp=360
+seq=5
+smallestScreenWidthDp=360
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=false
+
+BUILD_CONFIG = $change=
+APPLICATION_ID=com.agile.science
+BUILD_TYPE=debug
+DEBUG=true
+FLAVOR=
+VERSION_CODE=1
+VERSION_NAME=2.0.0
+
+PRODUCT = sdk_google_phone_x86_64
+DISPLAY = 0.currentSizeRange.smallest=[1080,1008]
+0.currentSizeRange.largest=[1794,1704]
+0.flags=FLAG_SUPPORTS_PROTECTED_BUFFERS+FLAG_SECURE
+0.height=1776
+0.metrics.density=3.0
+0.metrics.densityDpi=480
+0.metrics.scaledDensity=x3.0
+0.metrics.widthPixels=1080
+0.metrics.heightPixels=1776
+0.metrics.xdpi=480.0
+0.metrics.ydpi=480.0
+0.name=Built-in Screen
+0.orientation=0
+0.pixelFormat=1
+0.realMetrics.density=3.0
+0.realMetrics.densityDpi=480
+0.realMetrics.scaledDensity=x3.0
+0.realMetrics.widthPixels=1080
+0.realMetrics.heightPixels=1920
+0.realMetrics.xdpi=480.0
+0.realMetrics.ydpi=480.0
+0.realSize=[1080,1920]
+0.rectSize=[0,0,1080,1776]
+0.refreshRate=60.000004
+0.rotation=ROTATION_0
+0.size=[1080,1776]
+0.width=1080
+0.isValid=true
+
+REPORT_ID = 0f981992-c509-4df6-864c-64900bb8acd5
+APP_VERSION_NAME = 2.0.0
+CRASH_CONFIGURATION = compatScreenHeightDp=504
+compatScreenWidthDp=320
+compatSmallestScreenWidthDp=320
+densityDpi=480
+fontScale=1.0
+hardKeyboardHidden=HARDKEYBOARDHIDDEN_YES
+keyboard=KEYBOARD_NOKEYS
+keyboardHidden=KEYBOARDHIDDEN_NO
+locale=en_US
+mcc=310
+mnc=260
+navigation=NAVIGATION_NONAV
+navigationHidden=NAVIGATIONHIDDEN_YES
+orientation=ORIENTATION_PORTRAIT
+screenHeightDp=568
+screenLayout=SCREENLAYOUT_SIZE_NORMAL+SCREENLAYOUT_LONG_NO+SCREENLAYOUT_LAYOUTDIR_LTR+SCREENLAYOUT_ROUND_NO
+screenWidthDp=360
+seq=5
+smallestScreenWidthDp=360
+touchscreen=TOUCHSCREEN_FINGER
+uiMode=UI_MODE_TYPE_NORMAL+UI_MODE_NIGHT_NO
+userSetLocale=false
+
+BUILD = BOARD=unknown
+BOOTLOADER=unknown
+BRAND=Android
+CPU_ABI=x86_64
+CPU_ABI2=
+DEVICE=generic_x86_64
+DISPLAY=sdk_google_phone_x86_64-userdebug 6.0 MASTER 3079352 test-keys
+FINGERPRINT=Android/sdk_google_phone_x86_64/generic_x86_64:6.0/MASTER/3079352:userdebug/test-keys
+HARDWARE=ranchu
+HOST=vpba14.mtv.corp.google.com
+ID=MASTER
+IS_DEBUGGABLE=true
+MANUFACTURER=unknown
+MODEL=Android SDK built for x86_64
+PRODUCT=sdk_google_phone_x86_64
+RADIO=unknown
+SERIAL=unknown
+SUPPORTED_32_BIT_ABIS=[x86]
+SUPPORTED_64_BIT_ABIS=[x86_64]
+SUPPORTED_ABIS=[x86_64, x86]
+TAGS=test-keys
+TIME=1469048534000
+TYPE=userdebug
+UNKNOWN=unknown
+USER=android-build
+VERSION.ACTIVE_CODENAMES=[]
+VERSION.BASE_OS=
+VERSION.CODENAME=REL
+VERSION.INCREMENTAL=3079352
+VERSION.PREVIEW_SDK_INT=0
+VERSION.RELEASE=6.0
+VERSION.RESOURCES_SDK_INT=23
+VERSION.SDK=23
+VERSION.SDK_INT=23
+VERSION.SECURITY_PATCH=2015-10-01
+
+ENVIRONMENT = getDataDirectory=/data
+getDownloadCacheDirectory=/cache
+getExternalStorageDirectory=/storage/emulated/0
+getExternalStorageState=mounted
+getLegacyExternalStorageDirectory=/sdcard
+getLegacyExternalStorageObbDirectory=/sdcard/Android/obb
+getOemDirectory=/oem
+getRootDirectory=/system
+getSecureDataDirectory=/data
+getStorageDirectory=/storage
+getSystemSecureDirectory=/data/system
+getVendorDirectory=/vendor
+isEncryptedFilesystemEnabled=false
+isExternalStorageEmulated=true
+isExternalStorageRemovable=false
+
+ANDROID_VERSION = 6.0
+USER_EMAIL = N/A
+USER_APP_START_DATE = 2016-09-22T17:20:06.520+02:00
